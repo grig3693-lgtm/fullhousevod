@@ -1,0 +1,75 @@
+﻿#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15658/thumbnail.jpg?etag=50c70ed06d7949f79d81001fae0b54f9_kwpV1j2dDT_1698387724871" group-title="Սուրբը", Սուրբը - Սերիա 1
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15658/v5/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15659/thumbnail.jpg?etag=575e7aa6ef2205171d3b0ce79d1badfa_Le0vZ6QfIj_1698389237989" group-title="Սուրբը", Սուրբը - Սերիա 2
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15659/v5/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15674/thumbnail.jpg?etag=2c4d6901f29bcdebb4b9dbfe6dafc502_YW2UP5Wyrr_1698857534709" group-title="Սուրբը", Սուրբը - Սերիա 3
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15674/v3/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15675/thumbnail.jpg?etag=383229b65bd266040eb64e45adde6764_AwtUQN6lLt_1698919744021" group-title="Սուրբը", Սուրբը - Սերիա 4
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15675/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15694/thumbnail.jpg?etag=77948cd2378eff95ba1b4700b1bb0f48_CUAqpgqroj_1699515163081" group-title="Սուրբը", Սուրբը - Սերիա 5
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15694/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15696/thumbnail.jpg?etag=7fd8bee1091e3c685999444c8f48c22c_WMhFsQKEV8_1699532536925" group-title="Սուրբը", Սուրբը - Սերիա 6
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15696/v3/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15705/thumbnail.jpg?etag=6781ae06722663387d08a6015348b802_m7kh5vz0df_1699952923553" group-title="Սուրբը", Սուրբը - Սերիա 7
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15705/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15706/thumbnail.jpg?etag=699c5ce95d215854c5aec9d510e51713_LSVcpvtW57_1699952935727" group-title="Սուրբը", Սուրբը - Սերիա 8
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15706/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15749/thumbnail.jpg?etag=d2c896f3fff4a777da84656a83da0c4b_X2X8bdqd2J_1700751185590" group-title="Սուրբը", Սուրբը - Սերիա 9
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15749/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15751/thumbnail.jpg?etag=0031d50c347d16f0172151e6de89793d_FBZP5apVOt_1700902650458" group-title="Սուրբը", Սուրբը - Սերիա 10
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15751/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15783/thumbnail.jpg?etag=12cd779e72b15188d2a17bbbf8a358f6_GvrUx5Ng7P_1701324104053" group-title="Սուրբը", Սուրբը - Սերիա 11
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15783/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15784/thumbnail.jpg?etag=d14713caa410935987d3ebadb71e8fba_WI5dtVNXkw_1701324110701" group-title="Սուրբը", Սուրբը - Սերիա 12
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15784/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15798/thumbnail.jpg?etag=07b6a38c7530e4de9d534146bf08f09f_La8JLFzJ6Z_1701587252272" group-title="Սուրբը", Սուրբը - Սերիա 13
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15798/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15799/thumbnail.jpg?etag=5bdafa0c57b28cad7a4f3196b3aefb15_R4qHuOjVg8_1701587260724" group-title="Սուրբը", Սուրբը - Սերիա 14
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15799/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15833/thumbnail.jpg?etag=3310d2e431f10273a968038a7f2f9ad3_bQtdkr6mo0_1702466291097" group-title="Սուրբը", Սուրբը - Սերիա 15
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15833/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15834/thumbnail.jpg?etag=fe90847004d9b7f576fd2317c8e6c18f_3lGX6F38t7_1702466300714" group-title="Սուրբը", Սուրբը - Սերիա 16
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15834/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15845/thumbnail.jpg?etag=08a1e110dbc69c06fac595e4456338f4_WJTiP7F00h_1702882780220" group-title="Սուրբը", Սուրբը - Սերիա 17
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15845/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15846/thumbnail.jpg?etag=72553ba3e02f6ba1a6de59b6d9b6ab1b_KLBkINBrWk_1703397635392" group-title="Սուրբը", Սուրբը - Սերիա 18
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15846/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15858/thumbnail.jpg?etag=c21ad3668d60bc6f7fcda26c3790ed6a_kbL5V5D03c_1703765843947" group-title="Սուրբը", Սուրբը - Սերիա 19
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15858/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15859/thumbnail.jpg?etag=3e9c6225702bb2aa85f916d7bb7a9c84_a41bj9G0dE_1703765852429" group-title="Սուրբը", Սուրբը - Սերիա 20
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15859/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15870/thumbnail.jpg?etag=2c46f241cb2d8886875a386653e643d2_CrbXzeENh1_1704393847960" group-title="Սուրբը", Սուրբը - Սերիա 21
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15870/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15869/thumbnail.jpg?etag=d923f0ab377f9ab6016c07ac630a1511_kUY9OsnlPY_1704431877238" group-title="Սուրբը", Սուրբը - Սերիա 22
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15869/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15885/thumbnail.jpg?etag=ba3ddad93b56bb4f27afd16148fc43a8_S4hGROTrgP_1704875795548" group-title="Սուրբը", Սուրբը - Սերիա 23
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15885/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15886/thumbnail.jpg?etag=e75d9a36aebbd04a90ced4a090dfc9c6_iaCxwCpODt_1704875800357" group-title="Սուրբը", Սուրբը - Սերիա 24
+https://cdn.kinodaran.com/MEDIA/1/TV_SHOW/819/15886/v2/STREAM/DASH/playlist.mpd
+
