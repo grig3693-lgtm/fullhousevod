@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/thumbnail_DETAIL_MOBILE.jpg?etag=803236cf80bb1c1d123c12773b2396ba_berjVbUa58_1773911612724" group-title="Õ–Õ«Õ¬Õ´Õ¥Ö€", Փակ փողոց
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/16665/STREAM/DASH/playlist.mpd
+
