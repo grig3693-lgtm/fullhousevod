@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1168/thumbnail.jpg" group-title="Ֆիլմեր", Ֆուլ հաուս: Վայրէջք
+#EXTCBC:drm-type=widevine&drm-key=bb36005e3ffe41fda5df192639764165:95eb6cd1937647e5eb901ebad2cf449ef&http-user-agent=Uplay/%20Android/30
+https://mfe01.tv.ucom.am/vod/change_1_24/playlist.mpd
