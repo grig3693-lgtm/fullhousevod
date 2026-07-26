@@ -16,7 +16,7 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/175/10896/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/thumbnail_THUMBNAIL.jpg" group-title="Անսպասելի շրջադարձ", Անսպասելի շրջադարձ
 https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/16110/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/thumbnail_THUMBNAIL.jpg" group-title="Անունս Վիոլա է", Անունս Վիոլա է
-https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/11362/STREAM/HLS/playlist.m3u8
+https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/11362/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/thumbnail_THUMBNAIL.jpg" group-title="Ապրիր ինձ հետ", Ապրիր ինձ հետ
 https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/13603/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/thumbnail_THUMBNAIL.jpg" group-title="Արև, սարեր ու սեր", Արև, սարեր ու սեր
@@ -126,7 +126,7 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/421/10848/STREAM/DASH/playlist.mpd
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/thumbnail_THUMBNAIL.jpg" group-title="Քայլ ձիով", Քայլ ձիով
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/10846/STREAM/DASH/playlist.mpd
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/thumbnail_THUMBNAIL.jpg" group-title="Քեզ հաղթանակ կնվիրեմ", Քեզ հաղթանակ կնվիրեմ
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/STREAM/HLS/playlist.m3u8
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/thumbnail_THUMBNAIL.jpg" group-title="Քո ներսի գազանը", Քո ներսի գազանը
 https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/15741/v1/STREAM/DASH/playlist.mpd
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/995/thumbnail_THUMBNAIL.jpg?etag=83965a17ed698ae00a259ff7b9a5c483_GYB9HmH6N9_1660763759764" group-title="Ռոզալի", Ռոզալի
