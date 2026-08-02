@@ -1,19 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/4d/38/4d3872d5bcdbef4e4ad36976e16218a1.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 7
+https://river-1.rutube.ru/hls-vod/Q_bhblR2_vVHk3cI8lo53Q/1786255006/2610/0x5000039ce868e59d/3a14c6bb932442808ce7717ee4b239ca.mp4.m3u8?i=1920x1080_4303
+
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/f3/9c/f39c504ce12bec72f911bedb6e63ac07.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 8
+https://river-1.rutube.ru/hls-vod/MNnywwqPhu5SdttYsSFEeA/1786255013/2596/0x5000039ce83bf8b5/3b656cfe4c5c41e0baedf848f38d20ec.mp4.m3u8?i=1920x1080_3609
+
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/43/cb/43cbcddf55ae6aadf1f9f1eab9cf3bf6.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 9
+https://river-1.rutube.ru/hls-vod/L4IKQqnVu11b2lt99AmPKQ/1786255020/3492/0x5000c500fadfd4a4/6a97f6e7162149748daea7c2b632286b.mp4.m3u8?i=1920x1080_3310
+
+#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/89/0b/890bd56632c39c34dde65c7431c4893a.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 10
+https://cdn.z-s.workers.dev/f7eb71b7-9b4f-4f6c-acde-06777f7567ba
+
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/2f/ec/2fece734363d4310e77048053311a84a.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 11
-https://river-1.rutube.ru/hls-vod/9nR8AaIU7uVa2fDkY7S52Q/1786194198/3552/0x5000c500fae14167/0d0e1ae9e7a44e11af7b80b2bf06e088.mp4.m3u8?i=1920x1080_3314
+https://river-1.rutube.ru/hls-vod/_Cf-tvr3HBEM8YLCTm_mnw/1786255033/3552/0x5000c500fae14167/0d0e1ae9e7a44e11af7b80b2bf06e088.mp4.m3u8?i=1920x1080_3314
 
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/33/93/3393a0e7f33b6a60a904c1e5062e0797.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 12
-https://river-1.rutube.ru/hls-vod/v72LEzefLiKUtKZM08VQGQ/1786194205/2618/0x5000039ce868ecb5/60f45bf5eb1c4a31b9f1d11612a0f222.mp4.m3u8?i=1920x1080_3156
+https://river-1.rutube.ru/hls-vod/3_4LX15_0JNb2-yZZOVFMw/1786255040/2618/0x5000039ce868ecb5/60f45bf5eb1c4a31b9f1d11612a0f222.mp4.m3u8?i=1920x1080_3156
 
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/30/1a/301ada6702840f344f0ca12399f80fdd.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 13
-https://river-1.rutube.ru/hls-vod/DC3pw0aVUTNuKuY4vF5JWw/1786194212/3586/0x5000c500fad7d445/ee52728a6a504d3597e3e1862a27ac75.mp4.m3u8?i=1920x1080_3216
+https://river-1.rutube.ru/hls-vod/GannAiCohX_UC2NTtX_smw/1786255046/3586/0x5000c500fad7d445/ee52728a6a504d3597e3e1862a27ac75.mp4.m3u8?i=1920x1080_3216
 
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/24/19/2419d68a7e177981ba4b001bf96f8656.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 14
-https://river-1.rutube.ru/hls-vod/0iIBL6rQimo6sFp_khEGZw/1786194218/3548/0x5000c500fae0aa5b/bc35dffeb15e42fe805949bd0bb39293.mp4.m3u8?i=1920x1080_2932
+https://river-1.rutube.ru/hls-vod/WIwGTgbgm0WrvcHiBa-MNg/1786255053/3548/0x5000c500fae0aa5b/bc35dffeb15e42fe805949bd0bb39293.mp4.m3u8?i=1920x1080_2932
 
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/a2/c8/a2c87578d1360c68f1e1b5f7bc04f38d.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 15
-https://river-1.rutube.ru/hls-vod/Z1cd94mDTmcpbxuCWbQU9w/1786194225/3542/0x5000c500faed27c9/83d7acb02f4c451781cd17d11751ca5d.mp4.m3u8?i=1920x1080_3411
+https://river-1.rutube.ru/hls-vod/Ksa0_eMWf4emCuFInbwDig/1786255060/3542/0x5000c500faed27c9/83d7acb02f4c451781cd17d11751ca5d.mp4.m3u8?i=1920x1080_3411
 
 #EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/ff/9a/ff9a3ad772de83d8a142d75be7fd3593.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 16
-https://river-1.rutube.ru/hls-vod/pHb1VGSPAfMxjv9__y3CiA/1786194231/3544/0x5000c500fad902db/260ea291346740d398be66ecf9f46f36.mp4.m3u8?i=1920x1080_3142
+https://river-1.rutube.ru/hls-vod/_yGcrqvh3NcUcBcrz0sdxA/1786255067/3544/0x5000c500fad902db/260ea291346740d398be66ecf9f46f36.mp4.m3u8?i=1920x1080_3142
