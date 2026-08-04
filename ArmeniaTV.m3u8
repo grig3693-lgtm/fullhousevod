@@ -1,37 +1,107 @@
 #EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/4d/38/4d3872d5bcdbef4e4ad36976e16218a1.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 7
-https://river-1.rutube.ru/hls-vod/Q_bhblR2_vVHk3cI8lo53Q/1786255006/2610/0x5000039ce868e59d/3a14c6bb932442808ce7717ee4b239ca.mp4.m3u8?i=1920x1080_4303
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/f3/9c/f39c504ce12bec72f911bedb6e63ac07.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 8
-https://river-1.rutube.ru/hls-vod/MNnywwqPhu5SdttYsSFEeA/1786255013/2596/0x5000039ce83bf8b5/3b656cfe4c5c41e0baedf848f38d20ec.mp4.m3u8?i=1920x1080_3609
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/43/cb/43cbcddf55ae6aadf1f9f1eab9cf3bf6.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 9
-https://river-1.rutube.ru/hls-vod/L4IKQqnVu11b2lt99AmPKQ/1786255020/3492/0x5000c500fadfd4a4/6a97f6e7162149748daea7c2b632286b.mp4.m3u8?i=1920x1080_3310
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/89/0b/890bd56632c39c34dde65c7431c4893a.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 10
-https://1a-1791.com/video/fwe2/b9/s8/2/S/f/J/L/SfJLA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=649078272-649090882
-
-#EXTINF:-1 tvg-logo="" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 100
-https://rumble.com/hls-vod/SklIzO09_oY/playlist.m3u8?u=3&b=0
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/2f/ec/2fece734363d4310e77048053311a84a.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 11
-https://river-1.rutube.ru/hls-vod/_Cf-tvr3HBEM8YLCTm_mnw/1786255033/3552/0x5000c500fae14167/0d0e1ae9e7a44e11af7b80b2bf06e088.mp4.m3u8?i=1920x1080_3314
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/33/93/3393a0e7f33b6a60a904c1e5062e0797.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 12
-https://river-1.rutube.ru/hls-vod/3_4LX15_0JNb2-yZZOVFMw/1786255040/2618/0x5000039ce868ecb5/60f45bf5eb1c4a31b9f1d11612a0f222.mp4.m3u8?i=1920x1080_3156
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/30/1a/301ada6702840f344f0ca12399f80fdd.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 13
-https://river-1.rutube.ru/hls-vod/GannAiCohX_UC2NTtX_smw/1786255046/3586/0x5000c500fad7d445/ee52728a6a504d3597e3e1862a27ac75.mp4.m3u8?i=1920x1080_3216
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/24/19/2419d68a7e177981ba4b001bf96f8656.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 14
-https://river-1.rutube.ru/hls-vod/WIwGTgbgm0WrvcHiBa-MNg/1786255053/3548/0x5000c500fae0aa5b/bc35dffeb15e42fe805949bd0bb39293.mp4.m3u8?i=1920x1080_2932
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/a2/c8/a2c87578d1360c68f1e1b5f7bc04f38d.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 15
-https://river-1.rutube.ru/hls-vod/Ksa0_eMWf4emCuFInbwDig/1786255060/3542/0x5000c500faed27c9/83d7acb02f4c451781cd17d11751ca5d.mp4.m3u8?i=1920x1080_3411
-
-#EXTINF:-1 tvg-logo="https://pic.rtbcdn.ru/video/2026-08-01/ff/9a/ff9a3ad772de83d8a142d75be7fd3593.jpg" group-title="Սյուպրիզ 2", Սյուպրիզ 2 - Սերիա 16
-https://river-1.rutube.ru/hls-vod/_yGcrqvh3NcUcBcrz0sdxA/1786255067/3544/0x5000c500fad902db/260ea291346740d398be66ecf9f46f36.mp4.m3u8?i=1920x1080_3142
-
-#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/aa/s8/6/G/z/1/L/Gz1LA.0kob.jpg" group-title="Սյուպրիզ 2", Քավարան - Սերիա 1
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/aa/s8/6/G/z/1/L/Gz1LA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 1
 https://rumble.com/hls-vod/_Jne-IRRBDo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/b5/s8/6/u/i/g/M/uigMA.OvCc.jpg" group-title="Քավարան", Քավարան - Սերիա 2
+https://rumble.com/hls-vod/QUlMOvGoEGc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/42/s8/6/m/v/g/M/mvgMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 3
+https://rumble.com/hls-vod/g7Zw6KZC6O4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/62/s8/6/0/K/g/M/0KgMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 4
+https://rumble.com/hls-vod/mgVIZg0rhNE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/43/s8/6/s/Z/g/M/sZgMA.0kob.1.jpg" group-title="Քավարան", Քավարան - Սերիա 5
+https://rumble.com/hls-vod/G7msWCSIFns/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/ff/s8/6/q/c/h/M/qchMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 6
+https://rumble.com/hls-vod/wqxQ4AkQ66U/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/9a/s8/6/U/w/h/M/UwhMA.OvCc.jpg" group-title="Քավարան", Քավարան - Սերիա 7
+https://rumble.com/hls-vod/18KeiiSaFHg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/22/s8/6/A/L/h/M/ALhMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 8
+https://rumble.com/hls-vod/zsayfrwQTV4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/31/s8/6/A/4/h/M/A4hMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 9
+https://rumble.com/hls-vod/FkbIpnH2LZI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/35/s8/6/K/j/i/M/KjiMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 10
+https://rumble.com/hls-vod/WUG4PlBjWBA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/6e/s8/6/8/D/i/M/8DiMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 11
+https://rumble.com/hls-vod/OfJdu2c6BfU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/86/s8/6/C/X/i/M/CXiMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 12
+https://rumble.com/hls-vod/17TrH6KDAfA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/32/s8/6/U/-/i/M/U-iMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 13
+https://rumble.com/hls-vod/dbE1Vty9SVA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/21/s8/6/0/q/j/M/0qjMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 14
+https://rumble.com/hls-vod/Hu3KlMchz3Q/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/43/s8/6/e/F/j/M/eFjMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 15
+https://rumble.com/hls-vod/PPhUhSK7n70/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/ca/s8/6/g/Y/j/M/gYjMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 16
+https://rumble.com/hls-vod/wGxTqBz67xk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/21/s8/6/e/B/l/M/eBlMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 17
+https://rumble.com/hls-vod/nD9iIylQzXw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/ba/s8/6/S/b/m/M/SbmMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 18
+https://rumble.com/hls-vod/PAh1cZsJEVk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/2b/s8/6/2/B/m/M/2BmMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 19
+https://rumble.com/hls-vod/meokRIrjbmg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/bc/s8/6/Q/2/m/M/Q2mMA.0kob.jpg" group-title="Քավարան", Քավարան - Սերիա 20
+https://rumble.com/hls-vod/3L_KZf91dFY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/a5/s8/6/-/Z/x/M/-ZxMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 1
+https://rumble.com/hls-vod/LxQTbbYSHZQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/59/s8/6/s/3/x/M/s3xMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 2
+https://rumble.com/hls-vod/2dc6lQIvoJI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/df/s8/6/W/7/x/M/W7xMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 3
+https://rumble.com/hls-vod/9mvbJu_UxnI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/3b/s8/6/k/a/y/M/kayMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 4
+https://rumble.com/hls-vod/OHeOdIHvAWo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/6b/s8/6/w/c/y/M/wcyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 5
+https://rumble.com/hls-vod/n3MoL6RjMyw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/91/s8/6/o/f/y/M/ofyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 6
+https://rumble.com/hls-vod/0yZqrKvjYeg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/c1/s8/6/6/h/y/M/6hyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 7
+https://rumble.com/hls-vod/UzzWx8xMPnA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/a6/s8/6/M/m/y/M/MmyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 8
+https://rumble.com/hls-vod/ZlFIjt4-_yQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/5c/s8/6/2/o/y/M/2oyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 9
+https://rumble.com/hls-vod/qEKaDodmVhs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/5c/s8/6/i/r/y/M/iryMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 10
+https://rumble.com/hls-vod/oCdbuPZEvw4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/e6/s8/6/-/s/y/M/-syMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 11
+https://rumble.com/hls-vod/IfQxjaJ0adA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/32/s8/6/e/v/y/M/evyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 12
+https://rumble.com/hls-vod/ENmUiY1hrLU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/78/s8/6/0/x/y/M/0xyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 13
+https://rumble.com/hls-vod/BLYw2pBkJUU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/fd/s8/6/2/A/y/M/2AyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 14
+https://rumble.com/hls-vod/IW4KVUsRnak/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/40/s8/6/c/H/y/M/cHyMA.0kob.jpg" group-title="Ֆուլ հաուս 1", Ֆուլ հաուս 1 - Սերիա 15
+https://rumble.com/hls-vod/kfxiVwxv57Y/playlist.m3u8
