@@ -1,6 +1,54 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/f9/s8/6/W/C/f/N/WCfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 1
+https://rumble.com/hls-vod/dA9Yu7DaEzo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/c0/s8/6/6/B/f/N/6BfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 2
+https://rumble.com/hls-vod/hp5Y3tg4hNs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/c2/s8/6/s/C/f/N/sCfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 3
+https://rumble.com/hls-vod/pQTV8NN30aY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/55/s8/6/o/C/f/N/oCfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 4
+https://rumble.com/hls-vod/6D_C1iC7CBo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/6e/s8/6/A/C/f/N/ACfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 5
+https://rumble.com/hls-vod/PUjSd81z8Yo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/a1/s8/6/q/C/f/N/qCfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 6
+https://rumble.com/hls-vod/nXtNDHX3hvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/4d/s8/6/k/C/f/N/kCfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 7
+https://rumble.com/hls-vod/9Yr6pMXJffg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/b9/s8/6/s/B/f/N/sBfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 8
+https://rumble.com/hls-vod/MXEwXpeK0bc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/07/s8/6/4/3/f/N/43fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 9
+https://rumble.com/hls-vod/4FasqijEawY/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/4a/s8/6/6/2/f/N/62fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 10
+https://rumble.com/hls-vod/VD6jwd_nzhE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/7b/s8/6/8/3/f/N/83fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 11
+https://rumble.com/hls-vod/UHFrzDPYf5M/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/6e/s8/6/W/3/f/N/W3fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 12
+https://rumble.com/hls-vod/J_utYizTbMo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fww1/93/s8/6/s/3/f/N/s3fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 13
+https://rumble.com/hls-vod/hndOIW3g17s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/3f/s8/6/q/4/f/N/q4fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 14
+https://rumble.com/hls-vod/-vRtxajQ-Vk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/44/s8/6/i/4/f/N/i4fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 15
+https://rumble.com/hls-vod/2e2Vjy_vNg8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/17/s8/6/u/4/f/N/u4fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 16
+https://rumble.com/hls-vod/QVZhmxzEUNY/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://1a-1791.com/video/fwe2/42/s8/6/s/q/U/M/sqUMA.0kob.jpg" group-title="Ժառանգ80", Ժառանգ80 - Սերիա 1
 https://rumble.com/hls-vod/ADtSotso3mg/playlist.m3u8
 
