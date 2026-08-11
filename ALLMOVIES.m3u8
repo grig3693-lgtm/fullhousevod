@@ -53,9 +53,9 @@ https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/11464/v1/STREAM/DASH/playlist.mpd
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/11192/v1/STREAM/DASH/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/7/thumbnail_THUMBNAIL.jpg", Ես եմ
-https://cdn.kinodaran.com/MEDIA/1/MOVIE/7/10544/STREAM/HLS/playlist.m3u28
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/7/10544/STREAM/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/thumbnail_TH2UMBNAIL.jpg", Երազանքի ճանապարհին
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/thumbnail_THUMBNAIL.jpg", Երազանքի ճանապարհին
 https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/15466/v1/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/thumbnail_THUMBNAIL.jpg", Երևան ջան
@@ -240,3 +240,9 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/v1/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/thumbnail_THUMBNAIL.jpg", Քո ներսի գազանը
 https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/15741/v1/STREAM/DASH/playlist.mpd
+
+
+
+
+
+
