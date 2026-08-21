@@ -130,7 +130,10 @@ https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Hyusis_Harav.mp4/index.m3u8?toke
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/17/MOVIE/593/thumbnail_THUMBNAIL.jpg", Հոբելյանական հաճախորդ
 https://cdn.kinodaran.com/MEDIA/17/MOVIE/593/11346/STREAM/HLS/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/thumbnail_THUMBNAIL.jpg?etag=4dbaa412140b0a06e54f65deddcc41be_6p3267iusm_1608723747425", Ձյունանուշ
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/18/MOVIE/1094/thumbnail_THUMBNAIL.jpg", Ձմեռվա երգ
+https://rumble.com/hls-vod/FZbHbGCZfz0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/thumbnail_THUMBNAIL.jpg", Ձյունանուշ
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/7465/v1/STREAM/DASH/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/20/MOVIE/597/thumbnail_THUMBNAIL.jpg", Ճամբարում
@@ -210,6 +213,9 @@ https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Siro_Gorcakic.mp4/index.m3u8?tok
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/425/thumbnail_THUMBNAIL.jpg", Սիրո կամուրջ
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/425/10875/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1038/thumbnail_THUMBNAIL.jpg", Սխալ կինո
+https://rumble.com/hls-vod/U6r9a2pbboM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/49/thumbnail_THUMBNAIL.jpg", Սպանել 15 րոպեում 
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/49/11377/STREAM/HLS/playlist.m3u8
