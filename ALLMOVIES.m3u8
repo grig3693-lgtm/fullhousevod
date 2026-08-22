@@ -282,3 +282,6 @@ https://rumble.com/hls-vod/iOOY1lI-dXU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/48/MOVIE/1168/thumbnail_THUMBNAIL.jpg", Ֆուլ հաուս։ Վայրէջք
 https://rumble.com/hls-vod/Xkz_f0vXac8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouseshow.png", Ֆուլ Հաուս շոու-ներկայացում
+https://rumble.com/hls-vod/ipMKK_nVlhk/playlist.m3u8
