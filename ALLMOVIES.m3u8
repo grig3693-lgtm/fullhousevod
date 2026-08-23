@@ -19,6 +19,9 @@ https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Anhayt_Bajanord.mp4/index.m3u8?t
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/175/thumbnail_THUMBNAIL.jpg", Անմեղ մեղավորները
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/175/10896/STREAM/HLS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/704/thumbnail_THUMBNAIL.jpg", Անմոռանալի օր
+https://rumble.com/hls-vod/GboLeVt7lIE/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/thumbnail_THUMBNAIL.jpg", Անսպասելի շրջադարձ
 https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/16110/STREAM/HLS/playlist.m3u8
 
@@ -75,6 +78,9 @@ https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/15466/v1/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/thumbnail_THUMBNAIL.jpg", Երևան ջան
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/11351/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/548/thumbnail_THUMBNAIL.jpg", Զգուշացե՛ք, կանայք են
+https://rumble.com/hls-vod/rauC2Q4_KSI/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1098/thumbnail_THUMBNAIL.jpg", Թանկարժեք տղաները
 https://rumble.com/hls-vod/gfMqm_jGfGQ/playlist.m3u8
@@ -244,6 +250,9 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/578/11233/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/vaymamajan.jpg", Վայ մամա ջան
 https://rumble.com/hls-vod/qpBSCTlth1o/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/787/thumbnail_THUMBNAIL.jpg", Վայրենի տատին կամ փոքրիկ զորավարը 2
+https://rumble.com/hls-vod/ZYZl5qn9Pk0/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/208/thumbnail_THUMBNAIL.jpg", Վանա ծովուն արշալույսը
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/208/9878/STREAM/HLS/playlist.m3u8
 
@@ -267,6 +276,9 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/16665/STREAM/DASH/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/420/thumbnail_THUMBNAIL.jpg", Փեսացուն կրկեսից
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/420/10851/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/426/thumbnail_THUMBNAIL.jpg", Փոքրիկ զորավարը 
+https://rumble.com/hls-vod/jLUS9GJPNsE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/thumbnail_THUMBNAIL.jpg", Քայլ ձիով
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/10846/STREAM/DASH/playlist.mpd
