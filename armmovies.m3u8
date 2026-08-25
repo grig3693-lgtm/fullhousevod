@@ -1,109 +1,302 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/alabalanica.jpg" group-title="Ալաբալանիցա 1", Ալաբալանիցա 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/alabalanica.jpg", Ալաբալանիցա 1
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Alabalanica_1.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/alabalanica.jpg" group-title="Ալաբալանիցա 2", Ալաբալանիցա 2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/alabalanica.jpg", Ալաբալանիցա 2
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Alabalanica_2.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/125/thumbnail_THUMBNAIL.jpg?etag=02b27be85352e262aefce309c24f2507" group-title="Անահիտ", Անահիտ
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/125/thumbnail_THUMBNAIL.jpg?etag=02b27be85352e262aefce309c24f2507", Անահիտ
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/125/10383/v2/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/410/thumbnail_THUMBNAIL.jpg" group-title="Անավարտ թռիչք", Անավարտ թռիչք
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/410/thumbnail_THUMBNAIL.jpg", Անավարտ թռիչք
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/410/10873/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/2/MOVIE/621/thumbnail_THUMBNAIL.jpg" group-title="Անհայտ բաժանորդ", Անհայտ բաժանորդ
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/2/MOVIE/621/thumbnail_THUMBNAIL.jpg", Անհայտ բաժանորդ
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Anhayt_Bajanord.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/thumbnail_THUMBNAIL.jpg" group-title="Արև, սարեր ու սեր", Արև, սարեր ու սեր
-https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/11187/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/411/thumbnail_THUMBNAIL.jpg" group-title="Արմատներ", Արմատներ
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/175/thumbnail_THUMBNAIL.jpg", Անմեղ մեղավորները
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/175/10896/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/704/thumbnail_THUMBNAIL.jpg", Անմոռանալի օր
+https://rumble.com/hls-vod/GboLeVt7lIE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/thumbnail_THUMBNAIL.jpg", Անսպասելի շրջադարձ
+https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/16110/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/thumbnail_THUMBNAIL.jpg", Անունս Վիոլա է
+https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/11362/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/thumbnail_THUMBNAIL.jpg", Ապրիր ինձ հետ
+https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/13603/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/411/thumbnail_THUMBNAIL.jpg", Արմատներ
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/411/10874/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1097/thumbnail_THUMBNAIL.jpg" group-title="Բեմ", Բեմ
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/9/MOVIE/563/thumbnail_THUMBNAIL.jpg", Արթնացիր
+https://cdn.kinodaran.com/MEDIA/9/MOVIE/563/11183/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/thumbnail_THUMBNAIL.jpg", Արև սարեր ու սեր
+https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/11187/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1096/thumbnail_THUMBNAIL.jpg", Բախտի տերը
+https://rumble.com/hls-vod/ucFUk7J6M2E/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/44/MOVIE/1043/thumbnail_THUMBNAIL.jpg", Բարի օր
+https://rumble.com/hls-vod/F-SiMKfq9KE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/44/MOVIE/1081/thumbnail_THUMBNAIL.jpg", Բարի օր 2
+https://rumble.com/hls-vod/aalecpmU-ec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1097/thumbnail_THUMBNAIL.jpg", Բեմ
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1097/16661/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/20/MOVIE/597/thumbnail_THUMBNAIL.jpg" group-title="Ճամբարում", Ճամբարում
-https://cdn.kinodaran.com/MEDIA/20/MOVIE/597/11359/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/thumbnail_THUMBNAIL.jpg?etag=83965a17ed698ae00a259ff7b9a5c483_GYB9HmH6N9_1660763759764" group-title="Դե, տժժա՛", Դե, տժժա՛
-https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/11464/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/thumbnail_THUMBNAIL.jpg?etag=4dbaa412140b0a06e54f65deddcc41be_6p3267iusm_1608723747425" group-title="Ձյունանուշ", Ձյունանուշ
-https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/7465/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/thumbnail_THUMBNAIL.jpg" group-title="Երևան ջան", Երևան ջան
-https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/11351/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/thumbnail_THUMBNAIL.jpg" group-title="Եթե բոլորը", Եթե բոլորը
-https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/11192/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/garuna.jpg" group-title="Գարուն ա", Գարուն ա
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/garuna.jpg", Գարուն ա
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Garun_a.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/645/thumbnail_THUMBNAIL.jpg" group-title="Գործակալ 044։ Օպերացիա Գեղարդ", Գործակալ 044։ Օպերացիա Գեղարդ
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/645/thumbnail_THUMBNAIL.jpg", Գործակալ 044։ Օպերացիա Գեղարդ
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Gortsakal_044_Operatsia_Geghard.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1099/thumbnail_THUMBNAIL.jpg" group-title="Հանի-մանի", Հանի-մանի
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/1099/16653/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/2/MOVIE/407/thumbnail_THUMBNAIL.jpg?etag=83965a17ed698ae00a259ff7b9a5c483_GYB9HmH6N9_1660763759764" group-title="Հարսանիք թիկունքում", Հարսանիք թիկունքում
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Harsaniq_Tikunqum.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/thumbnail_THUMBNAIL.jpg" group-title="Հայ հայը", Հայ հայը
-https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/15742/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/413/thumbnail_THUMBNAIL.jpg" group-title="Հյուսիս-հարավ", Հյուսիս-հարավ
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Hyusis_Harav.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/6/MOVIE/543/thumbnail_THUMBNAIL.jpg" group-title="Իշխանություն", Իշխանություն
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/820/thumbnail_THUMBNAIL.jpg", Գործակալ 044։ Օպերացիա Գառնի
+https://rumble.com/hls-vod/YCtF6eSTtjY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/thumbnail_THUMBNAIL.jpg", Դե տժժա՛
+https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/11464/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/48/MOVIE/1068/thumbnail_THUMBNAIL.jpg", Դեպի ճամբար - Հատուկ ջոկատ
+https://rumble.com/hls-vod/E3NloG0fDCo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/thumbnail_THUMBNAIL.jpg", Եթե բոլորը
+https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/11192/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/7/thumbnail_THUMBNAIL.jpg", Ես եմ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/7/10544/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/thumbnail_THUMBNAIL.jpg", Երազանքի ճանապարհին
+https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/15466/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/thumbnail_THUMBNAIL.jpg", Երևան ջան
+https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/11351/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/548/thumbnail_THUMBNAIL.jpg", Զգուշացե՛ք կանայք են
+https://rumble.com/hls-vod/rauC2Q4_KSI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1098/thumbnail_THUMBNAIL.jpg", Թանկարժեք տղաները
+https://rumble.com/hls-vod/gfMqm_jGfGQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1035/thumbnail_THUMBNAIL.jpg", Ժամանակն է
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/1035/16191/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/17/MOVIE/594/thumbnail_THUMBNAIL.jpg", Ժաննա
+https://cdn.kinodaran.com/MEDIA/17/MOVIE/594/11343/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/586/thumbnail_THUMBNAIL.jpg", Ժառանգը
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/586/11278/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/14/MOVIE/583/thumbnail_THUMBNAIL.jpg", Իմ փոքրիկ փեսացուն
+https://cdn.kinodaran.com/MEDIA/14/MOVIE/583/11242/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/6/MOVIE/543/thumbnail_THUMBNAIL.jpg", Իշխանություն
 https://cdn.kinodaran.com/MEDIA/6/MOVIE/543/10790/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/thumbnail_THUMBNAIL.jpg?etag=805bfadc26f10f2d605d02601aa2b7a6_vHA0DlNKu0_1607975748884" group-title="Կիսալուսնի ծովածոցը", Կիսալուսնի ծովածոցը
-https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/7054/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/415/thumbnail_THUMBNAIL.jpg" group-title="Կյանք ու կռիվ", Կյանք ու կռիվ
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/415/10845/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/414/thumbnail_THUMBNAIL.jpg" group-title="Կյանք ու կռիվ 2: 25 տարի անց", Կյանք ու կռիվ 2։ 25 տարի անց
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/414/10847/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1064/thumbnail_THUMBNAIL.jpg" group-title="Լորիկ", Լորիկ
-https://cdn.kinodaran.com/MEDIA/1/MOVIE/1064/16426/v2/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/6/MOVIE/542/thumbnail_THUMBNAIL.jpg" group-title="Լյուդվիգ անունով ոզնին", Լյուդվիգ անունով ոզնին
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/6/MOVIE/542/thumbnail_THUMBNAIL.jpg", Լյուդվիգ անունով ոզնին
 https://cdn.kinodaran.com/MEDIA/6/MOVIE/542/10789/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/540/thumbnail_THUMBNAIL.jpg" group-title="Մեր բակը 25 տարի անց", Մեր բակը 25 տարի անց
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/MB_25_tari_anc.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png" group-title="Մեդալի հակառակ կողմը", Մեդալի հակառակ կողմը
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/MHK_FHD24_p.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/416/thumbnail_THUMBNAIL.jpg" group-title="Մեր բակը 1", Մեր բակը 1
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1064/thumbnail_THUMBNAIL.jpg", Լորիկ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/1064/16426/v2/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/14/MOVIE/582/thumbnail_THUMBNAIL.jpg", Խաղ իմ կանոններով
+https://cdn.kinodaran.com/MEDIA/14/MOVIE/582/11241/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1059/thumbnail_THUMBNAIL.jpg", Կայֆերի աշխարհ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/1059/16386/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/415/thumbnail_THUMBNAIL.jpg", Կյանք ու կռիվ
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/415/10845/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/414/thumbnail_THUMBNAIL.jpg", Կյանք ու կռիվ 2։ 25 տարի անց
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/414/10847/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/thumbnail_THUMBNAIL.jpg?etag=805bfadc26f10f2d605d02601aa2b7a6_vHA0DlNKu0_1607975748884", Կիսալուսնի ծովածոցը
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/7054/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/11/MOVIE/817/thumbnail_THUMBNAIL.jpg", Կորած մոլորվածը Հայաստանում
+https://rumble.com/hls-vod/e-3v-QMnW7Y/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/thumbnail_THUMBNAIL.jpg", Հայ հայը
+https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/15742/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1099/thumbnail_THUMBNAIL.jpg", Հանի-մանի
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/1099/16653/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/2/MOVIE/407/thumbnail_THUMBNAIL.jpg?etag=83965a17ed698ae00a259ff7b9a5c483_GYB9HmH6N9_1660763759764", Հարսանիք թիկունքում
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Harsaniq_Tikunqum.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/37/MOVIE/1052/thumbnail_THUMBNAIL.jpg", Հեքիաթային ճամբար
+https://cdn.kinodaran.com/MEDIA/37/MOVIE/1052/16372/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/413/thumbnail_THUMBNAIL.jpg", Հյուսիս-հարավ
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Hyusis_Harav.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/17/MOVIE/593/thumbnail_THUMBNAIL.jpg", Հոբելյանական հաճախորդ
+https://cdn.kinodaran.com/MEDIA/17/MOVIE/593/11346/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/18/MOVIE/1094/thumbnail_THUMBNAIL.jpg", Ձմեռվա երգ
+https://rumble.com/hls-vod/FZbHbGCZfz0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/thumbnail_THUMBNAIL.jpg", Ձյունանուշ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/263/7465/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/20/MOVIE/597/thumbnail_THUMBNAIL.jpg", Ճամբարում
+https://cdn.kinodaran.com/MEDIA/20/MOVIE/597/11359/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/74/thumbnail_THUMBNAIL.jpg", Մայրիկ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/74/85/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/57/MOVIE/1174/thumbnail_THUMBNAIL.jpg", Մեդալի հակառակ կողմը
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/MHK_FHD24_p.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRp8Ijoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/medali.png", Մեդալի հակառակ կողմը։ Ֆիլմ ֆիլմի մասին
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Film_filmi_masin.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/11/MOVIE/572/thumbnail_THUMBNAIL.jpg", Մեծ պատմություն փոքր քաղաքում
+https://cdn.kinodaran.com/MEDIA/11/MOVIE/572/11223/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/416/thumbnail_THUMBNAIL.jpg", Մեր բակը 1
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/416/10870/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/417/thumbnail_THUMBNAIL.jpg" group-title="Մեր բակը 2", Մեր բակը 2
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/417/thumbnail_THUMBNAIL.jpg", Մեր բակը 2
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/417/10370/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/418/thumbnail_THUMBNAIL.jpg" group-title="Մեր բակը 3", Մեր բակը 3
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/418/thumbnail_THUMBNAIL.jpg", Մեր բակը 3
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/418/10371/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/423/thumbnail_THUMBNAIL.jpg" group-title="Մեր երազանքի ճանապարհը", Մեր երազանքի ճանապարհը
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/540/thumbnail_THUMBNAIL.jpg", Մեր բակը 25 տարի անց
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/MB_25_tari_anc.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/423/thumbnail_THUMBNAIL.jpg", Մեր երազանքի ճանապարհը
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/423/10868/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1100/thumbnail_THUMBNAIL.jpg" group-title="Մեր Մարկը", Մեր Մարկը
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1100/thumbnail_THUMBNAIL.jpg", Մեր Մարկը
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1100/16654/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/643/thumbnail_THUMBNAIL.jpg" group-title="Մի անգամ դպրոցում", Մի անգամ դպրոցում
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/643/thumbnail_THUMBNAIL.jpg", Մի անգամ դպրոցում
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Mi_Angam_Dprotsum.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1101/thumbnail_THUMBNAIL.jpg" group-title="Մի լուսանկարի պատմություն", Մի լուսանկարի պատմություն
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1101/thumbnail_THUMBNAIL.jpg", Մի լուսանկարի պատմություն
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1101/16710/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1102/thumbnail_THUMBNAIL.jpg" group-title="Նա ասաց <<Մայրիկ>>", Նա ասաց <<Մայրիկ>>
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1102/thumbnail_THUMBNAIL.jpg", Նա ասաց <<Մայրիկ>>
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1102/16652/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/419/thumbnail_THUMBNAIL.jpg" group-title="Պահանջվում է միլիոնատեր", Պահանջվում է միլիոնատեր
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/419/10853/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/thumbnail_THUMBNAIL.jpg?etag=803236cf80bb1c1d123c12773b2396ba_berjVbUa58_1773911612724" group-title="Փակ փողոց", Փակ փողոց
-https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/16665/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1103/thumbnail_THUMBNAIL.jpg" group-title="Պատերազմ և քոչարի", Պատերազմ և քոչարի
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/1103/16655/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/647/thumbnail_THUMBNAIL.jpg" group-title="Փախիր կամ ամուսնացիր", Փախիր կամ ամուսնացիր
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Paxir_kam_Amusnacir.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/420/thumbnail_THUMBNAIL.jpg" group-title="Փեսացուն կրկեսից", Փեսացուն կրկեսից
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/420/10851/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/421/thumbnail_THUMBNAIL.jpg" group-title="Poker.AM", Poker.AM
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/421/10848/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/thumbnail_THUMBNAIL.jpg" group-title="Քայլ ձիով", Քայլ ձիով
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/10846/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/thumbnail_THUMBNAIL.jpg" group-title="Քեզ հաղթանակ կնվիրեմ", Քեզ հաղթանակ կնվիրեմ
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/thumbnail_THUMBNAIL.jpg" group-title="Քո ներսի գազանը", Քո ներսի գազանը
-https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/15741/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/995/thumbnail_THUMBNAIL.jpg?etag=83965a17ed698ae00a259ff7b9a5c483_GYB9HmH6N9_1660763759764" group-title="Ռոզալի", Ռոզալի
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Rosali.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/570/thumbnail_THUMBNAIL.jpg" group-title="Շնորհակալություն, հայրիկ", Շնորհակալություն հայրիկ
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/nortarvakinohd.png", Նոր տարվա կինո
+https://rumble.com/hls-vod/10BCneVTCT0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/570/thumbnail_THUMBNAIL.jpg", Շնորհակալություն հայրիկ
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/570/11191/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/sirogorcakic.jpg" group-title="Սիրո գործակից", Սիրո գործակից
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/MOVIE/685/thumbnail_THUMBNAIL.jpg", Որոգայթ
+https://cdn.kinodaran.com/MEDIA/26/MOVIE/685/12618/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/9/MOVIE/564/thumbnail_THUMBNAIL.jpg", Չներվածները
+https://cdn.kinodaran.com/MEDIA/9/MOVIE/564/11184/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/419/thumbnail_THUMBNAIL.jpg", Պահանջվում է միլիոնատեր
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/419/10853/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/155/thumbnail_THUMBNAIL.jpg", Պապարացի
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/155/11436/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1103/thumbnail_THUMBNAIL.jpg", Պատերազմ և քոչարի
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/1103/16655/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/241/thumbnail_THUMBNAIL.jpg", Պատիժ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/241/11379/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/421/thumbnail_THUMBNAIL.jpg", Poker.AM
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/421/10848/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/995/thumbnail_THUMBNAIL.jpg?etag=83965a17ed698ae00a259ff7b9a5c483_GYB9HmH6N9_1660763759764", Ռոզալի
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Rosali.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/sirogorcakic.jpg", Սիրո գործակից
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Siro_Gorcakic.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/425/thumbnail_THUMBNAIL.jpg" group-title="Սիրո կամուրջ", Սիրո կամուրջ
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/425/thumbnail_THUMBNAIL.jpg", Սիրո կամուրջ
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/425/10875/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/supermama.jpg" group-title="Սուպեր Մամա", Սուպեր Մամա
-https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Super_Mama_1.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/supermama2.jpg" group-title="Սուպեր Մամա 2", Սուպեր Մամա 2
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1038/thumbnail_THUMBNAIL.jpg", Սխալ կինո
+https://rumble.com/hls-vod/U6r9a2pbboM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/49/thumbnail_THUMBNAIL.jpg", Սպանել 15 րոպեում 
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/49/11377/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/MOVIE/770/thumbnail_THUMBNAIL.jpg", Սոսի Լոսը Վեգասում
+https://cdn.kinodaran.com/MEDIA/26/MOVIE/770/15214/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/supermama.jpg", Սուպեր Մամա
+https://rumble.com/hls-vod/q6IVFv9odcU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/supermama2.jpg", Սուպեր Մամա 2
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Super_Mama_2.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/thumbnail_THUMBNAIL.jpg" group-title="Taxi <<Էլի լավա>>", Taxi <<Էլի լավա>>
-https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/10869/STREAM/HLS/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/681/thumbnail_THUMBNAIL.jpg?etag=ac1ade43dd23c79aa3bee0f50e831360_hUlBx6Sm2Z_1663683639063" group-title="Ուղիղ եթեր", Ուղիղ եթեր
-https://cdn.kinodaran.com/MEDIA/1/MOVIE/681/12532/v1/STREAM/DASH/playlist.mpd
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/424/thumbnail_THUMBNAIL.jpg" group-title="Վարդապետի լռությունը", Վարդապետի լռությունը
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/11/MOVIE/1040/thumbnail_THUMBNAIL.jpg", Սևազգեստ կանայք
+https://rumble.com/hls-vod/rlDLvygVkGs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/53/MOVIE/1083/thumbnail_THUMBNAIL.jpg", Վազգեն․ Վերջին Սպարապետը
+https://rumble.com/hls-vod/WRINfwpktzc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/578/thumbnail_THUMBNAIL.jpg", Վազի՛ր կնոջդ մոտ
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/578/11233/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/vaymamajan.jpg", Վայ մամա ջան
+https://rumble.com/hls-vod/qpBSCTlth1o/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/787/thumbnail_THUMBNAIL.jpg", Վայրենի տատին կամ փոքրիկ զորավարը 2
+https://rumble.com/hls-vod/ZYZl5qn9Pk0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/208/thumbnail_THUMBNAIL.jpg", Վանա ծովուն արշալույսը
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/208/9878/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/424/thumbnail_THUMBNAIL.jpg", Վարդապետի լռությունը
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/424/10871/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/thumbnail_THUMBNAIL.jpg", Տաքսի <<Էլի լավա>>
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/10869/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/681/thumbnail_THUMBNAIL.jpg?etag=ac1ade43dd23c79aa3bee0f50e831360_hUlBx6Sm2Z_1663683639063", Ուղիղ եթեր
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/681/12532/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/541/thumbnail_THUMBNAIL.jpg", Ուրիշի փոխարեն
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/541/10929/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/647/thumbnail_THUMBNAIL.jpg", Փախիր կամ ամուսնացիր
+https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Paxir_kam_Amusnacir.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/thumbnail_THUMBNAIL.jpg?etag=803236cf80bb1c1d123c12773b2396ba_berjVbUa58_1773911612724", Փակ փողոց
+https://cdn.kinodaran.com/MEDIA/1/MOVIE/1106/16665/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/420/thumbnail_THUMBNAIL.jpg", Փեսացուն կրկեսից
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/420/10851/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/426/thumbnail_THUMBNAIL.jpg", Փոքրիկ զորավարը 
+https://rumble.com/hls-vod/jLUS9GJPNsE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/thumbnail_THUMBNAIL.jpg", Քայլ ձիով
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/10846/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/thumbnail_THUMBNAIL.jpg", Քեզ հաղթանակ կնվիրեմ
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/v1/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/thumbnail_THUMBNAIL.jpg", Քո ներսի գազանը
+https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/15741/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/27/MOVIE/1034/thumbnail_THUMBNAIL.jpg", Օպերացիա <<Մեծապատիվ մուրացկաններ>>
+https://rumble.com/hls-vod/iOOY1lI-dXU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/48/MOVIE/1168/thumbnail_THUMBNAIL.jpg", Ֆուլ հաուս։ Վայրէջք
+https://rumble.com/hls-vod/Xkz_f0vXac8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/fullhouseshow.png", Ֆուլ Հաուս շոու-ներկայացում
+https://rumble.com/hls-vod/ipMKK_nVlhk/playlist.m3u8
