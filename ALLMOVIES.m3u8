@@ -121,6 +121,9 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/414/10847/STREAM/DASH/playlist.mpd
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/thumbnail_THUMBNAIL.jpg?etag=805bfadc26f10f2d605d02601aa2b7a6_vHA0DlNKu0_1607975748884", Կիսալուսնի ծովածոցը
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/7054/v1/STREAM/DASH/playlist.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/11/MOVIE/817/thumbnail_THUMBNAIL.jpg", Կորած մոլորվածը Հայաստանում
+https://rumble.com/hls-vod/e-3v-QMnW7Y/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/thumbnail_THUMBNAIL.jpg", Հայ հայը
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/15742/v1/STREAM/DASH/playlist.mpd
 
