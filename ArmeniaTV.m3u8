@@ -1,6 +1,81 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/2c/s8/6/0/B/b/T/0BbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 1
+https://rumble.com/hls-vod/5k7MaYPj9wQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/27/s8/6/Y/H/b/T/YHbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 2
+https://rumble.com/hls-vod/9PaRJC4JLAU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/f2/s8/6/y/N/b/T/yNbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 3
+https://rumble.com/hls-vod/ocwMyKZPzOk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/41/s8/6/4/Q/b/T/4QbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 4
+https://rumble.com/hls-vod/TxLKEjyi5KA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/cf/s8/6/0/Q/b/T/0QbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 5
+https://rumble.com/hls-vod/HgMIklDtluo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a4/s8/6/Q/L/b/T/QLbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 6
+https://rumble.com/hls-vod/SqCsYUMUozU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/87/s8/6/q/L/b/T/qLbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 7
+https://rumble.com/hls-vod/HqSZvCHc2Qk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a6/s8/6/k/P/b/T/kPbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 8
+https://rumble.com/hls-vod/4LkC1Jg8Fvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/c2/s8/6/4/P/b/T/4PbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 9
+https://rumble.com/hls-vod/wNG3Hy-D9fU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/d0/s8/6/w/R/b/T/wRbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 10
+https://rumble.com/hls-vod/HM_Ukbs-IQ0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/4d/s8/6/0/R/b/T/0RbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 11
+https://rumble.com/hls-vod/lFFytj8IMk4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/6/K/P/b/T/KPbTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 12
+https://rumble.com/hls-vod/0WEHtYE3vi4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/84/s8/6/w/m/c/T/wmcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 13
+https://rumble.com/hls-vod/KJY6Szs0I_k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/91/s8/6/O/l/c/T/OlcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 14
+https://rumble.com/hls-vod/UytoRZ8BDpA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/e1/s8/6/e/u/c/T/eucTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 15
+https://rumble.com/hls-vod/4bqqrUiReDI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d1/s8/6/K/z/c/T/KzcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 16
+https://rumble.com/hls-vod/SNNROdYCP1g/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d3/s8/6/y/B/c/T/yBcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 17
+https://rumble.com/hls-vod/lKDPL3MjXVg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/6e/s8/6/o/y/c/T/oycTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 18
+https://rumble.com/hls-vod/CEEdhFtBCHQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/88/s8/6/2/y/c/T/2ycTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 19
+https://rumble.com/hls-vod/kO-lDgwCgdw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/7d/s8/6/0/A/c/T/0AcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 20
+https://rumble.com/hls-vod/Rmf7WnyIf00/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/2e/s8/6/A/B/c/T/ABcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 21
+https://rumble.com/hls-vod/FvzSMvRuII4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/98/s8/6/2/z/c/T/2zcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 22
+https://rumble.com/hls-vod/CNg1vgOy2BY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/75/s8/6/K/B/c/T/KBcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 23
+https://rumble.com/hls-vod/psAL4q_gCKM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ae/s8/6/E/B/c/T/EBcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 24
+https://rumble.com/hls-vod/PEqr3Lmv7Yk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/3a/s8/6/0/D/c/T/0DcTA.0kob.jpg" group-title="Ավազե դղյակ", Ավազե դղյակ - Սերիա 25
+https://rumble.com/hls-vod/n9TjMsbcf4w/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/0f/s8/6/c/R/L/N/cRLNA.0kob.jpg" group-title="Բլբուլյանները", Բլբուլյանները - Սերիա 1
 https://rumble.com/hls-vod/K27qduTGSQQ/playlist.m3u8
 
@@ -502,6 +577,81 @@ https://rumble.com/hls-vod/m9xZeDvxtlY/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/8e/s8/6/I/g/4/R/Ig4RA.0kob.jpg" group-title="Եղնիկների կածանը", Եղնիկների կածանը - Սերիա 20
 https://rumble.com/hls-vod/6DAMBndwLGs/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/6/O/r/-/S/Or-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 1
+https://rumble.com/hls-vod/7VhIHfSRSzQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/3c/s8/6/i/u/-/S/iu-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 2
+https://rumble.com/hls-vod/am8ZnmxQ2AU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/46/s8/6/m/t/-/S/mt-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 3
+https://rumble.com/hls-vod/w6SVewAsrOk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/79/s8/6/u/s/-/S/us-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 4
+https://rumble.com/hls-vod/52euorqqqhs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/f9/s8/6/-/u/-/S/-u-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 5
+https://rumble.com/hls-vod/obhu42jvJVg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/33/s8/6/a/v/-/S/av-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 6
+https://rumble.com/hls-vod/mXJfqQF8VA0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/6f/s8/6/0/v/-/S/0v-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 7
+https://rumble.com/hls-vod/ugGu0DELyHg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d9/s8/6/Y/t/-/S/Yt-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 8
+https://rumble.com/hls-vod/Qtpne23Wh04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/de/s8/6/Q/v/-/S/Qv-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 9
+https://rumble.com/hls-vod/Zzsmy52FWRI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/e3/s8/6/e/v/-/S/ev-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 10
+https://rumble.com/hls-vod/-TIK5BVP3sc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/bc/s8/6/c/v/-/S/cv-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 11
+https://rumble.com/hls-vod/NrWklsjG_9c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/72/s8/6/M/v/-/S/Mv-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 12
+https://rumble.com/hls-vod/Jm-fDrQPDQQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ef/s8/6/g/Y/-/S/gY-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 13
+https://rumble.com/hls-vod/XQRteTrODqo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/89/s8/6/G/1/-/S/G1-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 14
+https://rumble.com/hls-vod/Xl3oiLN9nl4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/62/s8/6/M/4/-/S/M4-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 15
+https://rumble.com/hls-vod/dqsTm0v3x9U/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/2d/s8/6/8/6/-/S/86-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 16
+https://rumble.com/hls-vod/LR-y1EquCRM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/be/s8/6/K/6/-/S/K6-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 17
+https://rumble.com/hls-vod/UxFmgu-1f2A/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/88/s8/6/2/3/-/S/23-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 18
+https://rumble.com/hls-vod/qeumRfIwxJ4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a6/s8/6/0/3/-/S/03-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 19
+https://rumble.com/hls-vod/-12QTAt2OEo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/db/s8/6/u/8/-/S/u8-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 20
+https://rumble.com/hls-vod/_9Zjw5Bi33c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/31/s8/6/e/6/-/S/e6-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 21
+https://rumble.com/hls-vod/F3TDkYKojFk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/67/s8/6/E/8/-/S/E8-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 22
+https://rumble.com/hls-vod/2-zG-lq0Ax0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c0/s8/6/k/8/-/S/k8-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 23
+https://rumble.com/hls-vod/q4dD3-x6wyM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/25/s8/6/y/7/-/S/y7-SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 24
+https://rumble.com/hls-vod/88ZTnRXFN4Q/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/13/s8/6/O/-/-/S/O--SA.0kob.jpg" group-title="Ես տեսնում եմ", Ես տեսնում եմ - Սերիա 25
+https://rumble.com/hls-vod/zsZBW-al38M/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ee/s8/6/E/h/9/Q/Eh9QA.0kob.jpg" group-title="Երե1 8", Երե1 8 - Սերիա 1
 https://rumble.com/hls-vod/5D3jvwR9Pzw/playlist.m3u8
 
@@ -597,6 +747,81 @@ https://rumble.com/hls-vod/cM2IoT8pTME/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/29/s8/6/o/C/-/Q/oC-QA.0kob.jpg" group-title="Երե1 8", Երե1 8 - Սերիա 32
 https://rumble.com/hls-vod/sNLaxuPrXP8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/8a/s8/6/w/O/5/S/wO5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 1
+https://rumble.com/hls-vod/1t8G1-tsZws/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/f7/s8/6/u/O/5/S/uO5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 2
+https://rumble.com/hls-vod/ZYVWvL8H_zk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/64/s8/6/C/N/5/S/CN5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 3
+https://rumble.com/hls-vod/T0yJsFTOXZo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a0/s8/6/a/j/6/S/aj6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 4
+https://rumble.com/hls-vod/Mfauanc6-As/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/da/s8/6/O/L/5/S/OL5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 5
+https://rumble.com/hls-vod/K16WqSDfD8w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a2/s8/6/m/O/5/S/mO5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 6
+https://rumble.com/hls-vod/Q5Vp1MUyGZ8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/5a/s8/6/k/N/5/S/kN5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 7
+https://rumble.com/hls-vod/UEeMqGNfNCY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/6/m/N/5/S/mN5SA.0kob.1.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 8
+https://rumble.com/hls-vod/v3jPEVDAKCM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/eb/s8/6/M/M/5/S/MM5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 9
+https://rumble.com/hls-vod/6agriLxLe_s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/eb/s8/6/M/O/5/S/MO5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 10
+https://rumble.com/hls-vod/tLgi4i5XqLA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/e2/s8/6/-/M/5/S/-M5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 11
+https://rumble.com/hls-vod/sLg6XQApBes/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/58/s8/6/Y/N/5/S/YN5SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 12
+https://rumble.com/hls-vod/1OJv1fK2kZw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/09/s8/6/4/h/6/S/4h6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 13
+https://rumble.com/hls-vod/EeB5GDQKpJU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/12/s8/6/m/h/6/S/mh6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 14
+https://rumble.com/hls-vod/_zbDLcz2Osg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/db/s8/6/6/h/6/S/6h6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 15
+https://rumble.com/hls-vod/qmm8n_ydDEM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/34/s8/6/i/i/6/S/ii6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 16
+https://rumble.com/hls-vod/_XKSwTCG4cM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/4a/s8/6/c/h/6/S/ch6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 17
+https://rumble.com/hls-vod/uSHrI4MFdmc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/de/s8/6/2/g/6/S/2g6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 18
+https://rumble.com/hls-vod/8Tju0BJn71M/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/64/s8/6/w/h/6/S/wh6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 19
+https://rumble.com/hls-vod/UefnL1NxSJY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/b8/s8/6/U/g/6/S/Ug6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 20
+https://rumble.com/hls-vod/0YsObI2Xp-k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d6/s8/6/e/i/6/S/ei6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 21
+https://rumble.com/hls-vod/xwGFPzCQgzo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/1f/s8/6/Q/i/6/S/Qi6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 22
+https://rumble.com/hls-vod/XMmfAVqdq-g/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/78/s8/6/O/i/6/S/Oi6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 23
+https://rumble.com/hls-vod/NqiX31nFSzM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/28/s8/6/C/i/6/S/Ci6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 24
+https://rumble.com/hls-vod/lj7SM7d2z64/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ba/s8/6/M/i/6/S/Mi6SA.0kob.jpg" group-title="Թունավոր սեր", Թունավոր սեր - Սերիա 25
+https://rumble.com/hls-vod/O-xDEtvNPQ8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/42/s8/6/s/q/U/M/sqUMA.0kob.jpg" group-title="Ժառանգ80", Ժառանգ80 - Սերիա 1
 https://rumble.com/hls-vod/ADtSotso3mg/playlist.m3u8
@@ -1309,6 +1534,78 @@ https://rumble.com/hls-vod/LRQyDVjPINE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/eb/s8/6/S/b/O/S/SbOSA.0kob.jpg" group-title="Ոսկե դպրոց 2", Ոսկե դպրոց 2 - Սերիա 24
 https://rumble.com/hls-vod/kiAwUbz50Xw/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/40/s8/6/2/8/3/S/283SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 1
+https://rumble.com/hls-vod/kWguaIP_Ujc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/e8/s8/6/e/9/3/S/e93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 2
+https://rumble.com/hls-vod/9OOoavuMdnE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/2d/s8/6/W/9/3/S/W93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 3
+https://rumble.com/hls-vod/iakzLp4l83U/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c0/s8/6/0/8/3/S/083SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 4
+https://rumble.com/hls-vod/iSvpZf-i01o/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a2/s8/6/Y/9/3/S/Y93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 5
+https://rumble.com/hls-vod/r5gjLaoerl8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/45/s8/6/2/6/3/S/263SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 6
+https://rumble.com/hls-vod/pmre0WY4a9E/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/6/A/9/3/S/A93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 7
+https://rumble.com/hls-vod/A8OmCHHfj90/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/4a/s8/6/k/9/3/S/k93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 8
+https://rumble.com/hls-vod/GzTy204zNqA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/83/s8/6/0/9/3/S/093SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 9
+https://rumble.com/hls-vod/9-f4QNg6rRw/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/b1/s8/6/S/8/3/S/S83SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 10
+https://rumble.com/hls-vod/TFlDh8bFHTs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/1d/s8/6/c/9/3/S/c93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 11
+https://rumble.com/hls-vod/81OItldG9I0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/19/s8/6/m/9/3/S/m93SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 12
+https://rumble.com/hls-vod/4gUE7lk17GM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/39/s8/6/s/k/4/S/sk4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 13
+https://rumble.com/hls-vod/M77NaB6Ka5E/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/93/s8/6/8/u/4/S/8u4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 14
+https://rumble.com/hls-vod/-ZeplVvD4Zw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/65/s8/6/K/t/4/S/Kt4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 15
+https://rumble.com/hls-vod/dvB0gzKXNtU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d5/s8/6/A/u/4/S/Au4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 16
+https://rumble.com/hls-vod/amjsuIS4qsw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/2f/s8/6/e/v/4/S/ev4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 17
+https://rumble.com/hls-vod/i3t6cQMqp2A/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/df/s8/6/G/u/4/S/Gu4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 18
+https://rumble.com/hls-vod/YUFUOpGjXsE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/67/s8/6/6/u/4/S/6u4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 19
+https://rumble.com/hls-vod/Zxzr-yxtOMs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/6e/s8/6/2/u/4/S/2u4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 20
+https://rumble.com/hls-vod/EUQrfvH7lg4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/07/s8/6/4/u/4/S/4u4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 21
+https://rumble.com/hls-vod/MuupOlZ-PWs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/fb/s8/6/W/u/4/S/Wu4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 22
+https://rumble.com/hls-vod/mvyFx0zf078/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/4b/s8/6/K/v/4/S/Kv4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 23
+https://rumble.com/hls-vod/AaffXozuJRE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/53/s8/6/y/v/4/S/yv4SA.0kob.jpg" group-title="Ոսկե դպրոց 3", Ոսկե դպրոց 3 - Սերիա 24
+https://rumble.com/hls-vod/Yfqxo8HiOlw/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/76/s8/6/A/X/z/N/AXzNA.0kob.jpg" group-title="Սյուրպրիզ", Սյուրպրիզ - Սերիա 1
 https://rumble.com/hls-vod/iDKtdbgDELw/playlist.m3u8
 
@@ -1369,8 +1666,98 @@ https://rumble.com/hls-vod/6e99JxIZmO0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/b4/s8/6/Q/o/U/M/QoUMA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 4
 https://rumble.com/hls-vod/gQXK-Zct8cs/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/2d/s8/6/0/V/d/T/0VdTA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 5
+https://rumble.com/hls-vod/CFceVImVM4c/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/aa/s8/6/e/X/d/T/eXdTA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 6
+https://rumble.com/hls-vod/EzL0hcD91ns/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c7/s8/6/A/X/d/T/AXdTA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 8
+https://rumble.com/hls-vod/xWtOlrHfiLM/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/61/s8/6/4/7/B/O/47BOA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 10
 https://rumble.com/hls-vod/mudm01k0iQc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/b0/s8/6/i/Y/d/T/iYdTA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 12
+https://rumble.com/hls-vod/Y76S0xyeZ9U/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/31/s8/6/o/Y/d/T/oYdTA.0kob.jpg" group-title="Սյուրպրիզ 2", Սյուրպրիզ 2 - Սերիա 14
+https://rumble.com/hls-vod/6z8aIoGaOfY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ca/s8/6/s/J/7/S/sJ7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 1
+https://rumble.com/hls-vod/_7KiHn7njKg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/58/s8/6/k/K/7/S/kK7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 2
+https://rumble.com/hls-vod/nOSgVqt_Xak/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/8a/s8/6/y/K/7/S/yK7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 3
+https://rumble.com/hls-vod/clvAQrJODMM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/44/s8/6/m/L/7/S/mL7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 4
+https://rumble.com/hls-vod/uaIx4Hns8bA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c9/s8/6/A/M/7/S/AM7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 5
+https://rumble.com/hls-vod/5L-wGSqNYF8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a5/s8/6/O/K/7/S/OK7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 6
+https://rumble.com/hls-vod/MIRm4dYgCI4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/19/s8/6/C/L/7/S/CL7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 7
+https://rumble.com/hls-vod/jhK719i2N2g/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/64/s8/6/6/L/7/S/6L7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 8
+https://rumble.com/hls-vod/aTdUj0K-GA8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/74/s8/6/q/N/7/S/qN7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 9
+https://rumble.com/hls-vod/kFv6zPn2gZc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/fc/s8/6/O/M/7/S/OM7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 10
+https://rumble.com/hls-vod/-RvOmhU55VA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/1e/s8/6/u/O/7/S/uO7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 11
+https://rumble.com/hls-vod/9p4bHVosIGU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/89/s8/6/m/N/7/S/mN7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 12
+https://rumble.com/hls-vod/faJER8D-AB8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/85/s8/6/8/5/7/S/857SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 13
+https://rumble.com/hls-vod/R4GE6smsN-Y/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/e0/s8/6/i/5/7/S/i57SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 14
+https://rumble.com/hls-vod/o4lFQklzJLs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/75/s8/6/O/6/7/S/O67SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 15
+https://rumble.com/hls-vod/L_BGAE7I1_Q/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/3e/s8/6/i/7/7/S/i77SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 16
+https://rumble.com/hls-vod/N058_LyPP6w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ee/s8/6/-/6/7/S/-67SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 17
+https://rumble.com/hls-vod/BbzVEEsHSE4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/b1/s8/6/u/9/7/S/u97SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 18
+https://rumble.com/hls-vod/LggFIO6-XNU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ec/s8/6/c/9/7/S/c97SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 19
+https://rumble.com/hls-vod/HOzJFVn_Po0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/cc/s8/6/y/9/7/S/y97SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 20
+https://rumble.com/hls-vod/TA21rqc12ss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/64/s8/6/S/9/7/S/S97SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 21
+https://rumble.com/hls-vod/AcMEvdq0kxA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/17/s8/6/-/9/7/S/-97SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 22
+https://rumble.com/hls-vod/UWj153p0UIE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ba/s8/6/e/-/7/S/e-7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 23
+https://rumble.com/hls-vod/UTD9gcHE8lc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/86/s8/6/m/-/7/S/m-7SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 24
+https://rumble.com/hls-vod/BluS8FNFV-k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a0/s8/6/Q/g/8/S/Qg8SA.0kob.jpg" group-title="Սև հանքեր", Սև հանքեր - Սերիա 25
+https://rumble.com/hls-vod/5NtONS4oQZE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/2b/s8/6/q/K/x/Q/qKxQA.0kob.jpg" group-title="Տնփեսա", Տնփեսա - Սերիա 1
 https://rumble.com/hls-vod/wxxBm0k6HtI/playlist.m3u8
