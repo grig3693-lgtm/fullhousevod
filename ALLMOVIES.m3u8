@@ -292,7 +292,7 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/thumbnail_THUMBNAIL.jpg", Քո ներսի գազանը
 https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/15741/v1/STREAM/DASH/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/6/i/9/h/U/i9hUA.0kob.jpg", Օպա Պապա
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/opapapa.jpg", Օպա Պապա
 https://rumble.com/hls-vod/xIhqxTSO_2A/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/27/MOVIE/1034/thumbnail_THUMBNAIL.jpg", Օպերացիա <<Մեծապատիվ մուրացկաններ>>
