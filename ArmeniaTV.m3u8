@@ -472,6 +472,10 @@ https://rumble.com/hls-vod/Wz5GSANTsBM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/b0/s8/6/W/I/e/U/WIeUA.0kob.jpg" group-title="Բլբուլյանները 4", Բլբուլյանները 4 - Սերիա 16
 https://rumble.com/hls-vod/JjTTmJN-ROQ/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/2d/s8/6/e/C/S/U/eCSUA.0kob.jpg" group-title="Բոլոլա 2", Բոլոլա 2 - Սերիա 1
+https://rumble.com/hls-vod/BJVac-9QUlE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/f9/s8/6/W/C/f/N/WCfNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 1
 https://rumble.com/hls-vod/dA9Yu7DaEzo/playlist.m3u8
 
@@ -519,10 +523,6 @@ https://rumble.com/hls-vod/2e2Vjy_vNg8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/17/s8/6/u/4/f/N/u4fNA.0kob.jpg" group-title="Բոլոլա", Բոլոլա - Սերիա 16
 https://rumble.com/hls-vod/QVZhmxzEUNY/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/2d/s8/6/e/C/S/U/eCSUA.0kob.jpg" group-title="Բոլոլա 2", Բոլոլա 2 - Սերիա 1
-https://rumble.com/hls-vod/BJVac-9QUlE/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/dc/s8/6/k/D/S/U/kDSUA.0kob.jpg" group-title="Բոլոլա 2", Բոլոլա 2 - Սերիա 2
 https://rumble.com/hls-vod/I1kLunsODIk/playlist.m3u8
 
@@ -663,6 +663,54 @@ https://rumble.com/hls-vod/AE74oePmMEk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/00/s8/6/i/W/h/V/iWhVA.0kob.jpg" group-title="Բոլոլա 4", Բոլոլա 4 - Սերիա 16
 https://rumble.com/hls-vod/apRDQarXLK0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/84/s8/6/K/O/E/V/KOEVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 1
+https://rumble.com/hls-vod/dIrVSAAETNY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/7f/s8/6/y/S/E/V/ySEVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 2
+https://rumble.com/hls-vod/mR_usWUyIrg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/57/s8/6/w/T/E/V/wTEVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 3
+https://rumble.com/hls-vod/Ds5otaVheV8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/00/s8/6/E/Z/E/V/EZEVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 4
+https://rumble.com/hls-vod/VS6EwEtbW6k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/66/s8/6/-/0/E/V/-0EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 5
+https://rumble.com/hls-vod/jWd-KzIFtG0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/7c/s8/6/M/1/E/V/M1EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 6
+https://rumble.com/hls-vod/GW_NPs-FZJ4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/5a/s8/6/q/2/E/V/q2EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 7
+https://rumble.com/hls-vod/O3KLbG_3_6A/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/7f/s8/6/I/2/E/V/I2EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 8
+https://rumble.com/hls-vod/tlUUXOEhoLU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/54/s8/6/0/2/E/V/02EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 9
+https://rumble.com/hls-vod/RhBJhLClv1g/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/2e/s8/6/a/3/E/V/a3EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 10
+https://rumble.com/hls-vod/mk-gYrtS8TU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ab/s8/6/o/3/E/V/o3EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 11
+https://rumble.com/hls-vod/ioga0Rm-SuQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/2c/s8/6/C/3/E/V/C3EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 12
+https://rumble.com/hls-vod/jzE0sTu_heU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a7/s8/6/K/3/E/V/K3EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 13
+https://rumble.com/hls-vod/luM2M1tWTnQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/7e/s8/6/S/3/E/V/S3EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 14
+https://rumble.com/hls-vod/QTgpnjEnwEo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a8/s8/6/-/3/E/V/-3EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 15
+https://rumble.com/hls-vod/2NuQYie5wqA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/06/s8/6/i/4/E/V/i4EVA.0kob.jpg" group-title="Բոլոլա 5", Բոլոլա 5 - Սերիա 16
+https://rumble.com/hls-vod/HsRMAsrAzoo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/90/s8/6/A/w/Z/T/AwZTA.0kob.jpg" group-title="Գիտունոիդ", Գիտունոիդ - Սերիա 1
 https://rumble.com/hls-vod/8jGoNChno4g/playlist.m3u8
@@ -1347,6 +1395,294 @@ https://rumble.com/hls-vod/9A6nrVma5QM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/b2/s8/6/w/h/y/S/whySA.0kob.jpg" group-title="Դեպի վայրէջք", Դեպի վայրէջք - Սերիա 25
 https://rumble.com/hls-vod/UzI-j2eXSTQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d4/s8/6/4/2/x/V/42xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 1
+https://rumble.com/hls-vod/8nw-vsYpTQQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/02/s8/6/8/2/x/V/82xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 2
+https://rumble.com/hls-vod/9A-K_ZtCSrA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ba/s8/6/i/3/x/V/i3xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 3
+https://rumble.com/hls-vod/VnRW4dgV-94/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/e4/s8/6/o/3/x/V/o3xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 4
+https://rumble.com/hls-vod/FggJv9rZW3w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/d3/s8/6/C/3/x/V/C3xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 5
+https://rumble.com/hls-vod/_FayIpHZUss/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ef/s8/6/I/3/x/V/I3xVA.0kob.1.jpg" group-title="Դոմինո", Դոմինո - Սերիա 6
+https://rumble.com/hls-vod/80kheD0wdCc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/48/s8/6/O/3/x/V/O3xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 7
+https://rumble.com/hls-vod/4Pb6UVX874Y/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/6f/s8/6/Y/3/x/V/Y3xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 8
+https://rumble.com/hls-vod/P1866N1sM-M/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/87/s8/6/6/3/x/V/63xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 9
+https://rumble.com/hls-vod/T4dQypEx_RY/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/66/s8/6/e/4/x/V/e4xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 10
+https://rumble.com/hls-vod/P7xXLicRGmY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/d3/s8/6/K/6/y/V/K6yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 11
+https://rumble.com/hls-vod/JvltAY6LulQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c1/s8/6/q/4/x/V/q4xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 12
+https://rumble.com/hls-vod/PqbgvnG1hv4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/93/s8/6/y/4/x/V/y4xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 13
+https://rumble.com/hls-vod/x6St6Xu1IrE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/52/s8/6/E/4/x/V/E4xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 14
+https://rumble.com/hls-vod/9cj94RbUFUM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/8d/s8/6/K/4/x/V/K4xVA.0kob.1.jpg" group-title="Դոմինո", Դոմինո - Սերիա 15
+https://rumble.com/hls-vod/dYosYZgYsYA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/08/s8/6/Q/4/x/V/Q4xVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 16
+https://rumble.com/hls-vod/JyaZ7Wk2UI4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/c7/s8/6/e/8/y/V/e8yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 17
+https://rumble.com/hls-vod/XnrAtVgp1ho/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/25/s8/6/M/8/y/V/M8yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 18
+https://rumble.com/hls-vod/IA4SVgh7d6w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/99/s8/6/e/9/y/V/e9yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 19
+https://rumble.com/hls-vod/5uM-jY2q9kI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/6f/s8/6/q/-/y/V/q-yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 20
+https://rumble.com/hls-vod/xU0BSallFRk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c6/s8/6/I/-/y/V/I-yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 21
+https://rumble.com/hls-vod/J0Ijqq4MvSQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/42/s8/6/U/-/y/V/U-yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 22
+https://rumble.com/hls-vod/9Y7lj21mNlc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/50/s8/6/0/-/y/V/0-yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 23
+https://rumble.com/hls-vod/UnDJQ49FtzY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/9e/s8/6/-/-/y/V/--yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 24
+https://rumble.com/hls-vod/xujwUR-WMBw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ef/s8/6/m/_/y/V/m_yVA.0kob.1.jpg" group-title="Դոմինո", Դոմինո - Սերիա 25
+https://rumble.com/hls-vod/13aGMNL7Z30/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c9/s8/6/u/_/y/V/u_yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 26
+https://rumble.com/hls-vod/SMBwpksfLvo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/59/s8/6/C/_/y/V/C_yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 27
+https://rumble.com/hls-vod/WikxBjBfvLM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ce/s8/6/K/_/y/V/K_yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 28
+https://rumble.com/hls-vod/iw-nKwflp6E/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/50/s8/6/U/_/y/V/U_yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 29
+https://rumble.com/hls-vod/qKWfgKi-THw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/63/s8/6/0/_/y/V/0_yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 30
+https://rumble.com/hls-vod/6Kkbl0Do_ik/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/49/s8/6/-/_/y/V/-_yVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 31
+https://rumble.com/hls-vod/_dWlwGtRPYk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/69/s8/6/c/a/z/V/cazVA.0kob.jpg" group-title="Դոմինո", Դոմինո - Սերիա 32
+https://rumble.com/hls-vod/EwBqC6qjl_g/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/fd/s8/6/U/a/A/V/UaAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 1
+https://rumble.com/hls-vod/BVVV00YqO4g/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/56/s8/6/W/d/A/V/WdAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 2
+https://rumble.com/hls-vod/3K-rL--YOeM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/71/s8/6/g/l/A/V/glAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 3
+https://rumble.com/hls-vod/2Vj9VixusAw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/e8/s8/6/m/l/A/V/mlAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 4
+https://rumble.com/hls-vod/B5ryuZM081k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/6c/s8/6/o/l/A/V/olAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 5
+https://rumble.com/hls-vod/Ey9vVwbkZMU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/0a/s8/6/u/l/A/V/ulAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 6
+https://rumble.com/hls-vod/7n_9n4IOGcg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/9a/s8/6/G/l/A/V/GlAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 7
+https://rumble.com/hls-vod/xhuNg8jAiN8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/32/s8/6/O/l/A/V/OlAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 8
+https://rumble.com/hls-vod/86xyCCpri3w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/01/s8/6/0/l/A/V/0lAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 9
+https://rumble.com/hls-vod/ZmefpF9JIzw/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/27/s8/6/8/l/A/V/8lAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 10
+https://rumble.com/hls-vod/KeOfoTHNtGc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/83/s8/6/e/m/A/V/emAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 11
+https://rumble.com/hls-vod/RvXKlbYRQsg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c9/s8/6/k/m/A/V/kmAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 12
+https://rumble.com/hls-vod/dvow9DZbJoA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/19/s8/6/q/m/A/V/qmAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 13
+https://rumble.com/hls-vod/x525TL_Xf5Y/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c4/s8/6/w/m/A/V/wmAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 14
+https://rumble.com/hls-vod/yTa34JMY-dM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/bd/s8/6/A/m/A/V/AmAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 15
+https://rumble.com/hls-vod/SgADjvB4fx0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/30/s8/6/G/m/A/V/GmAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 16
+https://rumble.com/hls-vod/ppT_ry22JBs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/15/s8/6/E/v/A/V/EvAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 17
+https://rumble.com/hls-vod/Ni1f_edGgMA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/8d/s8/6/G/A/A/V/GAAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 18
+https://rumble.com/hls-vod/dmzCo7XMF-w/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/f7/s8/6/W/A/A/V/WAAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 19
+https://rumble.com/hls-vod/bOApeZJqkfc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/4c/s8/6/2/A/A/V/2AAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 20
+https://rumble.com/hls-vod/I8_SRIRzeJ8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/57/s8/6/6/A/A/V/6AAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 21
+https://rumble.com/hls-vod/64xJgr6dFtg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/81/s8/6/c/B/A/V/cBAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 22
+https://rumble.com/hls-vod/FoP8EsfDKHk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/c1/s8/6/k/B/A/V/kBAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 23
+https://rumble.com/hls-vod/fd9q4HUMpSo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/e6/s8/6/q/B/A/V/qBAVA.0kob.jpg" group-title="Դոմինո 2", Դոմինո 2 - Սերիա 24
+https://rumble.com/hls-vod/TPpPsNj9s4s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/d6/s8/6/O/A/B/V/OABVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 1
+https://rumble.com/hls-vod/Vy-CjFwaaJA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/ac/s8/6/u/D/B/V/uDBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 2
+https://rumble.com/hls-vod/FUpNQgH1ghs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/66/s8/6/G/D/B/V/GDBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 3
+https://rumble.com/hls-vod/RIADb3-98hs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/32/s8/6/M/D/B/V/MDBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 4
+https://rumble.com/hls-vod/xBjcNtYXTyU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/cb/s8/6/Q/D/B/V/QDBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 5
+https://rumble.com/hls-vod/KCUWb2T_9yA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/1c/s8/6/k/E/B/V/kEBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 6
+https://rumble.com/hls-vod/6zwVRd2b5HA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/87/s8/6/u/E/B/V/uEBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 7
+https://rumble.com/hls-vod/BetCbJjdmJI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a1/s8/6/0/E/B/V/0EBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 8
+https://rumble.com/hls-vod/ZDHA4-FvMVQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/2d/s8/6/S/E/B/V/SEBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 9
+https://rumble.com/hls-vod/XkBkvkIprik/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/93/s8/6/-/E/B/V/-EBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 10
+https://rumble.com/hls-vod/VxgaxSm0YKE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/fc/s8/6/G/F/B/V/GFBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 11
+https://rumble.com/hls-vod/CnXicKWJI7Q/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/77/s8/6/e/F/B/V/eFBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 12
+https://rumble.com/hls-vod/PLr_PaUimfg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/f0/s8/6/s/F/B/V/sFBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 13
+https://rumble.com/hls-vod/ai_Bg6Q4B0s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/6a/s8/6/C/F/B/V/CFBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 14
+https://rumble.com/hls-vod/XIDWVL8YHV4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/d6/s8/6/W/F/B/V/WFBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 15
+https://rumble.com/hls-vod/pniohtAi6Tw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/1e/s8/6/q/G/B/V/qGBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 16
+https://rumble.com/hls-vod/QJa5MTzy-qM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/57/s8/6/y/G/B/V/yGBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 17
+https://rumble.com/hls-vod/oW_B3cHCigI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/1f/s8/6/4/F/B/V/4FBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 18
+https://rumble.com/hls-vod/PoKTVzR0VEg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/15/s8/6/a/G/B/V/aGBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 19
+https://rumble.com/hls-vod/oN7JO1BmlIU/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/31/s8/6/i/G/B/V/iGBVA.0kob.jpg" group-title="Դոմինո 4", Դոմինո 4 - Սերիա 20
+https://rumble.com/hls-vod/bdLNIDSoS28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/5a/s8/6/y/T/C/V/yTCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 1
+https://rumble.com/hls-vod/ZFJohugZNJw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/33/s8/6/W/T/C/V/WTCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 2
+https://rumble.com/hls-vod/jtRQy4n5oUA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/a9/s8/6/k/V/C/V/kVCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 3
+https://rumble.com/hls-vod/5enQlZ9rdmE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/3d/s8/6/0/W/C/V/0WCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 4
+https://rumble.com/hls-vod/cW931uZeaNs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/8c/s8/6/k/X/C/V/kXCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 5
+https://rumble.com/hls-vod/49Tr91dBsO0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/7a/s8/6/C/X/C/V/CXCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 6
+https://rumble.com/hls-vod/hd67m7oMj7U/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/4e/s8/6/2/X/C/V/2XCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 7
+https://rumble.com/hls-vod/S6T0qMHtwAQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/77/s8/6/s/Y/C/V/sYCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 8
+https://rumble.com/hls-vod/pEHDvsRSvus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/88/s8/6/C/Y/C/V/CYCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 9
+https://rumble.com/hls-vod/XcOUbWxbdmk/playlist.m3u8  
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/90/s8/6/M/Y/C/V/MYCVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 10
+https://rumble.com/hls-vod/BfAzS6a6cM4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a2/s8/6/4/n/D/V/4nDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 11
+https://rumble.com/hls-vod/h15hFqPRHDw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/78/s8/6/e/o/D/V/eoDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 12
+https://rumble.com/hls-vod/vtzT7geCqco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/5f/s8/6/o/o/D/V/ooDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 13
+https://rumble.com/hls-vod/vwIqpECoL5A/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/f6/s8/6/y/o/D/V/yoDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 14
+https://rumble.com/hls-vod/yaMwR6d6TSY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/a6/s8/6/C/o/D/V/CoDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 15
+https://rumble.com/hls-vod/9bfzssHS6aY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/3b/s8/6/Q/o/D/V/QoDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 16
+https://rumble.com/hls-vod/SkkyGJhQlYk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/b9/s8/6/W/o/D/V/WoDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 17
+https://rumble.com/hls-vod/eua3sCjLVPE/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/65/s8/6/2/o/D/V/2oDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 18
+https://rumble.com/hls-vod/n994Yq2JNco/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/b3/s8/6/e/p/D/V/epDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 19
+https://rumble.com/hls-vod/jP-FNcme28E/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/4e/s8/6/y/p/D/V/ypDVA.0kob.jpg" group-title="Դոմինո 5", Դոմինո 5 - Սերիա 20
+https://rumble.com/hls-vod/OgbdbER9oec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fww1/fe/s8/6/E/8/1/R/E81RA.0kob.jpg" group-title="Եղնիկների կածանը", Եղնիկների կածանը - Սերիա 1
 https://rumble.com/hls-vod/xeRIoygUwwY/playlist.m3u8
