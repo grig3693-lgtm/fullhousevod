@@ -28,6 +28,9 @@ https://cdn.kinodaran.com/MEDIA/41/MOVIE/991/16110/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/thumbnail_THUMBNAIL.jpg", Անունս Վիոլա է
 https://cdn.kinodaran.com/MEDIA/19/MOVIE/610/11362/v1/STREAM/HLS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/35/MOVIE/1047/thumbnail_THUMBNAIL.jpg", Անքնություն
+https://rumble.com/hls-vod/xq8xbJ2IlKk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/thumbnail_THUMBNAIL.jpg", Ապրիր ինձ հետ
 https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/13603/v1/STREAM/HLS/playlist.m3u8
 
@@ -76,11 +79,17 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/7/10544/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/thumbnail_THUMBNAIL.jpg", Երազանքի ճանապարհին
 https://cdn.kinodaran.com/MEDIA/37/MOVIE/812/15466/v1/STREAM/HLS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/1051/thumbnail_THUMBNAIL.jpg", Երևան բլյուզ 25 տարի անց կամ Երևանիադա
+https://rumble.com/hls-vod/RubQvrdFJTg/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/thumbnail_THUMBNAIL.jpg", Երևան ջան
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/567/11351/v1/STREAM/DASH/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/548/thumbnail_THUMBNAIL.jpg", Զգուշացե՛ք կանայք են
 https://rumble.com/hls-vod/rauC2Q4_KSI/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/45/MOVIE/1044/thumbnail_THUMBNAIL.jpg", Զուլալի
+https://rumble.com/hls-vod/7ECdwLm1frQ/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1098/thumbnail_THUMBNAIL.jpg", Թանկարժեք տղաները
 https://rumble.com/hls-vod/gfMqm_jGfGQ/playlist.m3u8
@@ -187,11 +196,17 @@ https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Mi_Angam_Dprotsum.mp4/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1101/thumbnail_THUMBNAIL.jpg", Մի լուսանկարի պատմություն
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1101/16710/STREAM/HLS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/50/MOVIE/1062/thumbnail_THUMBNAIL.jpg", Մսյո Ազնավուր
+https://rumble.com/hls-vod/1GmUqmLstpU/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1102/thumbnail_THUMBNAIL.jpg", Նա ասաց <<Մայրիկ>>
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1102/16652/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/nortarvakinohd.png", Նոր տարվա կինո
 https://rumble.com/hls-vod/10BCneVTCT0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/51/MOVIE/1063/thumbnail_THUMBNAIL.jpg", Նունիկ
+https://rumble.com/hls-vod/7qQb20UAYfE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/570/thumbnail_THUMBNAIL.jpg", Շնորհակալություն հայրիկ
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/570/11191/v1/STREAM/DASH/playlist.mpd
@@ -253,6 +268,9 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/578/11233/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/vaymamajan.jpg", Վայ մամա ջան
 https://rumble.com/hls-vod/qpBSCTlth1o/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/43/MOVIE/1036/thumbnail_THUMBNAIL.jpg", Վայ քու․․․ կամ փարթամ կակտուսը
+https://rumble.com/hls-vod/UbTd6bNwF4w/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/4/MOVIE/787/thumbnail_THUMBNAIL.jpg", Վայրենի տատին կամ փոքրիկ զորավարը 2
 https://rumble.com/hls-vod/ZYZl5qn9Pk0/playlist.m3u8
 
@@ -261,6 +279,9 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/208/9878/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/424/thumbnail_THUMBNAIL.jpg", Վարդապետի լռությունը
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/424/10871/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/47/MOVIE/1056/thumbnail_THUMBNAIL.jpg", Վերադարձ
+https://rumble.com/hls-vod/4t5k5ylUvoc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/thumbnail_THUMBNAIL.jpg", Տաքսի <<Էլի լավա>>
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/10869/STREAM/HLS/playlist.m3u8
