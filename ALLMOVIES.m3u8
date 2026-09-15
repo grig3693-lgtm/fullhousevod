@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-PLAYLIST-TYPE:VOD
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/11/MOVIE/571/thumbnail_THUMBNAIL.jpg", Ազնիվ գողեր
+https://rumble.com/hls-vod/9NlrxVch6eQ/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/alabalanica.jpg", Ալաբալանիցա 1
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Alabalanica_1.mp4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYXBpLmZhc3R0di5hbS9hcGkvYXV0aC9nb29nbGUvY2FsbGJhY2siLCJpYXQiOjE3NDExMDIxNjQsIm5iZiI6MTc0MTEwMjE2NSwianRpIjoib2xRQWNRaVVBdEg1V2piWCIsInN1YiI6IjExOTg5IiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyIsImRldmljZV9pbmZvIjp7ImJyYW5kIjoiV2ViIEJyb3dzZXIiLCJhcHBfdmVyc2lvbiI6IjEuMC4wIiwiZGF0YSI6eyJicm93c2VyX25hbWUiOiJXZWIgQnJvd3NlciIsImVuZ2luZV9uYW1lIjoiIiwiZW5naW5lX3ZlcnNpb24iOiIiLCJmdWxsX2Jyb3dzZXJfdmVyc2lvbiI6IiIsIm1vYmlsZV9tb2RlbCI6IiIsIm1vYmlsZV92ZW5kb3IiOiIifSwiZGV2aWNlX3R5cGUiOiIiLCJtb2RlbCI6IldlYiBCcm93c2VyIiwic3lzdGVtX25hbWUiOiJXZWIgQnJvd3NlciIsInN5c3RlbV92ZXJzaW9uIjoiIiwidW5pcXVlX2lkIjoiIn19.8GYCTBl8VKVIHjigQ8vHkG_b16d4LHY4f3qMHJkOedA
 
@@ -64,11 +67,17 @@ https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Gortsakal_044_Operatsia_Geghard.
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/820/thumbnail_THUMBNAIL.jpg", Գործակալ 044։ Օպերացիա Գառնի
 https://rumble.com/hls-vod/YCtF6eSTtjY/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/9/MOVIE/565/thumbnail_THUMBNAIL.jpg", Դասարանցիները
+https://rumble.com/hls-vod/AhGAlvkB-7w/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/thumbnail_THUMBNAIL.jpg", Դե տժժա՛
 https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/11464/v1/STREAM/DASH/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/48/MOVIE/1068/thumbnail_THUMBNAIL.jpg", Դեպի ճամբար - Հատուկ ջոկատ
 https://rumble.com/hls-vod/E3NloG0fDCo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/9/MOVIE/556/thumbnail_THUMBNAIL.jpg", Դրախտի շողքերը
+https://rumble.com/hls-vod/JYboghZgnsM/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/thumbnail_THUMBNAIL.jpg", Եթե բոլորը
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/568/11192/v1/STREAM/DASH/playlist.mpd
@@ -132,6 +141,9 @@ https://cdn.kinodaran.com/MEDIA/1/MOVIE/259/7054/v1/STREAM/DASH/playlist.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/11/MOVIE/817/thumbnail_THUMBNAIL.jpg", Կորած մոլորվածը Հայաստանում
 https://rumble.com/hls-vod/e-3v-QMnW7Y/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/35/MOVIE/788/thumbnail_THUMBNAIL.jpg", Կրկին դպրոց
+https://rumble.com/hls-vod/3Agv4uivuko/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/thumbnail_THUMBNAIL.jpg", Հայ հայը
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/15742/v1/STREAM/DASH/playlist.mpd
@@ -229,6 +241,9 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/1103/16655/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/241/thumbnail_THUMBNAIL.jpg", Պատիժ
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/241/11379/STREAM/HLS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/15/MOVIE/590/thumbnail_THUMBNAIL.jpg", Պոլլի
+https://rumble.com/hls-vod/20h23heMb9k/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/421/thumbnail_THUMBNAIL.jpg", Poker.AM
 https://ncdn-y-vmedia-w1.teamcloud.am/vmediavod/Poker_AM_HD.mp4/index.m3u8
 
@@ -313,7 +328,13 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/v1/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/thumbnail_THUMBNAIL.jpg", Քո ներսի գազանը
 https://cdn.kinodaran.com/MEDIA/39/MOVIE/845/15741/v1/STREAM/DASH/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/opapapafhd.png", Օպա Պապա
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/36/MOVIE/811/thumbnail_THUMBNAIL.jpg", ՕԹԹԿ
+https://rumble.com/hls-vod/L0kBlAAlCsY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/409/thumbnail_THUMBNAIL.jpg", Օլիմպիկոս
+https://rumble.com/hls-vod/4yAPloRMWs0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/ca/s8/6/i/9/h/U/i9hUA.0kob.jpg", Օպա Պապա
 https://rumble.com/hls-vod/xIhqxTSO_2A/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/27/MOVIE/1034/thumbnail_THUMBNAIL.jpg", Օպերացիա <<Մեծապատիվ մուրացկաններ>>
