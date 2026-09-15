@@ -37,6 +37,9 @@ https://rumble.com/hls-vod/xq8xbJ2IlKk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/thumbnail_THUMBNAIL.jpg", Ապրիր ինձ հետ
 https://cdn.kinodaran.com/MEDIA/26/MOVIE/721/13603/v1/STREAM/HLS/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/arajindemq.png", Առաջին դեմք
+https://rumble.com/hls-vod/HPQgYq4YgSM/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/411/thumbnail_THUMBNAIL.jpg", Արմատներ
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/411/10874/STREAM/HLS/playlist.m3u8
 
@@ -45,6 +48,9 @@ https://cdn.kinodaran.com/MEDIA/9/MOVIE/563/11183/v1/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/thumbnail_THUMBNAIL.jpg", Արև սարեր ու սեր
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/569/11187/v1/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/26/TV_SHOW/695/thumbnail_THUMBNAIL.jpg", Բախտաբեր
+https://rumble.com/hls-vod/6GjWJitH1IU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1096/thumbnail_THUMBNAIL.jpg", Բախտի տերը
 https://rumble.com/hls-vod/ucFUk7J6M2E/playlist.m3u8
@@ -76,6 +82,9 @@ https://cdn.kinodaran.com/MEDIA/24/MOVIE/649/11464/v1/STREAM/DASH/playlist.mpd
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/48/MOVIE/1068/thumbnail_THUMBNAIL.jpg", Դեպի ճամբար - Հատուկ ջոկատ
 https://rumble.com/hls-vod/E3NloG0fDCo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/draxtidarpas.png", Դրախտի դարպասը
+https://rumble.com/hls-vod/fKnXc0etuoc/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/7/MOVIE/556/thumbnail_THUMBNAIL.jpg", Դրախտի շողքերը
 https://rumble.com/hls-vod/JYboghZgnsM/playlist.m3u8
 
@@ -100,8 +109,14 @@ https://rumble.com/hls-vod/rauC2Q4_KSI/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/45/MOVIE/1044/thumbnail_THUMBNAIL.jpg", Զուլալի
 https://rumble.com/hls-vod/7ECdwLm1frQ/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/tamzara.jpeg", Թամզարա
+https://rumble.com/hls-vod/WOI-4onfEFw/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1098/thumbnail_THUMBNAIL.jpg", Թանկարժեք տղաները
 https://rumble.com/hls-vod/gfMqm_jGfGQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/298/thumbnail_THUMBNAIL.jpg", Թևանիկ
+https://rumble.com/hls-vod/3mhYr8h2oiU/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1035/thumbnail_THUMBNAIL.jpg", Ժամանակն է
 https://cdn.kinodaran.com/MEDIA/1/MOVIE/1035/16191/STREAM/HLS/playlist.m3u8
@@ -117,6 +132,9 @@ https://cdn.kinodaran.com/MEDIA/14/MOVIE/583/11242/STREAM/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/6/MOVIE/543/thumbnail_THUMBNAIL.jpg", Իշխանություն
 https://cdn.kinodaran.com/MEDIA/6/MOVIE/543/10790/STREAM/HLS/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/ishxanutyun2.jpg", Իշխանություն 2
+https://rumble.com/hls-vod/UT0OvDDYPhY/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/6/MOVIE/542/thumbnail_THUMBNAIL.jpg", Լյուդվիգ անունով ոզնին
 https://cdn.kinodaran.com/MEDIA/6/MOVIE/542/10789/STREAM/HLS/playlist.m3u8
@@ -298,6 +316,12 @@ https://cdn.kinodaran.com/MEDIA/3/MOVIE/424/10871/STREAM/HLS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/47/MOVIE/1056/thumbnail_THUMBNAIL.jpg", Վերադարձ
 https://rumble.com/hls-vod/4t5k5ylUvoc/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/299/thumbnail_THUMBNAIL.jpg", Վերջին բնակիչը
+https://rumble.com/hls-vod/brIbZgV7Iz0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/632/thumbnail_THUMBNAIL.jpg", Վիշապ
+https://rumble.com/hls-vod/dRxaVCHhxJo/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/thumbnail_THUMBNAIL.jpg", Տաքսի <<Էլի լավա>>
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/10869/STREAM/HLS/playlist.m3u8
 
@@ -321,6 +345,9 @@ https://rumble.com/hls-vod/jLUS9GJPNsE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/thumbnail_THUMBNAIL.jpg", Քայլ ձիով
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/422/10846/STREAM/DASH/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/73/thumbnail_THUMBNAIL.jpg", Քավորը
+https://rumble.com/hls-vod/7A1pFT7o9SQ/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/thumbnail_THUMBNAIL.jpg", Քեզ հաղթանակ կնվիրեմ
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/1104/16656/v1/STREAM/HLS/playlist.m3u8
