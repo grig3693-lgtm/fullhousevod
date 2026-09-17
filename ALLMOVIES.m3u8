@@ -163,6 +163,9 @@ https://rumble.com/hls-vod/e-3v-QMnW7Y/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/35/MOVIE/788/thumbnail_THUMBNAIL.jpg", Կրկին դպրոց
 https://rumble.com/hls-vod/3Agv4uivuko/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/44/MOVIE/1176/thumbnail_THUMBNAIL.jpg", Կրկին փորձիր
+https://rumble.com/hls-vod/QU87PEv_c-w/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/thumbnail_THUMBNAIL.jpg", Հայ հայը
 https://cdn.kinodaran.com/MEDIA/10/MOVIE/846/15742/v1/STREAM/DASH/playlist.mpd
 
