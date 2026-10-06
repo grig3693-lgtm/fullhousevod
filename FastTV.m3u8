@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/87/s8/6/g/9/g/4/g9g4A.0kob.1.jpg" group-title="2026-27 UEFA Nations League", 2026/27 UEFA Nations League League D Group 1 Matchday 4 Malta vs Andorra(04.10.2026)
+https://rumble.com/hls-vod/lSNz8oqqV0k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://hugh.cdn.rumble.cloud/video/fwe2/51/s8/6/S/l/h/4/Slh4A.0kob.jpg" group-title="2026-27 UEFA Nations League", 2026/27 UEFA Nations League League C Group 2 Matchday 4 Montenegro vs Armenia(05.10.2026)
+https://rumble.com/hls-vod/q3yMrZgsgW4/playlist.m3u8
