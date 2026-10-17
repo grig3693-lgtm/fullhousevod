@@ -310,10 +310,10 @@ http://cdn.dommir.top:9290/RTVi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 http://cdn.dommir.top:9290/TRI_LUBIMOE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch432" tvg-name="History" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/History.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", History
-http://ncdn-y1-w6.teamcloud.am/live/eds/History_HD/SAF-HLS/History_HD-avc1_5000000=10004-mp4a_140800_eng=20001-mp4a_140800_rus=20000.m3u8
+http://ncdn-y1-w6.teamcloud.am/live/eds/History_HD/SAF-HLS/History_HD-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch433" tvg-name="History2" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/HISTORY2.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", History 2
-http://ncdn-y1-w6.teamcloud.am/live/eds/History_2_HD/SAF-HLS/History_2_HD-avc1_5000000=10004-mp4a_140800_eng=20001-mp4a_140800_rus=20000.m3u8
+http://ncdn-y1-w6.teamcloud.am/live/eds/History_2_HD/SAF-HLS/History_2_HD-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch070" tvg-name="red" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/red.png", .Red 
 http://stream.mcquack.net/69/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
