@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.team/tvteam.7.7.xml, https://iptv-epg.org/files/epg-us.xml"
 
-#EXTINF:-1 tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1.png" catchup="default" catchup-days="7" catchup-source="http://ncdn-y1-w9.teamcloud.am/live/eds/H1-Cup/SAF-HLS/H1-Cup-avc1_8000000=10012-mp4a_140800_hye=20001.m3u8?begin=${start}&end=${end}", Առաջին ալիք
+#EXTINF:-1 tvg-id="ch1077" tvg-name="H1" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h1.png" catchup="default" catchup-days="7" catchup-source="http://ncdn-y1-vip2.teamcloud.am/live/eds/H1-Cup/SAF-HLS/H1-Cup-avc1_8000000=10012-mp4a_140800_hye=20001.m3u8?begin=${start}&end=${end}", Առաջին ալիք
 http://ncdn-y1-vip2.teamcloud.am/live/eds/H1-SDI/SAF-HLS/H1-SDI-avc1_8000000=10005-mp4a_140800_hye=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch1078" tvg-name="H2" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/h2.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", H2
