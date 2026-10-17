@@ -790,10 +790,10 @@ http://cdn.dommir.top:9290/TV1000_Russkoe_kino_RU/playlist.m3u8?token=njQ2UNLc50
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/163/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png", Viju TV1000 Новелла
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=oxIZJBhxb1FBHIY_1u0nhw&e=1792156346&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=hxePWa4bXmzi6XbGDQo37g&e=1793256200&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch3074" tvg-name="TV1000Romantica" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijutv1000romanica.png", Viju TV1000 Romantica
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fQsKL0uQ96c4iTIkXDAxqw&e=1792156441&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=KG2yd_l8cqt3U0cafLU75Q&e=1793256252&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch60" tvg-name="Vijupremiere" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijupremiere.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Premiere
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PREMIEREHD/video_1920x1080_avc1/playlist.m3u8
@@ -808,10 +808,10 @@ https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png", Viju History
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_Russia_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=7htrlVCr4Pi6by8I9BKc-Q&e=1792156542&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_Russia_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=FKAnUyDd8WrgygoqGnuShw&e=1793256311&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png", Viju Explore 
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=KYMCi3JYM4jbxAb6BZ3f4w&e=1792156651&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=pWDThRGqruDvaMovaS4pSA&e=1793256363&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png", Viju Nature
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/169/mono.m3u8
@@ -820,7 +820,7 @@ https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/169/mono.m3u8
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="ch441" tvg-name="Davinci" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/DaVinci.png", Da Vinci
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=zPODJqqs-7Izjr3tRtxWjg&e=1792156783&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=AnioeRn3_MdYHlUgIlAoig&e=1793256432&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png", viju+  Sport
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/170/mono.m3u8
