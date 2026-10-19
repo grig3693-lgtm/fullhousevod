@@ -25,7 +25,7 @@ http://ncdn-y1-vip2.teamcloud.am/live/eds/NorHayastan/SAF-HLS/NorHayastan-avc1_8
 http://ncdn-y1-vip2.teamcloud.am/live/eds/5Aliq/SAF-HLS/5Aliq-avc1_8000000=10010-mp4a_140800=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch2407" tvg-name="Ararat" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ararat.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/137/mono-timeshift_rel-{offset}.m3u8", Արարատ TV
-http://armsmart.nl:8484/stream/okko/ararat/master.m3u8?u=admin&p=admin
+http://admin:admin@armsmart.nl:8484/stream/okko/ararat/master.m3u8
 
 #EXTINF:-1 tvg-id="ch1070" tvg-name="Freenews" group-title="Հայկական","Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/freenews.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Free News
 http://ncdn-y1-vip2.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews-avc1_5000000=10005-mp4a_140800_eng=20000.m3u8
