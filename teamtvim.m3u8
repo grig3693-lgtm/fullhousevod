@@ -558,22 +558,22 @@ https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch1075" tvg-name="Շանթ Film" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ShantFilm.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Film 
 https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/255/mono-timeshift_rel-{offset}.m3u8", Սինեման
+#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png", Սինեման
 http://timeshift.arpinet.am/255/index.m3u8
 
-#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/257/mono-timeshift_rel-{offset}.m3u8", Տունտունիկ
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/TunTunik/mono.m3u8
+#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png", Տունտունիկ
+http://armsmart.nl:8080/freetvportal/freetvportal/7383.m3u8
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/252/mono-timeshift_rel-{offset}.m3u8", Քոմեդի
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/Comedy/mono.m3u8
+#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png", Քոմեդի
+http://armsmart.nl:8080/freetvportal/freetvportal/7384.m3u8
 
 #EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/85/mono-timeshift_rel-{offset}.m3u8", Ջան TV
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/JanTV/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1474" tvg-name="Haykino2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haykino.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/256/mono-timeshift_rel-{offset}.m3u8", Հայ Կինո
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/HayKino/mono.m3u8
+#EXTINF:-1 tvg-id="ch1474" tvg-name="Haykino2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haykino.png", Հայ Կինո
+http://armsmart.nl:8080/freetvportal/freetvportal/35.m3u8
 
-#EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/20/mono-timeshift_rel-{offset}.m3u8", Արմենիա Պրեմիում
+#EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png", Արմենիա Պրեմիում
 http://armsmart.nl:8080/freetvportal/freetvportal/38.m3u8
 
 #EXTINF:-1 tvg-id="ch1490" tvg-name="Շանթ Kids" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/220.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", Fast Sports
