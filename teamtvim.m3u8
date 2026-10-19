@@ -646,13 +646,13 @@ https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta2Geo/mono.m3u8
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta3Geo/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png", Окко Спорт
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/okko-sport/mono.m3u8
+http://armsmart.nl:8484/stream/okko/okko1/master.m3u8?u=admin&p=admin
 
 #EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png", Окко Прайм Спорт
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/OkkoPrime/mono.m3u8
+http://armsmart.nl:8484/stream/okko/okko/master.m3u8?u=admin&p=admin
 
 #EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png", Окко Футбол
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/okko-football/mono.m3u8
+http://armsmart.nl:8484/stream/okko/okkofutboll/master.m3u8?u=admin&p=admin
 
 #EXTINF:-1 tvg-id="ch3911" tvg-name="Okkochempionat" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoefirHD.png", Окко Чемпионат
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
