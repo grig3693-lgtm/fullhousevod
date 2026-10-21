@@ -99,6 +99,9 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch" tvg-name="1med" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1medtv.png", 1MED TV
 https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ch436" tvg-name="Kosmi" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kosm.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Космический
+http://ncdn-y1-w6.teamcloud.am/live/eds/Evrika_HD/SAF-HLS/Evrika_HD-avc1_5000000=10005-mp4a_140800_rus=20000.m3u8
+
 #EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png", Россия 1
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/live/0/russia1-hd/1080p.m3u8
 
@@ -180,6 +183,18 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ch99" tvg-name="RBK" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RBK.png", РБК
 https://live-gccdn.rbc.ru/gcore/rbctvhd_1080p/index.m3u8
 
+#EXTINF:-1 tvg-id="ch143" tvg-name="prikluchenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/prikluchenia.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Приключения
+http://ncdn-y1-w6.teamcloud.am/live/eds/Prikluchniya/SAF-HLS/Prikluchniya-avc1_5000000=10001-mp4a_140800_rus=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch714" tvg-name="kinopokaz" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/kinopokaz.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Наш Кинопоказ
+http://ncdn-y1-w6.teamcloud.am/live/eds/Travel_channel/SAF-HLS/Travel_channel-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
+
+#EXTINF:-1 tvg-id="ch439" tvg-name="RTDoc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/rtdoc.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", RT Doc
+http://ncdn-y1-w6.teamcloud.am/live/eds/RT_Doc_HD/SAF-HLS/RT_Doc_HD-avc1_5000000=10004-mp4a_140800_rus=20001_140800_eng=20000.m3u8
+
+#EXTINF:-1 tvg-id="ch512" tvg-name="insight" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/InsightTV.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Insight TV
+http://ncdn-y1-w6.teamcloud.am/live/eds/Insight_HD/SAF-HLS/Insight_HD-avc1_7000000=10004-mp4a_140800_rus=20000.m3u8
+
 #EXTINF:-1 tvg-id="ch24" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/TV3.png", TV3
 http://cdn.dommir.top:9290/TV3/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
@@ -189,8 +204,11 @@ http://cdn.dommir.top:9290/Ren_TV_HD_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc5
 #EXTINF:-1 tvg-id="ch110" tvg-name="Domashniy" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Domashniy.png", Домашний
 http://cdn.dommir.top:9290/Domashniy_RU_hi/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch434" tvg-name="IDXtra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ID.png", Investigation Discovery
-http://cdn.dommir.top:9290/NTV_ID_Xtra_HD_lo/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch434" tvg-name="IDXtra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ID.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Investigation Discovery
+http://ncdn-y1-w6.teamcloud.am/live/eds/IDX/SAF-HLS/IDX-avc1_5000000=10004-mp4a_140800_rus=20000-mp4a_140800_eng=20001.m3u8
+
+#EXTINF:-1 tvg-id="ch141" tvg-name="Vmire" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vmire.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", В мире животных
+http://ncdn-y1-w6.teamcloud.am/live/eds/V_mire_Jivotnix/SAF-HLS/V_mire_Jivotnix-avc1_5000000=10004-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch66" tvg-name="Pobeda" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/pobeda.png", Победа
 http://cdn.dommir.top:9290/POBEDA_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
@@ -216,8 +234,11 @@ http://cdn.dommir.top:9290/Ewropaplustv/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 #EXTINF:-1 tvg-id="ch098" tvg-name="romantichnoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Romantichnoe.png", Романтичное
 http://cdn.dommir.top:9290/TRI_ROMANTICHNOE_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch638" tvg-name="kfantastika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kapitanfantastika.png", Капитан Фантастика
-http://cdn.dommir.top:9290/Kapitan_Fantastika/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch638" tvg-name="kfantastika" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Kapitanfantastika.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Капитан Фантастика
+http://ncdn-y1-w6.teamcloud.am/live/eds/Kapitan_fantastika/SAF-HLS/Kapitan_fantastika-avc1_5000000=10002-mp4a_140800_rus=20001.m3u8
+
+#EXTINF:-1 tvg-id="ch3313" tvg-name="sumiko" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/sumiko.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Sumiko
+http://ncdn-y1-w6.teamcloud.am/live/eds/Sumiko/SAF-HLS/Sumiko-avc1_8000000=10005-mp4a_140800_rus=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch514" tvg-name="bolt" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/BOLT.png", Bolt
 http://cdn.dommir.top:9290/BOLT_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
@@ -267,11 +288,11 @@ http://cdn.dommir.top:9290/TRI_PREMIALJNOJE_HD/tracks-v1a1/mono.m3u8?token=njQ2U
 #EXTINF:-1 tvg-id="ch689" tvg-name="Blokbuster" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Blokbuster.png", Блокбастер
 http://cdn.dommir.top:9290/TRI_BLOKBASTER_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
-#EXTINF:-1 tvg-id="ch557" tvg-name="StarCinema" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarCinema.png", Star Cinema
-http://cdn.dommir.top:9290/STAR_CINEMA_HD/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch557" tvg-name="StarCinema" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarCinema.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", Star Cinema
+http://ncdn-y1-w6.teamcloud.am/live/eds/Star_Cinema/SAF-HLS/Star_Cinema-avc1_5000000=10001-mp4a_140800_rus=20001.m3u8
 
-#EXTINF:-1 tvg-id="ch3211" tvg-name="StarFamily" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarFamily.png", Star Family
-http://cdn.dommir.top:9290/STAR_FAMILY_HD_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch3211" tvg-name="StarFamily" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/StarFamily.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}, Star Family
+http://ncdn-y1-w6.teamcloud.am/live/eds/StarFamily/SAF-HLS/StarFamily-avc1_5000000=10004-mp4a_140800_rus=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch" tvg-name="GNC" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/GNC.png", GNC
 http://cdn.dommir.top:9290/GNC/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
@@ -428,6 +449,9 @@ https://164475.gvideo.io/mpegts/164475_650646/media_mpegts_0.m3u8
 
 #EXTINF:-1 tvg-id="ch1944" tvg-name="France24" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/FRANCE24.png", France24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""Newsmax" tvg-logo="" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", News Max
+http://ncdn-y1-w6.teamcloud.am/live/eds/NewsMax/SAF-HLS/NewsMax-avc1_8000000=10005-mp4a_140800_eng=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch500" tvg-name=""CNN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/CNN.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", CNN
 http://ncdn-y1-w6.teamcloud.am/live/eds/CNN/SAF-HLS/CNN-avc1_5000000=10006-mp4a_140800_eng=20000.m3u8
