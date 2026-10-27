@@ -103,10 +103,10 @@ https://rq3qltxnbx1.a.trbcdn.net/livemaster/8hwxnq4s0v_efir0/tracks-v1a1/mono.m3
 http://ncdn-y1-w6.teamcloud.am/live/eds/Evrika_HD/SAF-HLS/Evrika_HD-avc1_5000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch2" tvg-name="rossiya1" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya1.png", Россия 1
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/live/0/russia1-hd/1080p.m3u8
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="ch7" tvg-name="rossiya24" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Rossiya24.png", Россия 24
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/live/0/russia24-hd/1080p.m3u8
+https://stream.smotrim.ru/hls2/russia24_hd/playlist_5.m3u8
 
 #EXTINF:-1 tvg-id="ch102" tvg-name="rossiyak" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/RossiyaК.png", Россия К
 https://live.smotrim.ru/vgtrk/0/kultura-hd/track_105_319a299f/chunklist.m3u8
@@ -349,7 +349,7 @@ http://cdn.dommir.top:9290/Sony_Sci-Fi_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 http://cdn.dommir.top:9290/RU_TV_RU/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch328" tvg-name="1HDMusic" group-title="Ռուսական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/1HDMusic.png", 1HD Music Television
-http://str2.iptvhd.ru:8080/1HD/index.m3u8
+http://176.118.197.101/1HD/index.m3u8
 
 #EXTINF:-1 tvg-id="ch" tvg-name="PerviymuzikalniyHD" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/PerviymuzikalniyHD.png", Первый Музыкальный
 http://cdn.dommir.top:9290/RU:perwimuzrosia/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
@@ -406,10 +406,10 @@ https://songtv.hls.iptvdc.com/web-russia/hd/playlist.m3u8
 http://timeshift.arpinet.am/236/index.m3u8
 
 #EXTINF:-1 tvg-id="ch1506" tvg-name="USArmenia" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/usarmenia.png", USArmenia TV
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/USArmenia/mono.m3u8
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
 
 #EXTINF:-1 tvg-id="ch1505" tvg-name="ARTN" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/artn.png", ARTN TV
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/ARTN/mono.m3u8
+https://us1.ottstream.live:17071/C294/tracks-v1a1/mono.m3u8?token=jUVIvRG1l$w8P2wX
 
 #EXTINF:-1 tvg-id="ch1504" tvg-name="Panarmenian" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/panarmenian.png", Panarmenian TV
 http://217.113.25.225:8088/s/ptv/bqF9EC7TS0oVdFO6aNtrqb2Q/PanArmenian_TV
@@ -516,11 +516,10 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/MTVLive.png", MTV Live USA
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/43/mono-timeshift_rel-{offset}.m3u8, Nickelodeon Russia
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/nick/mono.m3u8
+#EXTINF:-1 tvg-id="ch479" tvg-name="NickelodeonRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/NickelodeonHD.png" http://cdn.dommir.top:9290/Nickelodeon_HD_hi/playlist.m3u8?token=njQ2UNLc50
 
 #EXTINF:-1 tvg-id="ch479" tvg-name="NicktoonsRU" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/nicktoons.png", Nicktoons Russia
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/stream8/cinerama/1502/index.m3u8
+https://stream8.cinerama.uz/1502/tracks-v2a1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch81" tvg-name="CartoonNetwrk" tvg-logo="http://ttv.teamcloud.am/static/channel-data/channelicon/101.png", Cartoon Network Russia
 https://bl.rutube.ru/livestream/d2119cfb95146b3983cf05c1fe35e66f/index.m3u8?s=yXZg1iRPyTL77uOBO2M0_A&e=2089316162&scheme=https
