@@ -13543,6 +13543,9 @@ https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTWRR
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/BARI_GALUST_02_300X169.jpg" group-title="ԲԱՐԻ ԳԱԼՈՒՍՏ", ԲԱՐԻ ԳԱԼՈՒՍՏ - Սերիա 2
 https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTTGGBYCFYKDLMPMZIXVEKCU02.mp4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/BARI_GALUST_03_300X169.jpg" group-title="ԲԱՐԻ ԳԱԼՈՒՍՏ", ԲԱՐԻ ԳԱԼՈՒՍՏ - Սերիա 3
+https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTLZWQWNSRTRELUEONTGBXJF03.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2025/01/BACAHAYTVAC_GORTSER_01_300X169.jpg" group-title="ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ", ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ - Սերիա 1
 https://shantpremium-vod-hls2.cdnvideo.ru/BVCTEJCGOSJHSPJKWPKCJHWGIHW/CLRDCSSNVGKATLGHOVGBHHAJDNFV01.mp4/index.m3u8
 
@@ -13557,7 +13560,7 @@ https://shantpremium-vod-hls2.cdnvideo.ru/BVCTEJCGOSJHSPJKWPKCJHWGIHW/CLRDCSSXCA
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2025/01/BACAHAYTVAC_GORTSER_05_300X169.jpg" group-title="ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ", ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ - Սերիա 5
 https://shantpremium-vod-hls2.cdnvideo.ru/BVCTEJCGOSJHSPJKWPKCJHWGIHW/CLRDCSSKBKSCFZHYKWTMMDENUDT05.mp4/index.m3u8
-
+SIRO
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2025/01/BACAHAYTVAC_GORTSER_06_300X169.jpg" group-title="ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ", ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ - Սերիա 6
 https://shantpremium-vod-hls2.cdnvideo.ru/BVCTEJCGOSJHSPJKWPKCJHWGIHW/CLRDCSSMIHFFANVDCWKSJRXWPUSA06.mp4/index.m3u8
 
@@ -45489,6 +45492,9 @@ https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNZF
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/SIRO_HANGUYC_37_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 37
 https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNTPKKRYWETWUKAKUPUHXAH37.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/SIRO_HANGUYC_38_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 38
+https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNXBVSCSEVIDLMGEMWDEVZC38.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2022/04/02.ADDICTED_TO_LOVE_300x169.jpg" group-title="ՍԻՐՈ ՄՈԼՈՒՑՔ", ՍԻՐՈ ՄՈԼՈՒՑՔ - ՍԻՐՈ ՄՈԼՈՒՑՔ
 https://shantpremium-vod-hls2.cdnvideo.ru/TUFIOWALJNLS/WARBRGRZLIQWLWZLHMKMDUPRYS150.mp4/index.m3u8
