@@ -39139,6 +39139,9 @@ https://rumble.com/hls-vod/afNBL_uyQ0k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/MI_GEXECIK_OR_101_300X169.jpg" group-title="ՄԻ ԳԵՂԵՑԻԿ ՕՐ", ՄԻ ԳԵՂԵՑԻԿ ՕՐ - Սերիա 101
 https://rumble.com/hls-vod/veP45K6gzhg/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/MI_GEXECIK_OR_102_300X169.jpg" group-title="ՄԻ ԳԵՂԵՑԻԿ ՕՐ", ՄԻ ԳԵՂԵՑԻԿ ՕՐ - Սերիա 102
+https://rumble.com/hls-vod/aV0piO1Gdgw/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2024/02/02.JAMES_BOND_05_YOU_ONLY_LIVE_TWICE_300X169.jpg" group-title="ՄԻԱՅՆ ԵՐԿՈՒ ԿՅԱՆՔ ՈՒՆԵՍ", ՄԻԱՅՆ ԵՐԿՈՒ ԿՅԱՆՔ ՈՒՆԵՍ - ՄԻԱՅՆ ԵՐԿՈՒ ԿՅԱՆՔ ՈՒՆԵՍ
 https://shantpremium-vod-hls2.cdnvideo.ru/TUFIOWALJNLS/MGMAVRLCELIIHMRZPEMZQGRB185.mp4/index.m3u8
 
@@ -45531,6 +45534,9 @@ https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNVM
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/SIRO_HANGUYC_40_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 40
 https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNPWFTOVSFKGYXPMRXQLFLZ40.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/SIRO_HANGUYC_41_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 41
+https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNSNOMNXIUSEQUWZKOZZRWL41.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2022/04/02.ADDICTED_TO_LOVE_300x169.jpg" group-title="ՍԻՐՈ ՄՈԼՈՒՑՔ", ՍԻՐՈ ՄՈԼՈՒՑՔ - ՍԻՐՈ ՄՈԼՈՒՑՔ
 https://shantpremium-vod-hls2.cdnvideo.ru/TUFIOWALJNLS/WARBRGRZLIQWLWZLHMKMDUPRYS150.mp4/index.m3u8
