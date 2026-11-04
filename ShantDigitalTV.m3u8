@@ -3373,6 +3373,9 @@ https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFR
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/10/X-FACTOR_KIDS_01_CASTING_05_300X169.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Լսումներ 5
 https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFRSTYEEJYZEFSNQADMVVIYDIFW09.mp4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/X-FACTOR_KIDS_01_CASTING_06_300X169.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Լսումներ 6
+https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFRSTLEDENUICRFFNGPDYAXHQW11.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2023/01/PLUS_MINUS_23_EPISODE_01_300X169.jpg" group-title="±23", ±23 - Սերիա 1
 https://shantpremium-vod-hls2.cdnvideo.ru/RUMVNFJDHVKELHVNJIENVUEBNVK/PSMNSXKFMMLIDAZSYNVICXXSFQ01.mp4/index.m3u8
 
@@ -39150,6 +39153,9 @@ https://rumble.com/hls-vod/GkpQ9oE2NUQ/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/MI_GEXECIK_OR_104_300X169.jpg" group-title="ՄԻ ԳԵՂԵՑԻԿ ՕՐ", ՄԻ ԳԵՂԵՑԻԿ ՕՐ - Սերիա 104
 https://rumble.com/hls-vod/4eZksvDIVPY/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/MI_GEXECIK_OR_105_300X169.jpg" group-title="ՄԻ ԳԵՂԵՑԻԿ ՕՐ", ՄԻ ԳԵՂԵՑԻԿ ՕՐ - Սերիա 105
+https://rumble.com/hls-vod/Qwm3Osz7yIw/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2024/02/02.JAMES_BOND_05_YOU_ONLY_LIVE_TWICE_300X169.jpg" group-title="ՄԻԱՅՆ ԵՐԿՈՒ ԿՅԱՆՔ ՈՒՆԵՍ", ՄԻԱՅՆ ԵՐԿՈՒ ԿՅԱՆՔ ՈՒՆԵՍ - ՄԻԱՅՆ ԵՐԿՈՒ ԿՅԱՆՔ ՈՒՆԵՍ
 https://shantpremium-vod-hls2.cdnvideo.ru/TUFIOWALJNLS/MGMAVRLCELIIHMRZPEMZQGRB185.mp4/index.m3u8
