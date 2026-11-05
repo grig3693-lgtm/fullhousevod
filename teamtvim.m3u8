@@ -1113,7 +1113,7 @@ https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/JANTV/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy" group-title="Ucom" catchup="append" catchup-days="7",Comedy
+#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd?starttime={utc}&duration=60000",Comedy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/COMEDY/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd
