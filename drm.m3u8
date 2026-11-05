@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://www.epgshare.online/epgshare_col_tv.xml.gz"
 #EXTINF:-1 tvg-id="29070922" tvg-name="Առաջին Ալիք" tvg-logo="https://fe.tv.ucom.am/chnnl/09/0b/60/74/e1e8-4817-bf4b-a56eebfcaf58.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/1TVARMENIA/manifest.mpd?starttime={utc}&duration={duration}000",Առաջին Ալիք
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
@@ -311,6 +311,18 @@ https://fe.tv.ucom.am/timeline/VIJUTV1000ACTION/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://fe.tv.ucom.am/timeline/VIJUTV1000RUSSIANCINEMA/manifest.mpd
+#EXTINF:-1 tvg-id="290715" tvg-name="viju TV 1000 History" tvg-logo="https://fe.tv.ucom.am/chnnl/0c/4e/b9/15/c5b3-4c22-8ea0-9e36f0d3c33.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUTHISTORY/manifest.mpd?starttime={utc}&duration={duration}000",viju TV 1000 Русское Кино
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://fe.tv.ucom.am/timeline/VIJUTHISTORY/manifest.mpd
+#EXTINF:-1 tvg-id="29075" tvg-name="viju TV 1000 Explore" tvg-logo="https://fe.tv.ucom.am/chnnl/0c/4e/b9/15/c5b3-4c22-8ea0-9e36f0d3c3.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUEXPLORE/manifest.mpd?starttime={utc}&duration={duration}000",viju TV 1000 Русское Кино
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://fe.tv.ucom.am/timeline/VIJUXPLORE/manifest.mpd
+#EXTINF:-1 tvg-id="2907" tvg-name="viju TV 1000 Nature" tvg-logo="https://fe.tv.ucom.am/chnnl/0c/4e/b9/15/c5b3-4c22-8ea0-9e36f0d3c.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUNATURE/manifest.mpd?starttime={utc}&duration={duration}000",viju TV 1000 Русское Кино
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://fe.tv.ucom.am/timeline/VIJUNATURE/manifest.mpd
 #EXTINF:-1 tvg-id="29071702" tvg-name="viju+Sport" tvg-logo="https://fe.tv.ucom.am/chnnl/1e/4c/c3/61/3a78-4e3e-a23e-626e0a168f35.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUPLUSSPORT/manifest.mpd?starttime={utc}&duration={duration}000",viju+Sport
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
