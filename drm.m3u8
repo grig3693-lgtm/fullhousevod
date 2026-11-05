@@ -1,6 +1,301 @@
 #EXTM3U
-#EXT-X-PLAYLIST-TYPE:VOD
-
-#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/1/MOVIE/1168/thumbnail.jpg" group-title="Ֆիլմեր", Ֆուլ հաուս: Վայրէջք
-#EXTCBC:drm-type=widevine&drm-key=df07e4451194515cab06c4a623c29c7a:fca9a0d945ab524312c8c7b839bf377f&http-user-agent=Kinodaran/%20Android/30
-https://cdn.kinodaran.com/MEDIA/48/MOVIE/1168/16736/STREAM/DASH/playlist.mpd
+#EXTINF:-1 tvg-id="29070922" tvg-name="Առաջին Ալիք" tvg-logo="https://fe.tv.ucom.am/chnnl/09/0b/60/74/e1e8-4817-bf4b-a56eebfcaf58.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/1TVARMENIA/manifest.mpd?starttime={utc}&duration={duration}000",Առաջին Ալիք
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/1TVARMENIA/1793961219/ucom/fac171485dcfea241e96a6c74cf7d3a6454d14bd0b391dbc7cf2013124406202|
+https://fe.tv.ucom.am/timeline/1TVARMENIA/manifest.mpd
+#EXTINF:-1 tvg-id="29070924" tvg-name="Առաջինի լրատվական" tvg-logo="https://fe.tv.ucom.am/chnnl/f3/d6/1d/25/a2f8-43b2-9372-f5dd7f75f252.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FIRSTNEWS/manifest.mpd?starttime={utc}&duration={duration}000",Առաջինի լրատվական
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/FIRSTNEWS/1793961219/ucom/ccaa4ffd0d4c3bcb3693de4d134b60d013b921acc7a1501f95c690d5b9b5d7cb|
+https://fe.tv.ucom.am/timeline/FIRSTNEWS/manifest.mpd
+#EXTINF:-1 tvg-id="29070925" tvg-name="Արմենիա TV" tvg-logo="https://fe.tv.ucom.am/chnnl/fc/22/4e/3b/e4a1-47d0-a1c7-f679968c92c7.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/ARMENIATV/manifest.mpd?starttime={utc}&duration={duration}000",Արմենիա TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIATV/1793961219/ucom/eb6c59a2b175048c675c95478871b081d0edbeca0fc2c0f9254ce2665552b724|
+https://fe.tv.ucom.am/timeline/ARMENIATV/manifest.mpd
+#EXTINF:-1 tvg-id="29070926" tvg-name="Շանթ" tvg-logo="https://fe.tv.ucom.am/chnnl/8d/46/50/94/4f22-4fea-88e6-f712d6defd5a.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/SHANTTV/manifest.mpd?starttime={utc}&duration={duration}000",Շանթ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/SHANTTV/1793961219/ucom/b9c898c23b2f00008136cff88ee04f50b4857a99f4dc8022f27082025cb04181|
+https://fe.tv.ucom.am/timeline/SHANTTV/manifest.mpd
+#EXTINF:-1 tvg-id="29070927" tvg-name="ATV" tvg-logo="https://fe.tv.ucom.am/chnnl/d0/9a/e6/a2/2dde-4e0d-8ba8-33401f8e4ee2.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/ATV/manifest.mpd?starttime={utc}&duration={duration}000",ATV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ATV/1793961219/ucom/a4c4ab218adc97534bc57e187a916003099bcb346808f57dd394eddae4380341|
+https://fe.tv.ucom.am/timeline/ATV/manifest.mpd
+#EXTINF:-1 tvg-id="29070929" tvg-name="Fast sports" tvg-logo="https://fe.tv.ucom.am/chnnl/12/b2/57/b8/f11b-4ea9-adbf-dfc2cece6f39.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FASTSPORTS/manifest.mpd?starttime={utc}&duration={duration}000",Fast sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/FASTSPORTS/1793961219/ucom/230b97a0b90350e0af38a890c895b75b19dbaf64bf6a6bced3b99426f1ea3810|
+https://fe.tv.ucom.am/timeline/FASTSPORTS/manifest.mpd
+#EXTINF:-1 tvg-id="29070928" tvg-name="Կենտրոն" tvg-logo="https://fe.tv.ucom.am/chnnl/94/0c/5d/14/590d-4008-938f-16221919566a.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KENTRON/manifest.mpd?starttime={utc}&duration={duration}000",Կենտրոն
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/KENTRON/1793961219/ucom/6553c3fcc005d49a90a9c5f210224204940b3402a9ebd484919ba31557685581|
+https://fe.tv.ucom.am/timeline/KENTRON/manifest.mpd
+#EXTINF:-1 tvg-id="29070930" tvg-name="Free News" tvg-logo="https://fe.tv.ucom.am/chnnl/d8/a7/a1/66/0634-4896-a103-869c8a15c150.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FREENEWS/manifest.mpd?starttime={utc}&duration={duration}000",Free News
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/FREENEWS/1793961219/ucom/3c6df0b9fe375f306e2ba8e1ce7fa359fc319610e6a3598ede3438442dd531e4|
+https://fe.tv.ucom.am/timeline/FREENEWS/manifest.mpd
+#EXTINF:-1 tvg-id="29070932" tvg-name="Բուն TV" tvg-logo="https://fe.tv.ucom.am/chnnl/85/0b/e6/42/d923-4f17-b53e-24f49b45685d.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BOONTV/manifest.mpd?starttime={utc}&duration={duration}000",Բուն TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/BOONTV/1793961219/ucom/da3ce33c89134695f7985936dae0dc087aabe3716e03d32cc26bfdefae8b9f48|
+https://fe.tv.ucom.am/timeline/BOONTV/manifest.mpd
+#EXTINF:-1 tvg-id="29070933" tvg-name="Նոր Հայաստան" tvg-logo="https://fe.tv.ucom.am/chnnl/45/db/8b/5b/4efe-4280-859e-2763c3f00113.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/NORHAYASTANTV/manifest.mpd?starttime={utc}&duration={duration}000",Նոր Հայաստան
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/NORHAYASTANTV/1793961219/ucom/cc10332c3ed24405fb1fbad046fa5f36c7d0e241835875323cd8a0e3b13e0b97|
+https://fe.tv.ucom.am/timeline/NORHAYASTANTV/manifest.mpd
+#EXTINF:-1 tvg-id="29070934" tvg-name="Հինգերորդ ալիք" tvg-logo="https://fe.tv.ucom.am/chnnl/8c/7b/97/ca/147a-4115-8603-62ddba2efa5f.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/5TV/manifest.mpd?starttime={utc}&duration={duration}000",Հինգերորդ ալիք
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/5TV/1793961219/ucom/35ad97cc1c96603a5051c1d73421811fa4aa6fb0db16f2eddfe1ae0b3ca3f5ef|
+https://fe.tv.ucom.am/timeline/5TV/manifest.mpd
+#EXTINF:-1 tvg-id="29070935" tvg-name="21TV" tvg-logo="https://fe.tv.ucom.am/chnnl/6c/f1/8f/0d/eb23-4c13-8e73-ae73e48a6df6.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/21TV/manifest.mpd?starttime={utc}&duration={duration}000",21TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/21TV/1793961219/ucom/1d0d146a6d68b83a0cef81e098e6b20d4576f3572f99a3d41c009d676730fb48|
+https://fe.tv.ucom.am/timeline/21TV/manifest.mpd
+#EXTINF:-1 tvg-id="29070985" tvg-name="Россия РТР" tvg-logo="https://fe.tv.ucom.am/chnnl/07/9c/b2/bd/2a15-46ab-bf14-7b6593043731.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RUSSIARTR/manifest.mpd?starttime={utc}&duration={duration}000",Россия РТР
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/RUSSIARTR/1793961219/ucom/a47c2b64e4e5ac1ab2a7bea5f06dc0b79667c23e6a799f0dd71bf81fd3193e51|
+https://fe.tv.ucom.am/timeline/RUSSIARTR/manifest.mpd
+#EXTINF:-1 tvg-id="44247317" tvg-name="Россия-К" tvg-logo="https://fe.tv.ucom.am/chnnl/56/6a/30/f8/4ab9-4edf-9068-895cb8f9c934.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RUSSIACULTURE/manifest.mpd?starttime={utc}&duration={duration}000",Россия-К
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/RUSSIACULTURE/1793961219/ucom/8f1bb296e73f11036ec85ea841c056fff70e274a5360419a041f59b2875ee325|
+https://fe.tv.ucom.am/timeline/RUSSIACULTURE/manifest.mpd
+#EXTINF:-1 tvg-id="29070987" tvg-name="Мир" tvg-logo="https://fe.tv.ucom.am/chnnl/a5/bc/72/07/e87e-4504-a0f8-ebfe21ec7462.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/MIR/manifest.mpd?starttime={utc}&duration={duration}000",Мир
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/MIR/1793961219/ucom/372c54880f81f9e3f91dfe3f9a169bc3c1311b6da5f76ff5604e6f9c56d444ed|
+https://fe.tv.ucom.am/timeline/MIR/manifest.mpd
+#EXTINF:-1 tvg-id="29070939" tvg-name="Fortuna TV" tvg-logo="https://fe.tv.ucom.am/chnnl/12/92/ae/22/5dcb-4b77-a02b-854397b7ae40.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FORTUNATV/manifest.mpd?starttime={utc}&duration={duration}000",Fortuna TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/FORTUNATV/1793961219/ucom/31e5a471ddb15ed9d71cdcf125bd2cc741e246c2aa43d32431a26be1ef66f284|
+https://fe.tv.ucom.am/timeline/FORTUNATV/manifest.mpd
+#EXTINF:-1 tvg-id="29070940" tvg-name="Ցայգ" tvg-logo="https://fe.tv.ucom.am/chnnl/3b/99/71/33/d1f7-4db4-90ed-4f477fe68fc4.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TSAYG/manifest.mpd?starttime={utc}&duration={duration}000",Ցայգ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TSAYG/1793961219/ucom/a14106e548ea7f2be9bc514d5e27f2e104946c6048bd847873c5f7bf2ff72c67|
+https://fe.tv.ucom.am/timeline/TSAYG/manifest.mpd
+#EXTINF:-1 tvg-id="29070941" tvg-name="Tavush TV" tvg-logo="https://fe.tv.ucom.am/chnnl/70/a6/e8/71/f7f4-419a-a50b-7d6f3df5f935.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TAVUSHTV/manifest.mpd?starttime={utc}&duration={duration}000",Tavush TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TAVUSHTV/1793961219/ucom/eb633e41e689b23db9cef86d804b7da5df87c8d4426870c5e4aaa7d35a488ef5|
+https://fe.tv.ucom.am/timeline/TAVUSHTV/manifest.mpd
+#EXTINF:-1 tvg-id="29070982" tvg-name="Lori TV" tvg-logo="https://fe.tv.ucom.am/chnnl/65/00/a2/c4/13d5-4c26-bdba-02f83f959aae.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/LORITV/manifest.mpd?starttime={utc}&duration={duration}000",Lori TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/LORITV/1793961219/ucom/f49ab57147e3d1af21124716575421010d91d054122616bb2efd686f795122e0|
+https://fe.tv.ucom.am/timeline/LORITV/manifest.mpd
+#EXTINF:-1 tvg-id="29070983" tvg-name="Syunik TV" tvg-logo="https://fe.tv.ucom.am/chnnl/49/62/d3/8c/15a1-4c2d-b213-6adbb56caaa3.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/SYUNIKTV/manifest.mpd?starttime={utc}&duration={duration}000",Syunik TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/SYUNIKTV/1793961219/ucom/56b3f6343db8f221e1cc3ff2aeb8815d5b02786be2cecec52e07ad1712fcc655|
+https://fe.tv.ucom.am/timeline/SYUNIKTV/manifest.mpd
+#EXTINF:-1 tvg-id="29070936" tvg-name="Delta TV HD" tvg-logo="https://fe.tv.ucom.am/chnnl/70/39/0f/f3/4dd0-4155-b570-a6e7eca0482d.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/DELTATVHD/manifest.mpd?starttime={utc}&duration={duration}000",Delta TV HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/DELTATVHD/1793961219/ucom/7c4902545cd04399cd9e44d4280deb537dea8b46a0dfe5f09920d11196a671e7|
+https://fe.tv.ucom.am/timeline/DELTATVHD/manifest.mpd
+#EXTINF:-1 tvg-id="29070937" tvg-name="Ararat TV" tvg-logo="https://fe.tv.ucom.am/chnnl/3d/cb/67/7b/4321-4714-bd78-c95595798b46.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/ARARATTV/manifest.mpd?starttime={utc}&duration={duration}000",Ararat TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARARATTV/1793961219/ucom/67d8be25d0f865b6f924b7026ff70574b5a2d0e971fc9cc31ff73ea3c60d7756|
+https://fe.tv.ucom.am/timeline/ARARATTV/manifest.mpd
+#EXTINF:-1 tvg-id="29070938" tvg-name="Գեղամա TV" tvg-logo="https://fe.tv.ucom.am/chnnl/ad/cf/a3/db/aceb-4062-83b3-c8a7e43a161e.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/GEGHAMATV/manifest.mpd?starttime={utc}&duration={duration}000",Գեղամա TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/GEGHAMATV/1793961219/ucom/775001af5cb794e4e5ed3ca2dcefd95018e2eaa2ed77face87b4559c2914b071|
+https://fe.tv.ucom.am/timeline/GEGHAMATV/manifest.mpd
+#EXTINF:-1 tvg-id="29070988" tvg-name="Первый канал" tvg-logo="https://fe.tv.ucom.am/chnnl/20/59/67/c5/4ad1-436c-9f09-8cfc0861571e.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FIRSTCHANNEL/manifest.mpd?starttime={utc}&duration={duration}000",Первый канал
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/FIRSTCHANNEL/1793961219/ucom/998c3bfaa079675f2c83e6e2e1f3dc2d305c6f575fa3d81313c821c87228731b|
+https://fe.tv.ucom.am/timeline/FIRSTCHANNEL/manifest.mpd
+#EXTINF:-1 tvg-id="29070989" tvg-name="Հ2" tvg-logo="https://fe.tv.ucom.am/chnnl/8d/a6/c4/7d/31ec-44fd-a269-956b69f4b8ad.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/H2/manifest.mpd?starttime={utc}&duration={duration}000",Հ2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/H2/1793961219/ucom/720b20942f5d23dd0132089a7db16ea4a0cd6d9094ceb4e4c6d1c45d09c2e34f|
+https://fe.tv.ucom.am/timeline/H2/manifest.mpd
+#EXTINF:-1 tvg-id="29070990" tvg-name="5 պլյուս" tvg-logo="https://fe.tv.ucom.am/chnnl/01/f4/06/7d/582f-433f-afc6-aa6c10dd68ea.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/5PLUS/manifest.mpd?starttime={utc}&duration={duration}000",5 պլյուս
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/5PLUS/1793961219/ucom/7adb90d6303bac6fda5241ce51d32f3213b7cb7efd3107643c5c659170ec1d3c|
+https://fe.tv.ucom.am/timeline/5PLUS/manifest.mpd
+#EXTINF:-1 tvg-id="29070991" tvg-name="ТНТ" tvg-logo="https://fe.tv.ucom.am/chnnl/0f/6c/1d/6d/f3b7-4bd2-a883-2b03d8c56729.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TNT/manifest.mpd?starttime={utc}&duration={duration}000",ТНТ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TNT/1793961219/ucom/203c325db115e88266375790838281505915e33d724cf275068447e49ea6700f|
+https://fe.tv.ucom.am/timeline/TNT/manifest.mpd
+#EXTINF:-1 tvg-id="44247314" tvg-name="НТВ Мир" tvg-logo="https://fe.tv.ucom.am/chnnl/23/69/7f/bb/4819-448c-a761-815491c61ef4.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/NTVMIR/manifest.mpd?starttime={utc}&duration={duration}000",НТВ Мир
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/NTVMIR/1793961219/ucom/0990724f339c327ca546dbd6ecb2a6b9b09da73be78041cc15d4801607ea5294|
+https://fe.tv.ucom.am/timeline/NTVMIR/manifest.mpd
+#EXTINF:-1 tvg-id="29070996" tvg-name="Bridge TV" tvg-logo="https://fe.tv.ucom.am/chnnl/e9/eb/4b/3c/f5c5-4baf-8dfb-3181f7fd4032.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BRIDGETV/manifest.mpd?starttime={utc}&duration={duration}000",Bridge TV
+https://fe.tv.ucom.am/timeline/BRIDGETV/manifest.mpd
+#EXTINF:-1 tvg-id="43038524" tvg-name="Big Planet" tvg-logo="https://fe.tv.ucom.am/chnnl/01/18/e4/10/661a-411e-b230-6ea63f868869.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BIGPLANET/manifest.mpd?starttime={utc}&duration={duration}000",Big Planet
+https://fe.tv.ucom.am/timeline/BIGPLANET/manifest.mpd
+#EXTINF:-1 tvg-id="47185397" tvg-name="CNN" tvg-logo="https://fe.tv.ucom.am/chnnl/22/e4/a5/9c/dfaf-497a-8675-8dcaa3c2614a.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CNN/manifest.mpd?starttime={utc}&duration={duration}000",CNN
+https://fe.tv.ucom.am/timeline/CNN/manifest.mpd
+#EXTINF:-1 tvg-id="29071000" tvg-name="Euronews RU" tvg-logo="https://fe.tv.ucom.am/chnnl/9e/d6/33/d2/d388-4753-8e88-13a22c798a75.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/EURONEWSRU/manifest.mpd?starttime={utc}&duration={duration}000",Euronews RU
+https://fe.tv.ucom.am/timeline/EURONEWSRU/manifest.mpd
+#EXTINF:-1 tvg-id="29071001" tvg-name="BBC World News" tvg-logo="https://fe.tv.ucom.am/chnnl/35/9d/b4/f3/044a-4651-a016-3f15cf978e99.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BBCWORLDNEWS/manifest.mpd?starttime={utc}&duration={duration}000",BBC World News
+https://fe.tv.ucom.am/timeline/BBCWORLDNEWS/manifest.mpd
+#EXTINF:-1 tvg-id="29071063" tvg-name="Дом Кино Премиум" tvg-logo="https://fe.tv.ucom.am/chnnl/27/0b/22/cb/ede7-4fe6-950c-90de9293322f.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/HOUSEOFCINEMAPREMIUM/manifest.mpd?starttime={utc}&duration={duration}000",Дом Кино Премиум
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/HOUSEOFCINEMAPREMIUM/1793961219/ucom/127710eff48d1686502bad3fb59355d3a330a79d0e9b20d2725e7257a546d20c|
+https://fe.tv.ucom.am/timeline/HOUSEOFCINEMAPREMIUM/manifest.mpd
+#EXTINF:-1 tvg-id="44247316" tvg-name="Россия 24" tvg-logo="https://fe.tv.ucom.am/chnnl/45/2d/f1/04/bddd-4ad7-894a-b4365c8f7dad.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RUSSIA24/manifest.mpd?starttime={utc}&duration={duration}000",Россия 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/RUSSIA24/1793961219/ucom/b3aaf5fd7d47c0418e7be2fe7bee4271738f26ca50954309fd2d15d6ce5bff5f|
+https://fe.tv.ucom.am/timeline/RUSSIA24/manifest.mpd
+#EXTINF:-1 tvg-id="29071066" tvg-name="Russia Today" tvg-logo="https://fe.tv.ucom.am/chnnl/97/00/75/10/ff18-4131-87bb-bbb73bfb1e78.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RUSSIATODAY/manifest.mpd?starttime={utc}&duration={duration}000",Russia Today
+https://fe.tv.ucom.am/timeline/RUSSIATODAY/manifest.mpd
+#EXTINF:-1 tvg-id="29071071" tvg-name="National Geographic" tvg-logo="https://fe.tv.ucom.am/chnnl/c3/51/88/2d/3238-451a-8f30-ea23638f7546.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/NATIONALGEOGRAPHIC/manifest.mpd?starttime={utc}&duration={duration}000",National Geographic
+https://fe.tv.ucom.am/timeline/NATIONALGEOGRAPHIC/manifest.mpd
+#EXTINF:-1 tvg-id="29071073" tvg-name="History 1 HD" tvg-logo="https://fe.tv.ucom.am/chnnl/e5/c0/e4/f7/1054-44eb-a34b-0170033e6363.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/HISTORY1HD/manifest.mpd?starttime={utc}&duration={duration}000",History 1 HD
+https://fe.tv.ucom.am/timeline/HISTORY1HD/manifest.mpd
+#EXTINF:-1 tvg-id="29071074" tvg-name="History 2 HD" tvg-logo="https://fe.tv.ucom.am/chnnl/d1/dc/57/7e/798b-4dab-9272-71f740b8348d.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/HISTORY2HD/manifest.mpd?starttime={utc}&duration={duration}000",History 2 HD
+https://fe.tv.ucom.am/timeline/HISTORY2HD/manifest.mpd
+#EXTINF:-1 tvg-id="29071144" tvg-name="Рен ТВ" tvg-logo="https://fe.tv.ucom.am/chnnl/dd/14/2f/6c/9d90-42b5-a37f-524e3a0d12ea.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RENTV/manifest.mpd?starttime={utc}&duration={duration}000",Рен ТВ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/RENTV/1793961219/ucom/c2b328653e211f47d7d9ee5bdd78a90498d5091aa0e39e1303fc3325bb8e9601|
+https://fe.tv.ucom.am/timeline/RENTV/manifest.mpd
+#EXTINF:-1 tvg-id="29071146" tvg-name="СТС" tvg-logo="https://fe.tv.ucom.am/chnnl/02/22/af/a6/e709-4a1e-837f-1dcd83a7e3b6.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/STS/manifest.mpd?starttime={utc}&duration={duration}000",СТС
+https://fe.tv.ucom.am/timeline/STS/manifest.mpd
+#EXTINF:-1 tvg-id="29071147" tvg-name="Пятница" tvg-logo="https://fe.tv.ucom.am/chnnl/fe/9f/bd/07/32e8-4178-b9f8-c725c34f9eb2.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/PYATNITSA/manifest.mpd?starttime={utc}&duration={duration}000",Пятница
+https://fe.tv.ucom.am/timeline/PYATNITSA/manifest.mpd
+#EXTINF:-1 tvg-id="29071148" tvg-name="Перец" tvg-logo="https://fe.tv.ucom.am/chnnl/86/aa/01/54/10fe-49af-b695-a88e86454002.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/PERETS/manifest.mpd?starttime={utc}&duration={duration}000",Перец
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/PERETS/1793961219/ucom/4781b187db245fd3e75cf3cbbb2127325f87c775fc9b096fbc0b92c771b79715|
+https://fe.tv.ucom.am/timeline/PERETS/manifest.mpd
+#EXTINF:-1 tvg-id="29071149" tvg-name="Пятый канал" tvg-logo="https://fe.tv.ucom.am/chnnl/1a/7a/12/a2/bf56-480b-8c2b-d229b5414ee7.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/PYATIYKANAL/manifest.mpd?starttime={utc}&duration={duration}000",Пятый канал
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/PYATIYKANAL/1793961219/ucom/169ec2483b21717cc756f3a9c6f881b07611f85e422e7ecb689a880d08790b04|
+https://fe.tv.ucom.am/timeline/PYATIYKANAL/manifest.mpd
+#EXTINF:-1 tvg-id="29071225" tvg-name="ТНТ4" tvg-logo="https://fe.tv.ucom.am/chnnl/97/06/87/70/783d-407c-9c00-c5a72158e181.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TNT4/manifest.mpd?starttime={utc}&duration={duration}000",ТНТ4
+https://fe.tv.ucom.am/timeline/TNT4/manifest.mpd
+#EXTINF:-1 tvg-id="29071228" tvg-name="Fashion TV" tvg-logo="https://fe.tv.ucom.am/chnnl/ab/4b/43/52/cbde-4720-85ae-1a732361fb19.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FASHIONTV/manifest.mpd?starttime={utc}&duration={duration}000",Fashion TV
+https://fe.tv.ucom.am/timeline/FASHIONTV/manifest.mpd
+#EXTINF:-1 tvg-id="29071229" tvg-name="France 24" tvg-logo="https://fe.tv.ucom.am/chnnl/10/5e/77/6a/d05a-4bf3-8d0d-e36acaa7dad2.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FRANCE24/manifest.mpd?starttime={utc}&duration={duration}000",France 24
+https://fe.tv.ucom.am/timeline/FRANCE24/manifest.mpd
+#EXTINF:-1 tvg-id="29071235" tvg-name="Муз ТВ" tvg-logo="https://fe.tv.ucom.am/chnnl/77/84/36/f0/28da-46fd-8fa5-638fcfd4066c.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/MUZTV/manifest.mpd?starttime={utc}&duration={duration}000",Муз ТВ
+https://fe.tv.ucom.am/timeline/MUZTV/manifest.mpd
+#EXTINF:-1 tvg-id="29071237" tvg-name="Шансон ТВ" tvg-logo="https://fe.tv.ucom.am/chnnl/da/44/84/44/c96f-4d50-9e6a-004282e84706.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CHANSONTV/manifest.mpd?starttime={utc}&duration={duration}000",Шансон ТВ
+https://fe.tv.ucom.am/timeline/CHANSONTV/manifest.mpd
+#EXTINF:-1 tvg-id="29071302" tvg-name="Кинохит" tvg-logo="https://fe.tv.ucom.am/chnnl/fa/43/d0/93/486c-4379-9839-494f8aba9e75.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CINEMAHIT/manifest.mpd?starttime={utc}&duration={duration}000",Кинохит
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/CINEMAHIT/1793961219/ucom/9369e1952ae0f527cb0b84bd5962d8745bf7860af5085f75c0c13b40211d7466|
+https://fe.tv.ucom.am/timeline/CINEMAHIT/manifest.mpd
+#EXTINF:-1 tvg-id="29071303" tvg-name="Кинопремьера" tvg-logo="https://fe.tv.ucom.am/chnnl/90/9b/36/91/6c41-4280-9e63-14ebdae65af1.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KINOPREMIERA/manifest.mpd?starttime={utc}&duration={duration}000",Кинопремьера
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/KINOPREMIERA/1793961219/ucom/89caa252ab06c76593ce54421943b1f81b9e5e7dda75268b504ad9ede28998b8|
+https://fe.tv.ucom.am/timeline/KINOPREMIERA/manifest.mpd
+#EXTINF:-1 tvg-id="29071304" tvg-name="Киномикс" tvg-logo="https://fe.tv.ucom.am/chnnl/de/af/a0/a8/ec71-4a42-b817-a8e3a82a8a95.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KINOMIX/manifest.mpd?starttime={utc}&duration={duration}000",Киномикс
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/KINOMIX/1793961219/ucom/7cdc74007b9616a9351f1c2c65cf6960fb213a70622074431bd6c81f35db708a|
+https://fe.tv.ucom.am/timeline/KINOMIX/manifest.mpd
+#EXTINF:-1 tvg-id="29071305" tvg-name="Еврокино HD" tvg-logo="https://fe.tv.ucom.am/chnnl/19/5d/39/7a/174d-4b02-bb71-1a16ab8bbb85.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/EUROKINOHD/manifest.mpd?starttime={utc}&duration={duration}000",Еврокино HD
+https://fe.tv.ucom.am/timeline/EUROKINOHD/manifest.mpd
+#EXTINF:-1 tvg-id="47185402" tvg-name="Cartoonito" tvg-logo="https://fe.tv.ucom.am/chnnl/4c/36/77/48/0e6d-48a1-b6d1-c76b3c8d6241.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CARTOONITO/manifest.mpd?starttime={utc}&duration={duration}000",Cartoonito
+https://fe.tv.ucom.am/timeline/CARTOONITO/manifest.mpd
+#EXTINF:-1 tvg-id="29071309" tvg-name="Кинокомедия" tvg-logo="https://fe.tv.ucom.am/chnnl/fb/89/66/cd/7539-46c0-b9a5-887516710740.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KINOCOMEDIA/manifest.mpd?starttime={utc}&duration={duration}000",Кинокомедия
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/KINOCOMEDIA/1793961219/ucom/e5ba8c854ca19dd8820218a72ecfe8160e283ac024a3aaed26c38f66bb8d7b2b|
+https://fe.tv.ucom.am/timeline/KINOCOMEDIA/manifest.mpd
+#EXTINF:-1 tvg-id="29071311" tvg-name="Домашний" tvg-logo="https://fe.tv.ucom.am/chnnl/32/c8/ac/9c/0329-476d-aabd-ed91a85aec21.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/DOMASHNIY/manifest.mpd?starttime={utc}&duration={duration}000",Домашний
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/DOMASHNIY/1793961219/ucom/7beeb3a7f6691e61a2f8c83cae7dc5915eba5998810c8d2ac06f87be56a7e194|
+https://fe.tv.ucom.am/timeline/DOMASHNIY/manifest.mpd
+#EXTINF:-1 tvg-id="29071315" tvg-name="Индия" tvg-logo="https://fe.tv.ucom.am/chnnl/01/da/fb/39/c467-4ebc-bcbe-66344a9b6d87.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/INDIA/manifest.mpd?starttime={utc}&duration={duration}000",Индия
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/INDIA/1793961219/ucom/55aa0cf03b259c006902a1923639811037513b5d9062eaabdc8c23fc72b9628a|
+https://fe.tv.ucom.am/timeline/INDIA/manifest.mpd
+#EXTINF:-1 tvg-id="29071316" tvg-name="Киносвидание" tvg-logo="https://fe.tv.ucom.am/chnnl/c7/7c/a1/e2/f789-4014-9386-b5c5ecba5a61.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KINOSVIDANIE/manifest.mpd?starttime={utc}&duration={duration}000",Киносвидание
+https://fe.tv.ucom.am/timeline/KINOSVIDANIE/manifest.mpd
+#EXTINF:-1 tvg-id="29071317" tvg-name="Мужское Кино" tvg-logo="https://fe.tv.ucom.am/chnnl/ae/18/0e/75/eeb5-4d10-8c8b-9c152a2c4a7c.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/MUZHSKOEKINO/manifest.mpd?starttime={utc}&duration={duration}000",Мужское Кино
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/MUZHSKOEKINO/1793961219/ucom/e65463beaeb134bde480626f5bf9dce9b35e3b528147eebbcc1523e82358839c|
+https://fe.tv.ucom.am/timeline/MUZHSKOEKINO/manifest.mpd
+#EXTINF:-1 tvg-id="29071319" tvg-name="FOX" tvg-logo="https://fe.tv.ucom.am/chnnl/3a/4a/bc/8a/d700-4dd8-b453-9a9b06dcbb7b.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FOX/manifest.mpd?starttime={utc}&duration={duration}000",FOX
+https://fe.tv.ucom.am/timeline/FOX/manifest.mpd
+#EXTINF:-1 tvg-id="29071320" tvg-name="FOX Life" tvg-logo="https://fe.tv.ucom.am/chnnl/a7/f3/44/09/1ce7-4393-a0b0-28ef3bc669ef.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FOXLIFE/manifest.mpd?starttime={utc}&duration={duration}000",FOX Life
+https://fe.tv.ucom.am/timeline/FOXLIFE/manifest.mpd
+#EXTINF:-1 tvg-id="47185401" tvg-name="Cartoon network" tvg-logo="https://fe.tv.ucom.am/chnnl/2a/a1/91/e1/e9ff-4499-9444-5e4ee0a2acf4.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CARTOONNETWORK/manifest.mpd?starttime={utc}&duration={duration}000",Cartoon network
+https://fe.tv.ucom.am/timeline/CARTOONNETWORK/manifest.mpd
+#EXTINF:-1 tvg-id="29071385" tvg-name="О!" tvg-logo="https://fe.tv.ucom.am/chnnl/8b/d5/3c/fe/c51d-48f7-b6e7-a1aaf018bbaf.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/OH/manifest.mpd?starttime={utc}&duration={duration}000",О!
+https://fe.tv.ucom.am/timeline/OH/manifest.mpd
+#EXTINF:-1 tvg-id="29071387" tvg-name="TiJi" tvg-logo="https://fe.tv.ucom.am/chnnl/be/82/a4/75/32b5-440a-bd4b-6dedc10d50ee.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TIJI/manifest.mpd?starttime={utc}&duration={duration}000",TiJi
+https://fe.tv.ucom.am/timeline/TIJI/manifest.mpd
+#EXTINF:-1 tvg-id="29071388" tvg-name="Детский мир" tvg-logo="https://fe.tv.ucom.am/chnnl/d5/7b/9b/03/30c3-41e3-a9c9-9572717cdc79.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/DETSKIYMIR/manifest.mpd?starttime={utc}&duration={duration}000",Детский мир
+https://fe.tv.ucom.am/timeline/DETSKIYMIR/manifest.mpd
+#EXTINF:-1 tvg-id="29071390" tvg-name="Карусель" tvg-logo="https://fe.tv.ucom.am/chnnl/9c/47/31/f9/57d3-4c20-ad36-4a14630a4111.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CAROUSEL/manifest.mpd?starttime={utc}&duration={duration}000",Карусель
+https://fe.tv.ucom.am/timeline/CAROUSEL/manifest.mpd
+#EXTINF:-1 tvg-id="29071392" tvg-name="Insight TV HD" tvg-logo="https://fe.tv.ucom.am/chnnl/e5/f3/ce/f4/44c4-4a29-bbbe-36e537ce3f21.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/INSIGHTTVHD/manifest.mpd?starttime={utc}&duration={duration}000",Insight TV HD
+https://fe.tv.ucom.am/timeline/INSIGHTTVHD/manifest.mpd
+#EXTINF:-1 tvg-id="29071397" tvg-name="Авто Плюс" tvg-logo="https://fe.tv.ucom.am/chnnl/df/c8/7b/b3/fab8-4eb7-aa74-58a954b634e7.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/AUTOPLUS/manifest.mpd?starttime={utc}&duration={duration}000",Авто Плюс
+https://fe.tv.ucom.am/timeline/AUTOPLUS/manifest.mpd
+#EXTINF:-1 tvg-id="29071463" tvg-name="Матч! Планета" tvg-logo="https://fe.tv.ucom.am/chnnl/e2/06/87/9c/bec0-4ecb-80f8-7b9513576c7b.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/MATCHPLANET/manifest.mpd?starttime={utc}&duration={duration}000",Матч! Планета
+https://fe.tv.ucom.am/timeline/MATCHPLANET/manifest.mpd
+#EXTINF:-1 tvg-id="47185396" tvg-name="Discovery Channel" tvg-logo="https://fe.tv.ucom.am/chnnl/48/80/27/24/62d0-4611-9d59-909f8c3401a3.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/DISCOVERY/manifest.mpd?starttime={utc}&duration={duration}000",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/DISCOVERY/1793961219/ucom/f695f2d53417f93efd1780e325b8e7f2ebc4aba8c461dc4b9c9967f88da55bfe|
+https://fe.tv.ucom.am/timeline/DISCOVERY/manifest.mpd
+#EXTINF:-1 tvg-id="29071477" tvg-name="Nat Geo Wild HD" tvg-logo="https://fe.tv.ucom.am/chnnl/06/77/79/11/ea54-4e11-b4cc-1fef6068e8d5.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/NATGEOWILDHD/manifest.mpd?starttime={utc}&duration={duration}000",Nat Geo Wild HD
+https://fe.tv.ucom.am/timeline/NATGEOWILDHD/manifest.mpd
+#EXTINF:-1 tvg-id="29071542" tvg-name="TV 3" tvg-logo="https://fe.tv.ucom.am/chnnl/14/c5/ab/4d/fdff-4eb9-a306-8496bbf78ed8.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TV3/manifest.mpd?starttime={utc}&duration={duration}000",TV 3
+https://fe.tv.ucom.am/timeline/TV3/manifest.mpd
+#EXTINF:-1 tvg-id="29071550" tvg-name="В Мире Животных HD" tvg-logo="https://fe.tv.ucom.am/chnnl/13/3b/89/c9/66e7-4a77-afdf-e88469836b2b.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VMIREZHIVOTNIX/manifest.mpd?starttime={utc}&duration={duration}000",В Мире Животных HD
+https://fe.tv.ucom.am/timeline/VMIREZHIVOTNIX/manifest.mpd
+#EXTINF:-1 tvg-id="47185395" tvg-name="Animal Planet" tvg-logo="https://fe.tv.ucom.am/chnnl/e0/8a/94/73/0450-4694-bdeb-71f414933150.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/ANIMALPLANET/manifest.mpd?starttime={utc}&duration={duration}000",Animal Planet
+https://fe.tv.ucom.am/timeline/ANIMALPLANET/manifest.mpd
+#EXTINF:-1 tvg-id="29071552" tvg-name="TLC HD" tvg-logo="https://fe.tv.ucom.am/chnnl/06/1a/9e/31/7c30-4c6e-8c89-653a0c52d9ae.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TLCHD/manifest.mpd?starttime={utc}&duration={duration}000",TLC HD
+https://fe.tv.ucom.am/timeline/TLCHD/manifest.mpd
+#EXTINF:-1 tvg-id="29071558" tvg-name="viju TV 1000" tvg-logo="https://fe.tv.ucom.am/chnnl/e3/0a/8e/66/e45f-4b5d-8231-a406a7a4fc48.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUTV1000/manifest.mpd?starttime={utc}&duration={duration}000",viju TV 1000
+https://fe.tv.ucom.am/timeline/VIJUTV1000/manifest.mpd
+#EXTINF:-1 tvg-id="29071559" tvg-name="viju TV 1000 Action" tvg-logo="https://fe.tv.ucom.am/chnnl/36/d3/67/08/a73a-4f83-a899-d5471b3539d8.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUTV1000ACTION/manifest.mpd?starttime={utc}&duration={duration}000",viju TV 1000 Action
+https://fe.tv.ucom.am/timeline/VIJUTV1000ACTION/manifest.mpd
+#EXTINF:-1 tvg-id="29071560" tvg-name="viju TV 1000 Русское Кино" tvg-logo="https://fe.tv.ucom.am/chnnl/0c/4e/b9/15/c5b3-4c22-8ea0-9e36f0d3c339.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUTV1000RUSSIANCINEMA/manifest.mpd?starttime={utc}&duration={duration}000",viju TV 1000 Русское Кино
+https://fe.tv.ucom.am/timeline/VIJUTV1000RUSSIANCINEMA/manifest.mpd
+#EXTINF:-1 tvg-id="29071702" tvg-name="viju+Sport" tvg-logo="https://fe.tv.ucom.am/chnnl/1e/4c/c3/61/3a78-4e3e-a23e-626e0a168f35.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/VIJUPLUSSPORT/manifest.mpd?starttime={utc}&duration={duration}000",viju+Sport
+https://fe.tv.ucom.am/timeline/VIJUPLUSSPORT/manifest.mpd
+#EXTINF:-1 tvg-id="29071708" tvg-name="SONG TV Armenia" tvg-logo="https://fe.tv.ucom.am/chnnl/74/fe/eb/21/5895-4358-95f4-acc18339cdaf.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/SONGTVARMENIA/manifest.mpd?starttime={utc}&duration={duration}000",SONG TV Armenia
+https://fe.tv.ucom.am/timeline/SONGTVARMENIA/manifest.mpd
+#EXTINF:-1 tvg-id="29071714" tvg-name="Индийское кино" tvg-logo="https://fe.tv.ucom.am/chnnl/a2/f5/9b/bd/be85-492e-b943-a9df790c478b.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/INDISKOYEKINO/manifest.mpd?starttime={utc}&duration={duration}000",Индийское кино
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/INDISKOYEKINO/1793961219/ucom/40942bf3a47b440efa103be3e4a446dd25e5ffa318e8928210f1ebce9870c14b|
+https://fe.tv.ucom.am/timeline/INDISKOYEKINO/manifest.mpd
+#EXTINF:-1 tvg-id="29071715" tvg-name="Дом Кино" tvg-logo="https://fe.tv.ucom.am/chnnl/7c/e5/1b/2e/2c15-4955-88a2-e4f119bd84a4.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/DOMKINO/manifest.mpd?starttime={utc}&duration={duration}000",Дом Кино
+https://fe.tv.ucom.am/timeline/DOMKINO/manifest.mpd
+#EXTINF:-1 tvg-id="29071718" tvg-name="ТВЦ" tvg-logo="https://fe.tv.ucom.am/chnnl/05/dc/06/57/630a-4502-b6ba-f4a2b107a2e0.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TVC/manifest.mpd?starttime={utc}&duration={duration}000",ТВЦ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TVC/1793961219/ucom/a7e9e4abbb83d5ef736cb944d6c7f0748a4ec4cefa2edc0b8ef93a3ca4492ecb|
+https://fe.tv.ucom.am/timeline/TVC/manifest.mpd
+#EXTINF:-1 tvg-id="47185400" tvg-name="Food Network" tvg-logo="https://fe.tv.ucom.am/chnnl/b3/6e/99/d7/88d7-447b-a01a-6257d039d8dd.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FOODNETWORK/manifest.mpd?starttime={utc}&duration={duration}000",Food Network
+https://fe.tv.ucom.am/timeline/FOODNETWORK/manifest.mpd
+#EXTINF:-1 tvg-id="47185398" tvg-name="Eurosport 1" tvg-logo="https://fe.tv.ucom.am/chnnl/9c/ad/54/db/34f7-487f-920a-c5a52e1ed10b.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/EUROSPORT1/manifest.mpd?starttime={utc}&duration={duration}000",Eurosport 1
+https://fe.tv.ucom.am/timeline/EUROSPORT1/manifest.mpd
+#EXTINF:-1 tvg-id="47185399" tvg-name="Eurosport 2" tvg-logo="https://fe.tv.ucom.am/chnnl/8d/b9/90/cb/5ad5-43db-bb3c-7f7b33190833.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/EUROSPORT2/manifest.mpd?starttime={utc}&duration={duration}000",Eurosport 2
+https://fe.tv.ucom.am/timeline/EUROSPORT2/manifest.mpd
+#EXTINF:-1 tvg-id="29070923" tvg-name="Շեմ" tvg-logo="https://fe.tv.ucom.am/chnnl/e8/4d/eb/55/0e1e-45f2-982d-90d5318d9799.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/SHOGHAKAT/manifest.mpd?starttime={utc}&duration={duration}000",Շեմ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/SHOGHAKAT/1793961219/ucom/bc270184e0568e837d107470bd38880da3ec8c499b7a981e17e3b0ff9a0a242f|
+https://fe.tv.ucom.am/timeline/SHOGHAKAT/manifest.mpd
+#EXTINF:-1 tvg-id="35577368" tvg-name="Շանթ Գյումրի" tvg-logo="https://fe.tv.ucom.am/chnnl/a1/ef/e6/d2/cbe3-4a52-ba05-01cf1c23dc49.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/SHANTGYUMRI/manifest.mpd?starttime={utc}&duration={duration}000",Շանթ Գյումրի
+https://fe.tv.ucom.am/timeline/SHANTGYUMRI/manifest.mpd
+#EXTINF:-1 tvg-id="29071902" tvg-name="Armenian Business News" tvg-logo="https://fe.tv.ucom.am/chnnl/cb/86/8e/81/e7b2-4646-bb8f-006ec2d1f3ca.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/ARMENIANBUSINESSNEWS/manifest.mpd?starttime={utc}&duration={duration}000",Armenian Business News
+https://fe.tv.ucom.am/timeline/ARMENIANBUSINESSNEWS/manifest.mpd
+#EXTINF:-1 tvg-id="29071903" tvg-name="Մուզզոն" tvg-logo="https://fe.tv.ucom.am/chnnl/00/2b/29/48/5194-44f9-8fc5-8665b069a57a.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/MUZZON/manifest.mpd?starttime={utc}&duration={duration}000",Մուզզոն
+https://fe.tv.ucom.am/timeline/MUZZON/manifest.mpd
+#EXTINF:-1 tvg-id="29071904" tvg-name="Ֆիթնես" tvg-logo="https://fe.tv.ucom.am/chnnl/75/ad/02/62/0c2f-4b78-85fd-b5ea926bdcc3.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/FITNESS/manifest.mpd?starttime={utc}&duration={duration}000",Ֆիթնես
+https://fe.tv.ucom.am/timeline/FITNESS/manifest.mpd
+#EXTINF:-1 tvg-id="29071905" tvg-name="Բազմոց TV" tvg-logo="https://fe.tv.ucom.am/chnnl/df/27/4b/b9/1615-4cdf-ac03-4a8cacb77d48.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BAZMOTSTV/manifest.mpd?starttime={utc}&duration={duration}000",Բազմոց TV
+https://fe.tv.ucom.am/timeline/BAZMOTSTV/manifest.mpd
+#EXTINF:-1 tvg-id="29071907" tvg-name="ԽաղԱլիք" tvg-logo="https://fe.tv.ucom.am/chnnl/5a/b1/8a/1f/2581-41bd-8259-90a0dc8d2637.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KHAGHALIQ/manifest.mpd?starttime={utc}&duration={duration}000",ԽաղԱլիք
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/KHAGHALIQ/1793961219/ucom/3fff2da9dff8406796a862e29f7192e660ce50b0da193e4bc161f3229e917ef1|
+https://fe.tv.ucom.am/timeline/KHAGHALIQ/manifest.mpd
+#EXTINF:-1 tvg-id="29071908" tvg-name="Թավա TV" tvg-logo="https://fe.tv.ucom.am/chnnl/a3/b1/f7/a7/22d2-4f6e-bbf4-b8bfa54188ce.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TAVATV/manifest.mpd?starttime={utc}&duration={duration}000",Թավա TV
+https://fe.tv.ucom.am/timeline/TAVATV/manifest.mpd
+#EXTINF:-1 tvg-id="29071910" tvg-name="Կինոման" tvg-logo="https://fe.tv.ucom.am/chnnl/13/76/1a/7e/ee06-417a-ab37-3c1f53c763c5.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/KINOMAN/manifest.mpd?starttime={utc}&duration={duration}000",Կինոման
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/KINOMAN/1793961219/ucom/92b83ac78238c57501e2f77497b44a3f8d80b4bd21e79e279aa7bed90ae61dca|
+https://fe.tv.ucom.am/timeline/KINOMAN/manifest.mpd
+#EXTINF:-1 tvg-id="29071911" tvg-name="Սինեման" tvg-logo="https://fe.tv.ucom.am/chnnl/81/11/3b/79/0376-457d-8c93-7dd2a5e0b549.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/CINEMAN/manifest.mpd?starttime={utc}&duration={duration}000",Սինեման
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/CINEMAN/1793961219/ucom/96a50ec9b0a78d9cbd6225d57de88698e71a8bb3595b0ec0c1d5a92af8448ec7|
+https://fe.tv.ucom.am/timeline/CINEMAN/manifest.mpd
+#EXTINF:-1 tvg-id="29071912" tvg-name="Տունտունիկ" tvg-logo="https://fe.tv.ucom.am/chnnl/f4/1a/58/1d/9a33-4bc7-b59c-8c39d7f464c4.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd?starttime={utc}&duration={duration}000",Տունտունիկ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://fe.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd
+#EXTINF:-1 tvg-id="29071913" tvg-name="Քոմեդի" tvg-logo="https://fe.tv.ucom.am/chnnl/3b/8f/96/51/d10e-4f1b-8abe-42713062b735.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/COMEDY/manifest.mpd?starttime={utc}&duration={duration}000",Քոմեդի
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/COMEDY/1793961219/ucom/dc46f0cdc1e2bb70ed1325eaf1e452ff2053b5f405f68549582ee1b40042f6f2|
+https://fe.tv.ucom.am/timeline/COMEDY/manifest.mpd
+#EXTINF:-1 tvg-id="29071915" tvg-name="Հայ կինո" tvg-logo="https://fe.tv.ucom.am/chnnl/11/6b/c5/c7/b720-4c22-b2f5-59a6c47439c5.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/HAYKINO/manifest.mpd?starttime={utc}&duration={duration}000",Հայ կինո
+https://fe.tv.ucom.am/timeline/HAYKINO/manifest.mpd
+#EXTINF:-1 tvg-id="29071916" tvg-name="Armenia Premium" tvg-logo="https://fe.tv.ucom.am/chnnl/f5/fd/99/e1/1b16-4afa-99ba-206e7e1fa3b2.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd?starttime={utc}&duration={duration}000",Armenia Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1793961219/ucom/ca83a115c1a7cc67ea87f3e13a77e14e89e183fedd56128e9fea6de2f97d0bbd|
+https://fe.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
