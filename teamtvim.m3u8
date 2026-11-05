@@ -1098,7 +1098,7 @@ https://streamer.radio.co/sa1357f891/listen
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayazgidzayn.png", Libano Հայազգի Ձայն
 https://c7.radioboss.fm:18299/autodj
 
-#EXTINF:-1 tvg-id="ArmeniaPremium" tvg-name="Armenia Premium" group-title="Ucom",Armenia Premium
+#EXTINF:-1 tvg-id="ArmeniaPremium" tvg-name="Armenia Premium" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd?starttime={utc}&duration={duration},Armenia Premium
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
