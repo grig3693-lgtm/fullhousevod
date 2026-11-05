@@ -24,8 +24,8 @@ http://ncdn-y1-vip2.teamcloud.am/live/eds/NorHayastan/SAF-HLS/NorHayastan-avc1_8
 #EXTINF:-1 tvg-id="ch1079" tvg-name="5tv" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/5tv.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Հինգերորդ Ալիք
 http://ncdn-y1-vip2.teamcloud.am/live/eds/5Aliq/SAF-HLS/5Aliq-avc1_8000000=10010-mp4a_140800=20001.m3u8
 
-#EXTINF:-1 tvg-id="ch2407" tvg-name="Ararat" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ararat.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/137/mono-timeshift_rel-{offset}.m3u8", Արարատ TV
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv/AraratTV/mono.m3u8
+#EXTINF:-1 tvg-id="ch2407" tvg-name="Ararat" group-title="Հայկական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ararat.png", Արարատ TV
+http://admin:admin@armsmart.nl:8484/stream/okko/ararat/master.m3u8
 
 #EXTINF:-1 tvg-id="ch1070" tvg-name="Freenews" group-title="Հայկական","Լրատվական" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/freenews.png" catchup="append" catchup-days="7" catchup-source="?begin=${start}&end=${end}", Free News
 http://ncdn-y1-vip2.teamcloud.am/live/eds/FreeNews/SAF-HLS/FreeNews-avc1_5000000=10005-mp4a_140800_eng=20000.m3u8
@@ -369,8 +369,8 @@ https://hls-igi.cdnvideo.ru/igi/igi_hq/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ch" tvg-name="ugra" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ugra.png", Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="ch022" tvg-name="tvc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tvc.png", ТВЦ 
-http://cdn.dommir.top:9290/tvc/tracks-v1a1/mono.m3u8?token=njQ2UNLc50
+#EXTINF:-1 tvg-id="ch022" tvg-name="tvc" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tvc.png" catchup="append" catchup-days="6" catchup-source="?begin=${start}&end=${end}", ТВЦ 
+http://ncdn-y1-w6.teamcloud.am/live/eds/TVC/SAF-HLS/TVC-avc1_5000000=10011-mp4a_140800=20001.m3u8
 
 #EXTINF:-1 tvg-id="ch2711" tvg-name="5kanal" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/5kanal.png", 5 канал 
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5-avc1_3000000=205-mp4a_256000_eng=2.m3u8
@@ -672,13 +672,13 @@ https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta2Geo/mono.m3u8
 https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/setanta3Geo/mono.m3u8
 
 #EXTINF:-1 tvg-id="ch3050" tvg-name="Okko Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkosport.png", Окко Спорт
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/okko-sport/mono.m3u8
+http://admin:admin@armsmart.nl:8484/stream/okko/okko1/master.m3u8
 
 #EXTINF:-1 tvg-id="ch2863" tvg-name="Okko Prime Sport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkoprimesport.png", Окко Прайм Спорт
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/OkkoPrime/mono.m3u8
+http://admin:admin@armsmart.nl:8484/stream/okko/okko/master.m3u8
 
 #EXTINF:-1 tvg-id="ch3051" tvg-name="Okko Football" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Okkofootball.png", Окко Футбол
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv0/okko-football/mono.m3u8
+http://admin:admin@armsmart.nl:8484/stream/okko/okkofutboll/master.m3u8
 
 #EXTINF:-1 tvg-id="ch3911" tvg-name="Okkochempionat" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/OkkoefirHD.png", Окко Чемпионат
 https://edge-fast.evrideo.tv/53cabcb9-5ef7-11ef-b446-02001718d412_1000027554_HLS/video_10801920_p_0.m3u8
@@ -807,13 +807,13 @@ http://ncdn-y1-w7.teamcloud.am/live/eds/Indiiskoe_Kino/SAF-HLS/Indiiskoe_Kino-av
 http://ncdn-y1-w6.teamcloud.am/live/eds/Rodnoe_Kino/SAF-HLS/Rodnoe_Kino-avc1_2000000=10005-mp4a_140800_rus=20000.m3u8
 
 #EXTINF:-1 tvg-id="ch17" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000.png", Viju TV1000
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=qx17RYN5Ud9go6Gcwswfzw&e=1793957108&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://dmi3y-tv.online/hls/CH_TV1000HD.m3u8
 
 #EXTINF:-1 tvg-id="ch13" tvg-name="TV1000Russkoe" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Viju TV1000 Русское
-http://cdn.dommir.top:9290/TV1000_Russkoe_kino_RU/playlist.m3u8?token=njQ2UNLc50
+http://dmi3y-tv.online/hls/CH_TV1000RUSSKOEKINOHD.m3u8
 
 #EXTINF:-1 tvg-id="ch18" tvg-name="TV1000Action" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Action.png", Viju TV1000 Action
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=YI959hNT69bVmShiWRcLMw&e=1793957152&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://dmi3y-tv.online/hls/CH_TV1000ACTIONHD.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="TV1000Novella" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuTV1000Novella.png", Viju TV1000 Новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=fvHNruS6UjRrdw3ZgmgzPw&e=1793957405&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -834,13 +834,13 @@ https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_COMEDYHD/video_1920x1080_
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_SERIALHD/video_1920x1080_avc1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuhistory" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuHistory.png", Viju History
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_Russia_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=dj12Z1TEmMEkyV3UFlTDuQ&e=1793957289&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://dmi3y-tv.online/hls/CH_VIASAT_HISTORYHD.m3u8
 
 #EXTINF:-1 tvg-id="ch3075" tvg-name="Vijuexplore" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuExplore.png", Viju Explore 
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=2-cFtO9KOqZ_fAuKrsHinA&e=1793957252&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://dmi3y-tv.online/hls/CH_VIASAT_EXPLOREHD.m3u8
 
 #EXTINF:-1 tvg-id="ch12" tvg-name="Vijunature" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuNature.png", Viju Nature
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Nature_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=viUTnxw-vxAgFJpKDsbG-g&e=1793957206&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+http://dmi3y-tv.online/hls/CH_VIASAT_NATUREHD.m3u8
 
 #EXTINF:-1 tvg-id="ch2454" tvg-name="Vijuplanet" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/vijuplanethd.png" catchup="append" catchup-days="7" catchup-source="?utcstart=${timestamp}&offset=-${offset}", viju+ Planet
 https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_avc1/playlist.m3u8 
@@ -849,7 +849,7 @@ https://a3285276110-s80718.cdn.ngenix.net/mdrm/CH_VIJU_PLANETHD/video_1920x1080_
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Da_Vinci_Learning_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=2nLIe9gpXilK0flt7m4JLw&e=1793957321&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="ch475" tvg-name="VijuSport" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuSport.png", viju+  Sport
-http://stream.mcquack.net/333/tracks-v1a1/mono.ts.m3u8?ads=0&filter.tracks=v1a1
+http://dmi3y-tv.online/hls/CH_VIASAT_SPORTHD.m3u8
 
 #EXTINF:-1 tvg-id="ch662" tvg-name="Start" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/Start.png", Старт HD
 #EXTVLCOPT:http-reconnect=true
@@ -1097,3 +1097,8 @@ https://streamer.radio.co/sa1357f891/listen
 
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayazgidzayn.png", Libano Հայազգի Ձայն
 https://c7.radioboss.fm:18299/autodj
+
+#EXTINF:-1 tvg-id="ArmeniaPremium" tvg-name="Armenia Premium" group-title="Ucom",Armenia Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
