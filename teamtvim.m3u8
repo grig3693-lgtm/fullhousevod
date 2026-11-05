@@ -584,20 +584,35 @@ https://shantpremium-new.cdnvideo.ru/fgdghdtsydfuf/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="ch1075" tvg-name="Շանթ Film" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/ShantFilm.png" catchup="append" catchup-days="7" catchup-source="https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/index-${start}-${offset}.m3u8", Շանթ Film 
 https://shantpremium-new.cdnvideo.ru/dhfjruigk/tracks-v4a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png", Սինեման
-http://timeshift.arpinet.am/255/index.m3u8
+#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman6" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/cineman.png"  catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd?starttime={utc}&duration={duration}000",Cineman
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/CINEMAN/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png", Տունտունիկ
-http://armsmart.nl:8080/freetvportal/freetvportal/7383.m3u8
+#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik5" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/tuntunik.png" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd?starttime={utc}&duration={duration}000",Tuntunik
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png", Քոմեդի
-http://armsmart.nl:8080/freetvportal/freetvportal/7384.m3u8
+#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy4" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/comedy.png" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd?starttime={utc}&duration={duration}000",Comedy
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/COMEDY/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="append" catchup-days="7" catchup-source="https://ptv.am/9d497c696043fa2-f1d460fefb1db55/catchup/85/mono-timeshift_rel-{offset}.m3u8", Ջան TV
-https://ptv.am/9d497c696043fa2-f1d460fefb1db55/iptv00/JanTV/mono.m3u8
+#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV3" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/jantv.png" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd?starttime={utc}&duration={duration}000",Jan TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/JANTV/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1474" tvg-name="Haykino2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haykino.png", Հայ Կինո
-http://armsmart.nl:8080/freetvportal/freetvportal/35.m3u8
+#EXTINF:-1 tvg-id="ch1474" tvg-name="HayKino2" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/haykino.png" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd?starttime={utc}&duration={duration}000",Hay Kino
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/HAYKINO/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd
+
+#EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd?starttime={utc}&duration={duration}000",Armenia Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
+https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
 
 #EXTINF:-1 tvg-id="ch1473" tvg-name="Premium1" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/armeniapremium.png", Արմենիա Պրեմիում
 http://armsmart.nl:8080/freetvportal/freetvportal/38.m3u8
@@ -1098,32 +1113,14 @@ https://streamer.radio.co/sa1357f891/listen
 #EXTINF:-1 group-title="Ռադիո" tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/radio-logos/main/hayazgidzayn.png", Libano Հայազգի Ձայն
 https://c7.radioboss.fm:18299/autodj
 
-#EXTINF:-1 tvg-id="ch1473" tvg-name="Armenia Premium" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd?starttime={utc}&duration={duration}000",Armenia Premium
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
-https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1474" tvg-name="HayKino" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd?starttime={utc}&duration={duration}000",Hay Kino
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/HAYKINO/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
-https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd?starttime={utc}&duration={duration}000",Jan TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/JANTV/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
-https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd?starttime={utc}&duration={duration}000",Comedy
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/COMEDY/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
-https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd?starttime={utc}&duration={duration}000",Tuntunik
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
-https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd?starttime={utc}&duration={duration}000",Cineman
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/CINEMAN/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
-https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd
+
+
+
+
+
+
