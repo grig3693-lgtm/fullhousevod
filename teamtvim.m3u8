@@ -1103,27 +1103,27 @@ https://c7.radioboss.fm:18299/autodj
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/ARMENIAPREMIUM/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/ARMENIAPREMIUM/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1474" tvg-name="HayKino" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd?starttime={utc}&duration=60000,Hay Kino
+#EXTINF:-1 tvg-id="ch1474" tvg-name="HayKino" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd?starttime={utc}&duration={duration}000",Hay Kino
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/HAYKINO/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/HAYKINO/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd?starttime={utc}&duration=60000,Jan TV
+#EXTINF:-1 tvg-id="ch1475" tvg-name="JanTV" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd?starttime={utc}&duration={duration}000",Jan TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/JANTV/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/JANTV/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd?starttime={utc}&duration=60000",Comedy
+#EXTINF:-1 tvg-id="ch1476" tvg-name="Comedy" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd?starttime={utc}&duration={duration}000",Comedy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/COMEDY/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/COMEDY/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd?starttime={utc}&duration=60000,Tuntunik
+#EXTINF:-1 tvg-id="ch1477" tvg-name="Tuntunik" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd?starttime={utc}&duration={duration}000",Tuntunik
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/TUNTUNIK/manifest.mpd
 
-#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd?starttime={utc}&duration=60000,Cineman
+#EXTINF:-1 tvg-id="ch1478" tvg-name="Cineman" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd?starttime={utc}&duration={duration}000",Cineman
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/CINEMAN/1793181646/ucom/fe3c3d980d9d6be60b245c859cc0a3c389a76c4e156ac755ec967a40da624679|
 https://mfe04.tv.ucom.am/timeline/CINEMAN/manifest.mpd
