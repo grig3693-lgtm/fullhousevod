@@ -199,7 +199,7 @@ https://fe.tv.ucom.am/timeline/CHANSONTV/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://fe.tv.ucom.am/timeline/CINEMAHIT/manifest.mpd
-#EXTINF:-1 tvg-id="2907" tvg-name="Rodnoe" tvg-logo="https://fe.tv.ucom.am/chnnl/fa/43/d0/93/c-4379-9839-494f8aba9e75.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RODNOE/manifest.mpd?starttime={utc}&duration={duration}000",Кинохит
+#EXTINF:-1 tvg-id="2907" tvg-name="Rodnoe" tvg-logo="https://fe.tv.ucom.am/chnnl/fa/43/d0/93/c-4379-9839-494f8aba9e75.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/RODNOE/manifest.mpd?starttime={utc}&duration={duration}000",Rodnoe
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://fe.tv.ucom.am/timeline/RODNOE/manifest.mpd
