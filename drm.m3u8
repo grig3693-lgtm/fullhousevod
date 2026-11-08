@@ -11,7 +11,7 @@ https://fe.tv.ucom.am/timeline/FIRSTNEWS/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://mfe08.tv.ucom.am/timeline/BRIDGECLASSIC/manifest.mpd
-#EXTINF:-1 tvg-id="29070924" tvg-name="BRIDGEHITS" tvg-logo="https://fe.tv.ucom.am/chnnl/f3/d6/1d/25/a2f8-43b2-9372-f5dd7f75f252.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BRIDGETVHITS/manifest.mpd?starttime={utc}&duration={duration}000",Առաջինի լրատվական
+#EXTINF:-1 tvg-id="29070924" tvg-name="BRIDGEHITS" tvg-logo="https://fe.tv.ucom.am/chnnl/f3/d6/1d/25/a2f8-43b2-9372-f5dd7f75f252.png" group-title="Ucom" catchup="shift" catchup-days="7" catchup-source="https://fe.tv.ucom.am/timeline/BRIDGETVHITS/manifest.mpd?starttime={utc}&duration={duration}000",BRIDGETVHITS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/TUNTUNIK/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
 https://mfe08.tv.ucom.am/timeline/BRIDGETVHITS/manifest.mpd
