@@ -1,0 +1,533 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_1/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_2/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_3/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_4/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_5/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_6/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_7/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_7/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_8/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_8/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_9/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_9/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_10/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_10/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_11/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_11/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_12/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_12/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_13/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_13/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 14
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_14/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_14/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 15
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_15/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_15/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_16/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_16/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_17/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_17/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_18/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_18/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_19/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_19/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_20/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_20/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_21/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_21/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 22
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_22/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_22/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_23/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_23/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_24/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_24/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 25
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_25/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_25/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 26
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_26/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_26/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 1 - Սերիա 27
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_1_27/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_1_27/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_1/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_2/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_3/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_4/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_5/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_6/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_7/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_7/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_8/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_8/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_9/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_9/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_10/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_10/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_11/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_11/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_12/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_12/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_13/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_13/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 14
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_14/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_14/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 15
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_15/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_15/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_16/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_16/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_17/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_17/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_18/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_18/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_19/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_19/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_20/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_20/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_21/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_21/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 22
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_22/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_22/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_23/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_23/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 2 - Սերիա 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_2_24/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_2_24/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_1/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_2/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_3/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_4/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_5/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_6/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_7/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_7/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_8/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_8/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_9/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_9/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_10/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_10/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_11/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_11/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_12/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_12/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_13/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_13/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 14
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_14/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_14/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 15
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_15/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_15/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_16/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_16/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_17/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_17/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_18/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_18/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_19/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_19/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_20/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_20/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_21/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_21/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 22
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_22/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_22/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_23/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_23/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_24/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_24/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 25
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_25/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_25/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 26
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_26/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_26/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 27
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_27/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_27/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 28
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_28/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_28/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 29
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_29/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_29/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 30
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_30/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_30/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 31
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_31/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_31/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 32
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_32/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_32/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 3 - Սերիա 33
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_3_33/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_3_33/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_1/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_2/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_3/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_4/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_5/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_6/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_7/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_7/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_8/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_8/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_9/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_9/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_10/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_10/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_11/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_11/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_12/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_12/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_13/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_13/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 14
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_14/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_14/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 15
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_15/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_15/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_16/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_16/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_17/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_17/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_18/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_18/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_19/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_19/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_20/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_20/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_21/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_21/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 22
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_22/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_22/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_23/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_23/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 4 - Սերիա 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_4_24/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_4_24/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_1/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_2/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_3/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_4/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_5/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_6/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_7/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_7/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_8/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_8/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_9/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_9/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_10/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_10/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_11/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_11/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_12/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_12/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_13/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_13/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 14
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_14/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_14/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 15
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_15/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_15/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_16/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_16/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_17/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_17/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_18/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_18/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_19/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_19/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_20/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_20/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_21/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_21/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 22
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_22/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_22/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_23/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_23/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_24/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_24/playlist.mpd
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/tv-logos/main/VijuTV1000Russkoe.png", Ֆուլ հաուս - Եթերաշրջան 5 - Սերիա 25
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/full_house_5_25/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/full_house_5_25/playlist.mpd
