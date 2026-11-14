@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/dandaxzier.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/dandax_zier_1_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/dandax_zier_1_1/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/dandaxzier.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/dandax_zier_1_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/dandax_zier_1_2/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/dandaxzier.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/dandax_zier_1_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/dandax_zier_1_3/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/dandaxzier.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/dandax_zier_1_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/dandax_zier_1_4/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/dandaxzier.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/dandax_zier_1_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/dandax_zier_1_5/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/dandaxzier.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/dandax_zier_1_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/dandax_zier_1_6/playlist.mpd
+
