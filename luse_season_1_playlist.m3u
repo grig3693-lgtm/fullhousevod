@@ -1,0 +1,291 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_1/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_1/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_2/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_2/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_3/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_3/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_4/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_4/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_5/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_5/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_6/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_6/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_7/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_7/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_8/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_8/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_9/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_9/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 10
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_10/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_10/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_11/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_11/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_12/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_12/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 13
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_13/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_13/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 14
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_14/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_14/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 15
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_15/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_15/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_16/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_16/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 17
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_17/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_17/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 18
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_18/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_18/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 19
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_19/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_19/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 20
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_20/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_20/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 21
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_21/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_21/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 22
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_22/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_22/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 23
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_23/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_23/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 24
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_24/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_24/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 25
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_25/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_25/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 26
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_26/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_26/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 27
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_27/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_27/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 28
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_28/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_28/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 29
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_29/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_29/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 30
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_30/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_30/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 31
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_31/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_31/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 32
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_32/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_32/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 33
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_33/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_33/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 34
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_34/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_34/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 35
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_35/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_35/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_36/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_36/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 37
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_37/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_37/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 38
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_38/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_38/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 39
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_39/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_39/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 40
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_40/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_40/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 41
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_41/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_41/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 42
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_42/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_42/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 43
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_43/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_43/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 44
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_44/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_44/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 45
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_45/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_45/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 46
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_46/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_46/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 47
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_47/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_47/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 48
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_48/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_48/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 49
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_49/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_49/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 50
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_50/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_50/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 51
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_51/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_51/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 52
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_52/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_52/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 53
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_53/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_53/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 54
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_54/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_54/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 55
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_55/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_55/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 56
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_56/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_56/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 57
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_57/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_57/playlist.mpd
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/grig3693-lgtm/film-logos/main/luse.png", Դանդաղ ձիեր - Եթերաշրջան 1 - Սերիա 58
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fe.tv.ucom.am/udrm/wvfta/license|X-Udrm-Token=388f9e7e-7a02-4a83-af11-c71e70402641/luse_1_58/1793961219/ucom/026e285d44c17151b99eb38e23360e6fbe118b7c1ada33d788176069470f3490|
+https://mfe01.tv.ucom.am/vod/luse_1_58/playlist.mpd
+
