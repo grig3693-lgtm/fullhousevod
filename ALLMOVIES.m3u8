@@ -325,6 +325,9 @@ https://rumble.com/hls-vod/brIbZgV7Iz0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/632/thumbnail_THUMBNAIL.jpg", Վիշապ
 https://rumble.com/hls-vod/dRxaVCHhxJo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/1195/thumbnail_THUMBNAIL.jpg", Տատիկի գանձերը
+https://cdn.kinodaran.com/MEDIA/3/MOVIE/1195/16856/STREAM/HLS/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/thumbnail_THUMBNAIL.jpg", Տաքսի <<Էլի լավա>>
 https://cdn.kinodaran.com/MEDIA/3/MOVIE/412/10869/STREAM/HLS/playlist.m3u8
 
