@@ -2227,6 +2227,9 @@ https://shantpremium-vod-hls2.cdnvideo.ru/TRNVQKLSDGHBDMNHECDVFGTRJLH/TVTRVLIBQK
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/TV_TRAVEL_2SEASON_103_300X169.jpg" group-title="TV Travel 2 Եթերաշրջան", TV Travel 2 Եթերաշրջան - ﻿Թողարկում 103
 https://shantpremium-vod-hls2.cdnvideo.ru/TRNVQKLSDGHBDMNHECDVFGTRJLH/TVTRVLNLEFDHHHGEKUKJJWAKTEQ112.mp4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/TV_TRAVEL_2SEASON_PRAGUE_104_300X169.jpg" group-title="TV Travel 2 Եթերաշրջան", TV Travel 2 Եթերաշրջան - ﻿Թողարկում 104
+https://shantpremium-vod-hls2.cdnvideo.ru/TRNVQKLSDGHBDMNHECDVFGTRJLH/TVTRVLDBOCQPXVRZZQAYNRWRFZO113.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2020/09/WHY_WOMENS_WOMENS_1_300X169.jpg" group-title="WHY WOMENS WOMENS", WHY WOMENS WOMENS - ﻿Թողարկում 1
 https://shantpremium-vod-hls2.cdnvideo.ru/WAWOQPCMIEHGNVBVRTXZA/WAWOYXDYKWTQANGYAS01.mp4/index.m3u8
 
@@ -3394,8 +3397,14 @@ https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFR
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/X_FACTOR_KIDS_ORAGIR_06_300X169.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Օրագիր 6
 https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFRSTVLIEKVPJNMIIZCZRMCVRXO12.mp4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/X-FACTOR_KIDS_01_JUDGE_HOUSE_07_01_300X169.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Ժուրիի Տուն
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/X-FACTOR_KIDS_01_JUDGE_HOUSE_07_01_300X169.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Ժուրիի Տուն 1
 https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFRSTSSJWBXGBEADLXCBVCEKHBI13.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/X_FACTOR_KIDS_ORAGIR_07_300X169-1.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Օրագիր 7
+https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFRSTQRNSPVKXSZOGFEWQUWCLI14.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/X-FACTOR_KIDS_01_JUDGE_HOUSE_08_02_300X169.jpg" group-title="X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ", X-ՖԱԿՏՈՐ ՔԻԴՍ 1 ԵԹԵՐԱՇՐՋԱՆ - Ժուրիի Տուն 2
+https://shantpremium-vod-hls2.cdnvideo.ru/XFCTRKDSFRSTXCSDWERTFGVBYUH/XFCTRKDSFRSTDKCFCHFKMQKKWONADUOG15.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2023/01/PLUS_MINUS_23_EPISODE_01_300X169.jpg" group-title="±23", ±23 - Սերիա 1
 https://shantpremium-vod-hls2.cdnvideo.ru/RUMVNFJDHVKELHVNJIENVUEBNVK/PSMNSXKFMMLIDAZSYNVICXXSFQ01.mp4/index.m3u8
@@ -13599,6 +13608,12 @@ https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTGKE
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/BARI_GALUST_08_300X169.jpg" group-title="ԲԱՐԻ ԳԱԼՈՒՍՏ", ԲԱՐԻ ԳԱԼՈՒՍՏ - Սերիա 8
 https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTMRXBAYASFBYKBYHIWMXGR08.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/BARI_GALUST_09_300X169.jpg" group-title="ԲԱՐԻ ԳԱԼՈՒՍՏ", ԲԱՐԻ ԳԱԼՈՒՍՏ - Սերիա 9
+https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTDUOESVCXOPGNWVUJCKCYA09.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/BARI_GALUST_10_300X169.jpg" group-title="ԲԱՐԻ ԳԱԼՈՒՍՏ", ԲԱՐԻ ԳԱԼՈՒՍՏ - Սերիա 10
+https://shantpremium-vod-hls2.cdnvideo.ru/BRDGLSTTRGFBVYUJHMNOILKOPLZ/BRDGLSTAXSESVMEDFOIRLUHHFDONT10.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2025/01/BACAHAYTVAC_GORTSER_01_300X169.jpg" group-title="ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ", ԲԱՑԱՀԱՅՏՎԱԾ ԳՈՐԾԵՐ - Սերիա 1
 https://shantpremium-vod-hls2.cdnvideo.ru/BVCTEJCGOSJHSPJKWPKCJHWGIHW/CLRDCSSNVGKATLGHOVGBHHAJDNFV01.mp4/index.m3u8
@@ -45655,6 +45670,12 @@ https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNQF
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/SIRO_HANGUYC_52_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 52
 https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNDKRABRMRRMGXPYENZBCKQ52.mp4/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/SIRO_HANGUYC_53_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 53
+https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNELTLZWFFHNTGNLCSCSMLO53.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/SIRO_HANGUYC_54_300X169.jpg" group-title="ՍԻՐՈ ՀԱՆԳՈՒՅՑ", ՍԻՐՈ ՀԱՆԳՈՒՅՑ - Սերիա 54
+https://shantpremium-vod-hls2.cdnvideo.ru/SROHNGCRTFGBVEYHDNCQPOWEIUR/PRMBNDHNAIDULJCHXULEALBUFFRQR54.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2022/04/02.ADDICTED_TO_LOVE_300x169.jpg" group-title="ՍԻՐՈ ՄՈԼՈՒՑՔ", ՍԻՐՈ ՄՈԼՈՒՑՔ - ՍԻՐՈ ՄՈԼՈՒՑՔ
 https://shantpremium-vod-hls2.cdnvideo.ru/TUFIOWALJNLS/WARBRGRZLIQWLWZLHMKMDUPRYS150.mp4/index.m3u8
 
@@ -46647,6 +46668,12 @@ https://shantpremium-vod-hls2.cdnvideo.ru/VLVTNWRKALKSJDFHGVBNCXMQPOW/VLVTNWRKHR
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/VELVET_NEW_YORK_50_300X169.jpg" group-title="ՎԵԼՎԵԹ. ՆՅՈւ ՅՈՐՔ", ՎԵԼՎԵԹ. ՆՅՈւ ՅՈՐՔ - Սերիա 50
 https://shantpremium-vod-hls2.cdnvideo.ru/VLVTNWRKALKSJDFHGVBNCXMQPOW/VLVTNWRKFRAHLPDQKWVKGAIBRZVKPQ50.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/VELVET_NEW_YORK_51_300X169.jpg" group-title="ՎԵԼՎԵԹ. ՆՅՈւ ՅՈՐՔ", ՎԵԼՎԵԹ. ՆՅՈւ ՅՈՐՔ - Սերիա 51
+https://shantpremium-vod-hls2.cdnvideo.ru/VLVTNWRKALKSJDFHGVBNCXMQPOW/VLVTNWRKYOGLAFAYHORMLMGCPQEQX51.mp4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/11/VELVET_NEW_YORK_52_300X169.jpg" group-title="ՎԵԼՎԵԹ. ՆՅՈւ ՅՈՐՔ", ՎԵԼՎԵԹ. ՆՅՈւ ՅՈՐՔ - Սերիա 52
+https://shantpremium-vod-hls2.cdnvideo.ru/VLVTNWRKALKSJDFHGVBNCXMQPOW/VLVTNWRKNUVCGGVOGLBYIOPDAWKGH52.mp4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.shantdigitaltv.com/wp-content/uploads/2026/06/VERADARDZRU_KYANQS_01_300X169.jpg" group-title="ՎԵՐԱԴԱՐՁՐՈՒ ԿՅԱՆՔՍ", ՎԵՐԱԴԱՐՁՐՈՒ ԿՅԱՆՔՍ - Սերիա 1
 https://shantpremium-vod-hls2.cdnvideo.ru/VRDZKNQTYGHBNCVDFREQWSAXZPO/VRDZKNQUVTXYLXLVMVWGMZMCREKI01.mp4/index.m3u8
